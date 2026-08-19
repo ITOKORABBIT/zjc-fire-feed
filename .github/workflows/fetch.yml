@@ -1,16 +1,16 @@
 name: 抓取消防即時案件
 
+# ⚠️ 排程已停用。
+# 2026-08-19 實測：GitHub runner 連不到 119.hcfd.gov.tw（ConnectTimeout 10s），
+# Cloudflare Workers 也一樣（522）。消防局擋機房 IP，只有台灣一般網路連得到。
+# 改由老大電腦上的 Windows 工作排程「莊競程-消防即時案件」每 10 分鐘執行 fetch.mjs 並推上來。
+# 這裡只留手動觸發，方便日後對方放行時直接驗證是否恢復。
+
 on:
-  schedule:
-    - cron: '*/10 * * * *'   # 每 10 分鐘（GitHub 排程常有數分鐘延遲）
   workflow_dispatch:
 
 permissions:
   contents: write
-
-concurrency:
-  group: fetch
-  cancel-in-progress: false
 
 jobs:
   fetch:
