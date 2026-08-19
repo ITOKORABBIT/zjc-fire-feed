@@ -1,0 +1,89 @@
+{
+ "source": "新竹市消防局 即時案件",
+ "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
+ "fetchedAt": "2026-08-19T02:19:20.447Z",
+ "count": 9,
+ "items": [
+  {
+   "seq": 1,
+   "receivedAt": "2026-08-19T01:54:08.000Z",
+   "category": "其他",
+   "place": "新竹市東區新安路",
+   "unit": "委外廠商",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
+   "receivedAt": "2026-08-19T01:27:02.000Z",
+   "category": "其他",
+   "place": "新竹市",
+   "unit": "委外廠商",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 3,
+   "receivedAt": "2026-08-19T01:00:42.000Z",
+   "category": "其他",
+   "place": "新竹市北區東大路三段110巷",
+   "unit": "竹光分隊",
+   "status": "已返隊",
+   "state": "closed"
+  },
+  {
+   "seq": 4,
+   "receivedAt": "2026-08-19T00:36:09.000Z",
+   "category": "其他",
+   "place": "新竹市香山區瑞光街",
+   "unit": "委外廠商",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 5,
+   "receivedAt": "2026-08-19T00:14:53.000Z",
+   "category": "其他",
+   "place": "新竹市香山區浸水南街",
+   "unit": "委外廠商",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 6,
+   "receivedAt": "2026-08-19T00:14:53.000Z",
+   "category": "其他",
+   "place": "新竹市香山區瑞光街",
+   "unit": "委外廠商",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 7,
+   "receivedAt": "2026-08-18T23:56:39.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區中清路一段",
+   "unit": "中山分隊",
+   "status": "已返隊",
+   "state": "closed"
+  },
+  {
+   "seq": 8,
+   "receivedAt": "2026-08-18T08:53:18.000Z",
+   "category": "其他",
+   "place": "新竹市東區介壽路",
+   "unit": "委外廠商",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 9,
+   "receivedAt": "2026-08-18T02:41:59.000Z",
+   "category": "其他",
+   "place": "新竹市東區高峰路",
+   "unit": "委外廠商",
+   "status": "已派遣",
+   "state": "dispatched"
+  }
+ ]
+}
