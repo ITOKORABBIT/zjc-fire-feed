@@ -1,9 +1,9 @@
 /**
  * 從新竹市消防局即時案件頁抓資料，解析成 JSON 寫進 fire-cases.json。
  *
- * 為什麼要在 GitHub Actions 上跑：消防局伺服器（223.200.11.92）擋掉
- * Cloudflare 的 IP，網站所在的 Cloudflare Workers 直接 fetch 一律 522 逾時。
- * GitHub 的 runner 連得到，所以由這裡定期抓好，網站再讀這份 JSON。
+ * 來源是一頁 HTML 表格，沒有 JSON 介面也沒有跨來源存取標頭，
+ * 瀏覽器無法直接讀取，因此在這裡定時抓取並解析成結構化資料，
+ * 網站再讀這份轉存結果。只取用該頁面公開顯示的欄位。
  */
 import { writeFile } from 'node:fs/promises';
 
