@@ -1,11 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-19T08:00:02.101Z",
+ "fetchedAt": "2026-08-19T08:10:02.100Z",
  "count": 16,
  "items": [
   {
+   "seq": 2,
+   "receivedAt": "2026-08-19T08:03:01.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區力行三路",
+   "unit": "金山分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
    "seq": 1,
+   "receivedAt": "2026-08-19T08:02:32.000Z",
+   "category": "火災",
+   "place": "新竹市香山區西濱路六段",
+   "unit": "朝山分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-08-19T07:42:27.000Z",
    "category": "其他",
    "place": "新竹市香山區牛埔東路526巷",
@@ -14,7 +32,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 2,
+   "seq": 4,
    "receivedAt": "2026-08-19T07:35:21.000Z",
    "category": "緊急救護",
    "place": "新竹市北區湳雅街",
@@ -23,7 +41,7 @@
    "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 5,
    "receivedAt": "2026-08-19T07:30:17.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區中華路五段420巷",
@@ -32,7 +50,7 @@
    "state": "unknown"
   },
   {
-   "seq": 4,
+   "seq": 6,
    "receivedAt": "2026-08-19T07:26:16.000Z",
    "category": "緊急救護",
    "place": "新竹市東區高峰路30巷3弄",
@@ -41,31 +59,13 @@
    "state": "returning"
   },
   {
-   "seq": 5,
+   "seq": 7,
    "receivedAt": "2026-08-19T07:25:21.000Z",
    "category": "其他",
    "place": "新竹市北區南寮分隊[東大路三段",
    "unit": "委外廠商",
    "status": "已派遣",
    "state": "dispatched"
-  },
-  {
-   "seq": 6,
-   "receivedAt": "2026-08-19T07:19:41.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區信義街",
-   "unit": "光復分隊",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 7,
-   "receivedAt": "2026-08-19T07:18:26.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區林森路",
-   "unit": "中山分隊",
-   "status": "已返隊",
-   "state": "closed"
   },
   {
    "seq": 8,
