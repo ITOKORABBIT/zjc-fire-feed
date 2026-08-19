@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-19T05:50:01.986Z",
- "count": 15,
+ "fetchedAt": "2026-08-19T06:00:01.981Z",
+ "count": 13,
  "items": [
   {
    "seq": 1,
@@ -19,29 +19,20 @@
    "category": "緊急救護",
    "place": "新竹市北區北大路",
    "unit": "香山分隊",
-   "status": "已出動",
-   "state": "dispatched"
-  },
-  {
-   "seq": 3,
-   "receivedAt": "2026-08-19T05:32:26.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區中清路一段和延平路三段392巷",
-   "unit": "南寮分隊",
-   "status": "已到達",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
-   "seq": 4,
+   "seq": 3,
    "receivedAt": "2026-08-19T05:28:59.000Z",
    "category": "緊急救護",
    "place": "新竹市北區北新街23巷",
    "unit": "竹光分隊",
-   "status": "已到達",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
-   "seq": 5,
+   "seq": 4,
    "receivedAt": "2026-08-19T05:27:50.000Z",
    "category": "緊急救護",
    "place": "新竹市東區介壽路",
@@ -50,7 +41,7 @@
    "state": "unknown"
   },
   {
-   "seq": 6,
+   "seq": 5,
    "receivedAt": "2026-08-19T05:17:46.000Z",
    "category": "其他",
    "place": "新竹市東區工業東一路",
@@ -59,7 +50,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 7,
+   "seq": 6,
    "receivedAt": "2026-08-19T04:41:04.000Z",
    "category": "緊急救護",
    "place": "新竹市東區明湖路",
@@ -68,16 +59,7 @@
    "state": "unknown"
   },
   {
-   "seq": 8,
-   "receivedAt": "2026-08-19T04:31:59.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區南港街101巷23弄",
-   "unit": "朝山分隊",
-   "status": "已到達",
-   "state": "unknown"
-  },
-  {
-   "seq": 9,
+   "seq": 7,
    "receivedAt": "2026-08-19T04:11:54.000Z",
    "category": "其他",
    "place": "新竹市北區湳雅街311巷",
@@ -86,7 +68,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 10,
+   "seq": 8,
    "receivedAt": "2026-08-19T04:10:03.000Z",
    "category": "其他",
    "place": "新竹市香山區中華路六段687巷",
@@ -95,7 +77,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 11,
+   "seq": 9,
    "receivedAt": "2026-08-19T03:20:42.000Z",
    "category": "其他",
    "place": "新竹市香山區中華路六段647巷31弄",
@@ -104,7 +86,7 @@
    "state": "unknown"
   },
   {
-   "seq": 12,
+   "seq": 10,
    "receivedAt": "2026-08-19T01:54:08.000Z",
    "category": "其他",
    "place": "新竹市東區新安路",
@@ -113,7 +95,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 13,
+   "seq": 11,
    "receivedAt": "2026-08-19T01:00:42.000Z",
    "category": "其他",
    "place": "新竹市北區東大路三段110巷",
@@ -122,7 +104,7 @@
    "state": "closed"
   },
   {
-   "seq": 14,
+   "seq": 12,
    "receivedAt": "2026-08-19T00:36:09.000Z",
    "category": "其他",
    "place": "新竹市香山區瑞光街",
@@ -131,7 +113,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 15,
+   "seq": 13,
    "receivedAt": "2026-08-18T08:53:18.000Z",
    "category": "其他",
    "place": "新竹市東區介壽路",
