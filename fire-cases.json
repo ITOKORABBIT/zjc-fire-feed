@@ -1,15 +1,15 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-19T12:10:02.220Z",
+ "fetchedAt": "2026-08-19T12:20:02.250Z",
  "count": 4,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-08-19T12:01:02.000Z",
+   "receivedAt": "2026-08-19T12:10:25.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區中央路",
-   "unit": "中山分隊",
+   "place": "新竹市東區民生路222巷27弄",
+   "unit": "三民分隊",
    "status": "已到達",
    "state": "unknown"
   },
