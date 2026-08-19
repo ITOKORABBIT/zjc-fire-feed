@@ -1,7 +1,7 @@
 @echo off
 rem Fetch Hsinchu fire dispatch cases and push to GitHub.
 rem Called every 10 min by Windows Task Scheduler via run-hidden.vbs.
-rem Why local: 119.hcfd.gov.tw blocks datacenter IPs (Cloudflare / GitHub runners).
+rem Runs on this machine because the source page is reachable from here.
 rem See README.md for details.
 cd /d "%~dp0"
 node fetch.mjs >> fetch.log 2>&1
