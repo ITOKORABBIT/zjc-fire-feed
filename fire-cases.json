@@ -1,11 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-19T07:10:01.985Z",
- "count": 10,
+ "fetchedAt": "2026-08-19T07:20:02.032Z",
+ "count": 12,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-08-19T07:17:26.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區林森路200巷",
+   "unit": "中山分隊",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
+   "receivedAt": "2026-08-19T07:14:25.000Z",
+   "category": "其他",
+   "place": "新竹市香山區大庄路和中華路五段",
+   "unit": "委外廠商",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-08-19T06:54:22.000Z",
    "category": "火災",
    "place": "新竹市香山區牛埔東路",
@@ -14,7 +32,7 @@
    "state": "returning"
   },
   {
-   "seq": 2,
+   "seq": 4,
    "receivedAt": "2026-08-19T05:47:42.000Z",
    "category": "其他",
    "place": "新竹市香山區中華路五段489巷",
@@ -23,7 +41,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 3,
+   "seq": 5,
    "receivedAt": "2026-08-19T05:17:46.000Z",
    "category": "其他",
    "place": "新竹市東區工業東一路",
@@ -32,7 +50,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 4,
+   "seq": 6,
    "receivedAt": "2026-08-19T04:11:54.000Z",
    "category": "其他",
    "place": "新竹市北區湳雅街311巷",
@@ -41,7 +59,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 5,
+   "seq": 7,
    "receivedAt": "2026-08-19T04:10:03.000Z",
    "category": "其他",
    "place": "新竹市香山區中華路六段687巷",
@@ -50,7 +68,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 6,
+   "seq": 8,
    "receivedAt": "2026-08-19T03:20:42.000Z",
    "category": "其他",
    "place": "新竹市香山區中華路六段647巷31弄",
@@ -59,7 +77,7 @@
    "state": "unknown"
   },
   {
-   "seq": 7,
+   "seq": 9,
    "receivedAt": "2026-08-19T01:54:08.000Z",
    "category": "其他",
    "place": "新竹市東區新安路",
@@ -68,7 +86,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 8,
+   "seq": 10,
    "receivedAt": "2026-08-19T01:00:42.000Z",
    "category": "其他",
    "place": "新竹市北區東大路三段110巷",
@@ -77,7 +95,7 @@
    "state": "closed"
   },
   {
-   "seq": 9,
+   "seq": 11,
    "receivedAt": "2026-08-19T00:36:09.000Z",
    "category": "其他",
    "place": "新竹市香山區瑞光街",
@@ -86,7 +104,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 10,
+   "seq": 12,
    "receivedAt": "2026-08-18T08:53:18.000Z",
    "category": "其他",
    "place": "新竹市東區介壽路",
