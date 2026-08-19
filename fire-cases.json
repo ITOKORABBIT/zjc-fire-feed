@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-19T18:30:01.482Z",
- "count": 1,
+ "fetchedAt": "2026-08-19T18:40:01.496Z",
+ "count": 2,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-08-19T18:35:24.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區柴橋路59巷",
+   "unit": "明湖分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-08-19T12:28:18.000Z",
    "category": "其他",
    "place": "新竹市東區安富街",
