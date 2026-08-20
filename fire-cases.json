@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-20T22:50:01.896Z",
- "count": 3,
+ "fetchedAt": "2026-08-20T23:00:01.908Z",
+ "count": 4,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-08-20T22:57:47.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區港北六街",
+   "unit": "南寮分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-08-20T22:43:24.000Z",
    "category": "緊急救護",
    "place": "新竹市東區建功一路47巷",
@@ -14,7 +23,7 @@
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-08-20T22:10:11.000Z",
    "category": "緊急救護",
    "place": "新竹市東區建功一路59巷",
@@ -23,7 +32,7 @@
    "state": "closed"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-08-20T09:22:44.000Z",
    "category": "其他",
    "place": "新竹市香山區中華路五段912巷5弄",
