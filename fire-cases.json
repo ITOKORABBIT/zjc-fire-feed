@@ -1,38 +1,47 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-20T07:20:02.161Z",
- "count": 9,
+ "fetchedAt": "2026-08-20T07:30:02.143Z",
+ "count": 10,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-08-20T07:24:59.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區東大路一段",
+   "unit": "三民分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-08-20T07:00:37.000Z",
    "category": "緊急救護",
    "place": "新竹市東區中華路一段",
    "unit": "三民分隊",
-   "status": "已到達",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-08-20T06:53:48.000Z",
    "category": "緊急救護",
    "place": "新竹市北區西大路",
    "unit": "中山分隊",
-   "status": "已到達",
-   "state": "unknown"
-  },
-  {
-   "seq": 3,
-   "receivedAt": "2026-08-20T06:53:06.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區東大路四段",
-   "unit": "南寮分隊",
    "status": "送醫中",
    "state": "unknown"
   },
   {
    "seq": 4,
+   "receivedAt": "2026-08-20T06:53:06.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區東大路四段",
+   "unit": "南寮分隊",
+   "status": "已到院",
+   "state": "unknown"
+  },
+  {
+   "seq": 5,
    "receivedAt": "2026-08-20T06:50:37.000Z",
    "category": "緊急救護",
    "place": "新竹市東區新莊街",
@@ -41,25 +50,25 @@
    "state": "unknown"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-08-20T06:33:11.000Z",
    "category": "緊急救護",
    "place": "新竹市東區大學路",
    "unit": "埔頂分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-08-20T06:30:09.000Z",
    "category": "緊急救護",
    "place": "新竹市北區武陵路73巷",
    "unit": "竹光分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 7,
+   "seq": 8,
    "receivedAt": "2026-08-20T06:17:59.000Z",
    "category": "其他",
    "place": "新竹市東區博愛街",
@@ -68,7 +77,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 8,
+   "seq": 9,
    "receivedAt": "2026-08-20T05:33:27.000Z",
    "category": "其他",
    "place": "新竹市東區東南街53巷10弄",
@@ -77,7 +86,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 9,
+   "seq": 10,
    "receivedAt": "2026-08-20T01:09:08.000Z",
    "category": "其他",
    "place": "新竹市東區南大路748巷3弄",
