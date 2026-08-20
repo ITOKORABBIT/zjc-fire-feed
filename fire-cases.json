@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-20T19:30:01.819Z",
- "count": 9,
+ "fetchedAt": "2026-08-20T19:40:01.741Z",
+ "count": 4,
  "items": [
   {
    "seq": 1,
@@ -10,7 +10,7 @@
    "category": "緊急救護",
    "place": "新竹市香山區中華路五段320巷46弄",
    "unit": "朝山分隊",
-   "status": "送醫中",
+   "status": "已到院",
    "state": "unknown"
   },
   {
@@ -19,38 +19,11 @@
    "category": "緊急救護",
    "place": "新竹市東區體育街",
    "unit": "光復分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 3,
-   "receivedAt": "2026-08-20T18:23:11.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區牛埔東路150巷",
-   "unit": "香山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 4,
-   "receivedAt": "2026-08-20T18:00:36.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區三民路",
-   "unit": "三民分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 5,
-   "receivedAt": "2026-08-20T16:41:30.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區中華路五段320巷46弄",
-   "unit": "朝山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 6,
    "receivedAt": "2026-08-20T16:38:47.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區牛埔東路",
@@ -59,25 +32,7 @@
    "state": "closed"
   },
   {
-   "seq": 7,
-   "receivedAt": "2026-08-20T16:23:58.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區金雅七街",
-   "unit": "竹光分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 8,
-   "receivedAt": "2026-08-20T16:04:47.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區高峰路30巷3弄",
-   "unit": "明湖分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 9,
+   "seq": 4,
    "receivedAt": "2026-08-20T09:22:44.000Z",
    "category": "其他",
    "place": "新竹市香山區中華路五段912巷5弄",
