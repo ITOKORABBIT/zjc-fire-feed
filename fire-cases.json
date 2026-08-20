@@ -1,24 +1,24 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-20T22:40:01.890Z",
+ "fetchedAt": "2026-08-20T22:50:01.896Z",
  "count": 3,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-08-20T22:10:11.000Z",
+   "receivedAt": "2026-08-20T22:43:24.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區建功一路59巷",
+   "place": "新竹市東區建功一路47巷",
    "unit": "埔頂分隊",
-   "status": "已到院",
+   "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-08-20T21:27:48.000Z",
+   "receivedAt": "2026-08-20T22:10:11.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區東大路四段189巷",
-   "unit": "南寮分隊",
+   "place": "新竹市東區建功一路59巷",
+   "unit": "埔頂分隊",
    "status": "已返隊",
    "state": "closed"
   },
