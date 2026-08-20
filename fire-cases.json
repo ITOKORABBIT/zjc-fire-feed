@@ -1,11 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-20T08:30:02.177Z",
- "count": 7,
+ "fetchedAt": "2026-08-20T08:40:02.205Z",
+ "count": 9,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-08-20T08:37:57.000Z",
+   "category": "其他",
+   "place": "新竹市北區南勢街",
+   "unit": "委外廠商",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
+   "receivedAt": "2026-08-20T08:36:06.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區",
+   "unit": "明湖分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-08-20T08:25:56.000Z",
    "category": "其他",
    "place": "新竹市北區西大路",
@@ -14,7 +32,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 2,
+   "seq": 4,
    "receivedAt": "2026-08-20T07:42:59.000Z",
    "category": "其他",
    "place": "新竹市東區金山八街",
@@ -23,7 +41,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 3,
+   "seq": 5,
    "receivedAt": "2026-08-20T06:53:06.000Z",
    "category": "緊急救護",
    "place": "新竹市北區東大路四段",
@@ -32,7 +50,7 @@
    "state": "closed"
   },
   {
-   "seq": 4,
+   "seq": 6,
    "receivedAt": "2026-08-20T06:50:37.000Z",
    "category": "緊急救護",
    "place": "新竹市東區新莊街",
@@ -41,31 +59,31 @@
    "state": "closed"
   },
   {
-   "seq": 5,
+   "seq": 7,
    "receivedAt": "2026-08-20T06:17:59.000Z",
    "category": "其他",
    "place": "新竹市東區博愛街",
    "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
-   "seq": 6,
+   "seq": 8,
    "receivedAt": "2026-08-20T05:33:27.000Z",
    "category": "其他",
    "place": "新竹市東區東南街53巷10弄",
    "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
-   "seq": 7,
+   "seq": 9,
    "receivedAt": "2026-08-20T01:09:08.000Z",
    "category": "其他",
    "place": "新竹市東區南大路748巷3弄",
    "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
+   "status": "返隊中",
+   "state": "returning"
   }
  ]
 }
