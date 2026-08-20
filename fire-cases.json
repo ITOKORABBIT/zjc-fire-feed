@@ -1,43 +1,43 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-20T09:20:02.227Z",
- "count": 13,
+ "fetchedAt": "2026-08-20T09:30:02.225Z",
+ "count": 11,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-08-20T09:17:28.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區龍山東路",
-   "unit": "金山分隊",
-   "status": "已出動",
+   "receivedAt": "2026-08-20T09:22:44.000Z",
+   "category": "其他",
+   "place": "新竹市香山區中華路五段912巷5弄",
+   "unit": "委外廠商",
+   "status": "已派遣",
    "state": "dispatched"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-08-20T08:57:57.000Z",
+   "receivedAt": "2026-08-20T09:17:28.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區千甲路360巷",
-   "unit": "埔頂分隊",
-   "status": "送醫中",
+   "place": "新竹市東區龍山東路",
+   "unit": "金山分隊",
+   "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 3,
+   "receivedAt": "2026-08-20T08:57:57.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區千甲路360巷",
+   "unit": "埔頂分隊",
+   "status": "已到院",
+   "state": "unknown"
+  },
+  {
+   "seq": 4,
    "receivedAt": "2026-08-20T08:51:42.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區五福路一段555巷",
    "unit": "朝山分隊,香山分隊",
    "status": "送醫中",
-   "state": "unknown"
-  },
-  {
-   "seq": 4,
-   "receivedAt": "2026-08-20T08:46:11.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區經國路一段",
-   "unit": "中山分隊",
-   "status": "已到院",
    "state": "unknown"
   },
   {
@@ -73,8 +73,8 @@
    "category": "緊急救護",
    "place": "新竹市東區",
    "unit": "明湖分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
    "seq": 9,
@@ -99,24 +99,6 @@
    "receivedAt": "2026-08-20T06:17:59.000Z",
    "category": "其他",
    "place": "新竹市東區博愛街",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 12,
-   "receivedAt": "2026-08-20T05:33:27.000Z",
-   "category": "其他",
-   "place": "新竹市東區東南街53巷10弄",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 13,
-   "receivedAt": "2026-08-20T01:09:08.000Z",
-   "category": "其他",
-   "place": "新竹市東區南大路748巷3弄",
    "unit": "委外廠商",
    "status": "返隊中",
    "state": "returning"
