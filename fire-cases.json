@@ -1,7 +1,7 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-20T19:40:01.741Z",
+ "fetchedAt": "2026-08-20T19:50:01.750Z",
  "count": 4,
  "items": [
   {
@@ -19,8 +19,8 @@
    "category": "緊急救護",
    "place": "新竹市東區體育街",
    "unit": "光復分隊",
-   "status": "返隊中",
-   "state": "returning"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
    "seq": 3,
