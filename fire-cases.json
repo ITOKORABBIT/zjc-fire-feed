@@ -1,29 +1,38 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-21T16:10:02.209Z",
- "count": 3,
+ "fetchedAt": "2026-08-21T16:20:02.402Z",
+ "count": 4,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-08-21T15:09:41.000Z",
+   "receivedAt": "2026-08-21T16:18:45.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區東大路二段173巷25弄",
-   "unit": "竹光分隊",
-   "status": "已返隊",
-   "state": "closed"
+   "place": "新竹市東區力行路",
+   "unit": "埔頂分隊",
+   "status": "已派遣",
+   "state": "dispatched"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-08-21T15:07:59.000Z",
+   "receivedAt": "2026-08-21T16:14:42.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區延平路三段",
-   "unit": "南寮分隊",
-   "status": "已返隊",
-   "state": "closed"
+   "place": "新竹市北區延平路一段",
+   "unit": "竹光分隊",
+   "status": "送醫中",
+   "state": "unknown"
   },
   {
    "seq": 3,
+   "receivedAt": "2026-08-21T16:14:11.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區金山二十三街32巷",
+   "unit": "金山分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 4,
    "receivedAt": "2026-08-21T09:14:54.000Z",
    "category": "其他",
    "place": "新竹市香山區福樹街",
