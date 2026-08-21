@@ -1,20 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-21T04:20:02.105Z",
+ "fetchedAt": "2026-08-21T04:30:01.821Z",
  "count": 13,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-08-21T04:23:59.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區東大路三段",
+   "unit": "三民分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-08-21T04:12:49.000Z",
    "category": "緊急救護",
    "place": "新竹市北區中山路",
    "unit": "竹光分隊",
-   "status": "已到達",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-08-21T03:52:11.000Z",
    "category": "緊急救護",
    "place": "新竹市東區",
@@ -23,25 +32,25 @@
    "state": "returning"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-08-21T03:52:04.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區延平路二段331巷",
    "unit": "中山分隊",
-   "status": "已到達",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-08-21T03:49:55.000Z",
    "category": "緊急救護",
    "place": "新竹市東區學府路",
    "unit": "埔頂分隊",
-   "status": "送醫中",
+   "status": "已到院",
    "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-08-21T03:49:52.000Z",
    "category": "其他",
    "place": "新竹市香山區茄苳路27巷",
@@ -50,7 +59,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-08-21T03:44:00.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區長興街201巷",
@@ -59,20 +68,11 @@
    "state": "unknown"
   },
   {
-   "seq": 7,
+   "seq": 8,
    "receivedAt": "2026-08-21T03:35:46.000Z",
    "category": "緊急救護",
    "place": "新竹市東區經國路一段",
    "unit": "三民分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 8,
-   "receivedAt": "2026-08-21T03:32:11.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區公園路",
-   "unit": "光復分隊",
    "status": "已返隊",
    "state": "closed"
   },
@@ -82,8 +82,8 @@
    "category": "緊急救護",
    "place": "新竹市香山區育德街",
    "unit": "香山分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
    "seq": 10,
