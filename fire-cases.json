@@ -1,7 +1,7 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-21T14:20:02.159Z",
+ "fetchedAt": "2026-08-21T14:30:02.122Z",
  "count": 5,
  "items": [
   {
@@ -10,7 +10,7 @@
    "category": "緊急救護",
    "place": "新竹市東區明湖路648巷18弄",
    "unit": "明湖分隊",
-   "status": "已到達",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
