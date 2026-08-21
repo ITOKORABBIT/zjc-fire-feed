@@ -1,7 +1,7 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-21T15:10:32.625Z",
+ "fetchedAt": "2026-08-21T15:20:02.331Z",
  "count": 6,
  "items": [
   {
@@ -10,8 +10,8 @@
    "category": "緊急救護",
    "place": "新竹市北區東大路二段173巷25弄",
    "unit": "竹光分隊",
-   "status": "已派遣",
-   "state": "dispatched"
+   "status": "已到達",
+   "state": "unknown"
   },
   {
    "seq": 2,
@@ -19,8 +19,8 @@
    "category": "緊急救護",
    "place": "新竹市北區延平路三段",
    "unit": "南寮分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "已到達",
+   "state": "unknown"
   },
   {
    "seq": 3,
@@ -37,8 +37,8 @@
    "category": "其他",
    "place": "新竹市香山區經國路三段103巷",
    "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 5,
@@ -46,8 +46,8 @@
    "category": "其他",
    "place": "新竹市東區高峰路386巷71弄",
    "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 6,
