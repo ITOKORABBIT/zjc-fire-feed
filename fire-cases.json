@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-21T15:50:02.178Z",
- "count": 6,
+ "fetchedAt": "2026-08-21T16:00:03.084Z",
+ "count": 5,
  "items": [
   {
    "seq": 1,
@@ -19,20 +19,11 @@
    "category": "緊急救護",
    "place": "新竹市北區延平路三段",
    "unit": "南寮分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 3,
-   "receivedAt": "2026-08-21T14:03:59.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區明湖路648巷18弄",
-   "unit": "明湖分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 4,
    "receivedAt": "2026-08-21T13:53:30.000Z",
    "category": "其他",
    "place": "新竹市香山區經國路三段103巷",
@@ -41,7 +32,7 @@
    "state": "returning"
   },
   {
-   "seq": 5,
+   "seq": 4,
    "receivedAt": "2026-08-21T13:30:44.000Z",
    "category": "其他",
    "place": "新竹市東區高峰路386巷71弄",
@@ -50,7 +41,7 @@
    "state": "returning"
   },
   {
-   "seq": 6,
+   "seq": 5,
    "receivedAt": "2026-08-21T09:14:54.000Z",
    "category": "其他",
    "place": "新竹市香山區福樹街",
