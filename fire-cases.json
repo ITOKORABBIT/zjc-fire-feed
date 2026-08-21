@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-21T05:40:01.738Z",
- "count": 8,
+ "fetchedAt": "2026-08-21T05:50:01.725Z",
+ "count": 7,
  "items": [
   {
    "seq": 1,
@@ -19,8 +19,8 @@
    "category": "緊急救護",
    "place": "新竹市東區高峰路325巷8弄",
    "unit": "明湖分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "送醫中",
+   "state": "unknown"
   },
   {
    "seq": 3,
@@ -28,8 +28,8 @@
    "category": "緊急救護",
    "place": "新竹市東區建功一路",
    "unit": "埔頂分隊",
-   "status": "已到達",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
    "seq": 4,
@@ -42,15 +42,6 @@
   },
   {
    "seq": 5,
-   "receivedAt": "2026-08-21T04:37:57.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區關東路",
-   "unit": "金山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 6,
    "receivedAt": "2026-08-21T02:16:39.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路648巷18弄",
@@ -59,7 +50,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 7,
+   "seq": 6,
    "receivedAt": "2026-08-21T00:21:25.000Z",
    "category": "其他",
    "place": "新竹市香山區牛埔路346巷",
@@ -68,7 +59,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 8,
+   "seq": 7,
    "receivedAt": "2026-08-20T09:22:44.000Z",
    "category": "其他",
    "place": "新竹市香山區中華路五段912巷5弄",
