@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-22T16:40:02.178Z",
- "count": 1,
+ "fetchedAt": "2026-08-22T16:50:02.073Z",
+ "count": 2,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-08-22T16:40:21.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區金山十一街",
+   "unit": "金山分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-08-22T14:48:42.000Z",
    "category": "其他",
    "place": "新竹市東區東區關埔重劃區新開道路",
