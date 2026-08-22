@@ -1,29 +1,38 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-22T22:50:02.389Z",
- "count": 6,
+ "fetchedAt": "2026-08-22T23:00:02.389Z",
+ "count": 7,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-08-22T22:54:31.000Z",
+   "category": "緊急救護",
+   "place": "新竹市香山區中華路五段420巷73弄",
+   "unit": "朝山分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-08-22T22:32:49.000Z",
    "category": "緊急救護",
    "place": "新竹市東區錦華街",
    "unit": "光復分隊",
-   "status": "已到達",
-   "state": "unknown"
-  },
-  {
-   "seq": 2,
-   "receivedAt": "2026-08-22T22:31:25.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區中華路二段",
-   "unit": "三民分隊",
-   "status": "送醫中",
+   "status": "已到院",
    "state": "unknown"
   },
   {
    "seq": 3,
+   "receivedAt": "2026-08-22T22:31:25.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區中華路二段",
+   "unit": "三民分隊",
+   "status": "已到院",
+   "state": "unknown"
+  },
+  {
+   "seq": 4,
    "receivedAt": "2026-08-22T22:17:14.000Z",
    "category": "緊急救護",
    "place": "新竹市東區金城一路",
@@ -32,7 +41,7 @@
    "state": "unknown"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-08-22T22:09:49.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區頂埔路22巷",
@@ -41,7 +50,7 @@
    "state": "closed"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-08-22T21:47:19.000Z",
    "category": "緊急救護",
    "place": "新竹市北區四維路89巷",
@@ -50,7 +59,7 @@
    "state": "closed"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-08-22T14:48:42.000Z",
    "category": "其他",
    "place": "新竹市東區東區關埔重劃區新開道路",
