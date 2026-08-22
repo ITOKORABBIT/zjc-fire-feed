@@ -1,7 +1,7 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-22T19:10:02.398Z",
+ "fetchedAt": "2026-08-22T19:20:02.612Z",
  "count": 2,
  "items": [
   {
@@ -10,7 +10,7 @@
    "category": "緊急救護",
    "place": "新竹市東區南大路",
    "unit": "光復分隊",
-   "status": "已到達",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
