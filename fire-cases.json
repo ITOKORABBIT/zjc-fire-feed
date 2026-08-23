@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-23T05:30:01.691Z",
+ "fetchedAt": "2026-08-23T05:40:01.721Z",
  "count": 7,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-08-23T05:31:15.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區赤土崎二街",
+   "unit": "埔頂分隊",
+   "status": "已返隊",
+   "state": "closed"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-08-23T05:24:42.000Z",
    "category": "緊急救護",
    "place": "新竹市東區竹蓮街",
@@ -14,13 +23,13 @@
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-08-23T05:20:22.000Z",
    "category": "緊急救護",
    "place": "新竹市北區武陵路70巷",
    "unit": "三民分隊",
-   "status": "已到達",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 4,
@@ -30,15 +39,6 @@
    "unit": "委外廠商",
    "status": "已派遣",
    "state": "dispatched"
-  },
-  {
-   "seq": 3,
-   "receivedAt": "2026-08-23T04:38:26.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區東山街",
-   "unit": "中山分隊",
-   "status": "已返隊",
-   "state": "closed"
   },
   {
    "seq": 5,
