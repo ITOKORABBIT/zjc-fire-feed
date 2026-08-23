@@ -1,20 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-23T19:40:02.434Z",
- "count": 4,
+ "fetchedAt": "2026-08-23T19:50:02.437Z",
+ "count": 5,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-08-23T19:48:04.000Z",
+   "category": "緊急救護",
+   "place": "新竹市香山區五福路一段",
+   "unit": "明湖分隊",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-08-23T19:30:40.000Z",
    "category": "緊急救護",
    "place": "新竹市北區東大路三段110巷",
    "unit": "竹光分隊",
-   "status": "已到達",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-08-23T18:53:34.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區中華路五段",
@@ -23,7 +32,7 @@
    "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-08-23T18:41:21.000Z",
    "category": "緊急救護",
    "place": "新竹市東區高峰路30巷3弄",
@@ -32,7 +41,7 @@
    "state": "closed"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-08-23T09:46:30.000Z",
    "category": "其他",
    "place": "新竹市香山區中華路五段912巷5弄",
