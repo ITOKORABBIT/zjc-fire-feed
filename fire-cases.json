@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-23T00:20:01.493Z",
- "count": 6,
+ "fetchedAt": "2026-08-23T00:30:01.472Z",
+ "count": 5,
  "items": [
   {
    "seq": 1,
@@ -19,7 +19,7 @@
    "category": "緊急救護",
    "place": "新竹市北區和平路",
    "unit": "竹光分隊",
-   "status": "已到達",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
@@ -37,20 +37,11 @@
    "category": "緊急救護",
    "place": "新竹市東區關東路58巷",
    "unit": "金山分隊",
-   "status": "送醫中",
+   "status": "已到院",
    "state": "unknown"
   },
   {
    "seq": 5,
-   "receivedAt": "2026-08-22T22:54:31.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區中華路五段420巷73弄",
-   "unit": "朝山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 6,
    "receivedAt": "2026-08-22T14:48:42.000Z",
    "category": "其他",
    "place": "新竹市東區東區關埔重劃區新開道路",
