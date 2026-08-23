@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-23T16:00:02.364Z",
- "count": 12,
+ "fetchedAt": "2026-08-23T16:10:02.619Z",
+ "count": 5,
  "items": [
   {
    "seq": 1,
@@ -37,8 +37,8 @@
    "category": "緊急救護",
    "place": "新竹市北區城北街137巷1弄",
    "unit": "竹光分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
    "seq": 5,
@@ -48,69 +48,6 @@
    "unit": "委外廠商",
    "status": "已派遣",
    "state": "dispatched"
-  },
-  {
-   "seq": 6,
-   "receivedAt": "2026-08-23T09:26:40.000Z",
-   "category": "其他",
-   "place": "新竹市東區建功二路66巷",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 7,
-   "receivedAt": "2026-08-23T08:21:06.000Z",
-   "category": "其他",
-   "place": "新竹市東區經國路一段",
-   "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
-  },
-  {
-   "seq": 8,
-   "receivedAt": "2026-08-23T07:11:26.000Z",
-   "category": "其他",
-   "place": "新竹市香山區牛埔南路142巷",
-   "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
-  },
-  {
-   "seq": 9,
-   "receivedAt": "2026-08-23T07:03:10.000Z",
-   "category": "其他",
-   "place": "新竹市香山區長興街262巷",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 10,
-   "receivedAt": "2026-08-23T06:41:16.000Z",
-   "category": "其他",
-   "place": "新竹市香山區牛埔路",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 11,
-   "receivedAt": "2026-08-23T06:33:36.000Z",
-   "category": "其他",
-   "place": "新竹市東區鐵道路一段28巷",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 12,
-   "receivedAt": "2026-08-23T06:09:44.000Z",
-   "category": "其他",
-   "place": "新竹市東區光復路二段",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
   }
  ]
 }
