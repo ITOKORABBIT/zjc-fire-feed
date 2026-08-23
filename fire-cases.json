@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-23T04:00:01.618Z",
- "count": 6,
+ "fetchedAt": "2026-08-23T04:10:01.633Z",
+ "count": 5,
  "items": [
   {
    "seq": 1,
@@ -19,7 +19,7 @@
    "category": "緊急救護",
    "place": "新竹市北區湳雅街311巷",
    "unit": "三民分隊",
-   "status": "已到達",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
@@ -28,20 +28,11 @@
    "category": "緊急救護",
    "place": "新竹市北區西門街",
    "unit": "中山分隊",
-   "status": "已到院",
-   "state": "unknown"
-  },
-  {
-   "seq": 4,
-   "receivedAt": "2026-08-23T03:02:44.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區太原路",
-   "unit": "光復分隊",
    "status": "已返隊",
    "state": "closed"
   },
   {
-   "seq": 5,
+   "seq": 4,
    "receivedAt": "2026-08-23T02:50:39.000Z",
    "category": "其他",
    "place": "新竹市北區東大路三段77巷",
@@ -50,7 +41,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 6,
+   "seq": 5,
    "receivedAt": "2026-08-22T14:48:42.000Z",
    "category": "其他",
    "place": "新竹市東區東區關埔重劃區新開道路",
