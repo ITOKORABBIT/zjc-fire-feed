@@ -1,11 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-23T05:20:01.688Z",
- "count": 5,
+ "fetchedAt": "2026-08-23T05:30:01.691Z",
+ "count": 7,
  "items": [
   {
+   "seq": 1,
+   "receivedAt": "2026-08-23T05:24:42.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區竹蓮街",
+   "unit": "光復分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
    "seq": 2,
+   "receivedAt": "2026-08-23T05:20:22.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區武陵路70巷",
+   "unit": "三民分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 4,
    "receivedAt": "2026-08-23T04:38:45.000Z",
    "category": "其他",
    "place": "新竹市東區金山二十二街",
@@ -14,25 +32,25 @@
    "state": "dispatched"
   },
   {
-   "seq": 1,
+   "seq": 3,
    "receivedAt": "2026-08-23T04:38:26.000Z",
    "category": "緊急救護",
    "place": "新竹市東區東山街",
    "unit": "中山分隊",
-   "status": "返隊中",
-   "state": "returning"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 3,
+   "seq": 5,
    "receivedAt": "2026-08-23T04:21:29.000Z",
    "category": "緊急救護",
    "place": "新竹市東區太原路",
    "unit": "光復分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 4,
+   "seq": 6,
    "receivedAt": "2026-08-23T02:50:39.000Z",
    "category": "其他",
    "place": "新竹市北區東大路三段77巷",
@@ -41,7 +59,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 5,
+   "seq": 7,
    "receivedAt": "2026-08-22T14:48:42.000Z",
    "category": "其他",
    "place": "新竹市東區東區關埔重劃區新開道路",
