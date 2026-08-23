@@ -1,44 +1,44 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-23T00:10:01.467Z",
+ "fetchedAt": "2026-08-23T00:20:01.493Z",
  "count": 6,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-08-23T00:08:37.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區和平路",
-   "unit": "竹光分隊",
-   "status": "已派遣",
-   "state": "dispatched"
+   "receivedAt": "2026-08-23T00:12:05.000Z",
+   "category": "火災",
+   "place": "新竹市北區東大路三段",
+   "unit": "南寮分隊",
+   "status": "已到達",
+   "state": "unknown"
   },
   {
    "seq": 2,
+   "receivedAt": "2026-08-23T00:08:57.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區和平路",
+   "unit": "竹光分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-08-23T00:03:29.000Z",
    "category": "緊急救護",
    "place": "新竹市北區崧嶺路57巷",
    "unit": "明湖分隊",
-   "status": "已出動",
-   "state": "dispatched"
-  },
-  {
-   "seq": 3,
-   "receivedAt": "2026-08-22T23:54:08.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區關東路58巷",
-   "unit": "金山分隊",
    "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 4,
-   "receivedAt": "2026-08-22T23:31:33.000Z",
+   "receivedAt": "2026-08-22T23:54:08.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區竹光路",
-   "unit": "竹光分隊",
-   "status": "已返隊",
-   "state": "closed"
+   "place": "新竹市東區關東路58巷",
+   "unit": "金山分隊",
+   "status": "送醫中",
+   "state": "unknown"
   },
   {
    "seq": 5,
