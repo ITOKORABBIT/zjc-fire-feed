@@ -1,26 +1,26 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-23T01:20:01.529Z",
+ "fetchedAt": "2026-08-23T01:30:01.515Z",
  "count": 4,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-08-23T01:06:12.000Z",
+   "receivedAt": "2026-08-23T01:19:31.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區竹光路",
-   "unit": "竹光分隊",
+   "place": "新竹市香山區延平路二段",
+   "unit": "香山分隊",
    "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-08-23T00:57:21.000Z",
+   "receivedAt": "2026-08-23T01:06:12.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區慈雲路",
-   "unit": "埔頂分隊",
-   "status": "返隊中",
-   "state": "returning"
+   "place": "新竹市北區竹光路",
+   "unit": "竹光分隊",
+   "status": "送醫中",
+   "state": "unknown"
   },
   {
    "seq": 3,
