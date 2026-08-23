@@ -1,20 +1,11 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-23T22:40:01.570Z",
- "count": 4,
+ "fetchedAt": "2026-08-23T22:50:01.549Z",
+ "count": 3,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-08-23T21:55:33.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區園區一路",
-   "unit": "光復分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 2,
    "receivedAt": "2026-08-23T20:54:37.000Z",
    "category": "緊急救護",
    "place": "新竹市東區國立清華大學[光復路二段",
@@ -23,7 +14,7 @@
    "state": "closed"
   },
   {
-   "seq": 3,
+   "seq": 2,
    "receivedAt": "2026-08-23T20:14:45.000Z",
    "category": "緊急救護",
    "place": "新竹市東區中華路二段",
@@ -32,7 +23,7 @@
    "state": "closed"
   },
   {
-   "seq": 4,
+   "seq": 3,
    "receivedAt": "2026-08-23T09:46:30.000Z",
    "category": "其他",
    "place": "新竹市香山區中華路五段912巷5弄",
