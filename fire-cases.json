@@ -1,29 +1,38 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-24T09:20:02.066Z",
+ "fetchedAt": "2026-08-24T09:30:02.175Z",
  "count": 11,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-08-24T09:18:32.000Z",
+   "receivedAt": "2026-08-24T09:27:52.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區東門街",
-   "unit": "中山分隊",
-   "status": "已出動",
+   "place": "新竹市東區光復路一段354巷16弄",
+   "unit": "金山分隊",
+   "status": "已派遣",
    "state": "dispatched"
   },
   {
    "seq": 2,
+   "receivedAt": "2026-08-24T09:18:32.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區東門街",
+   "unit": "中山分隊",
+   "status": "已到院",
+   "state": "unknown"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-08-24T09:16:45.000Z",
    "category": "緊急救護",
    "place": "新竹市東區研發二路",
    "unit": "金山分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "已到達",
+   "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-08-24T09:15:24.000Z",
    "category": "其他",
    "place": "新竹市",
@@ -32,7 +41,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-08-24T08:49:43.000Z",
    "category": "其他",
    "place": "新竹市東區高峰路",
@@ -41,22 +50,13 @@
    "state": "dispatched"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-08-24T08:43:12.000Z",
    "category": "緊急救護",
    "place": "新竹市東區埔頂路",
    "unit": "埔頂分隊",
-   "status": "送醫中",
+   "status": "已到院",
    "state": "unknown"
-  },
-  {
-   "seq": 6,
-   "receivedAt": "2026-08-24T08:10:54.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區中正路626巷",
-   "unit": "竹光分隊",
-   "status": "已返隊",
-   "state": "closed"
   },
   {
    "seq": 7,
