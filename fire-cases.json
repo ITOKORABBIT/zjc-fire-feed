@@ -1,20 +1,38 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-24T14:30:02.270Z",
- "count": 4,
+ "fetchedAt": "2026-08-24T14:40:02.325Z",
+ "count": 6,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-08-24T14:27:49.000Z",
+   "receivedAt": "2026-08-24T14:35:50.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區延平路一段",
-   "unit": "中山分隊",
-   "status": "已派遣",
+   "place": "新竹市香山區柯湳一街80巷",
+   "unit": "明湖分隊",
+   "status": "已出動",
    "state": "dispatched"
   },
   {
    "seq": 2,
+   "receivedAt": "2026-08-24T14:30:39.000Z",
+   "category": "火災",
+   "place": "新竹市北區海濱路",
+   "unit": "南寮分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 3,
+   "receivedAt": "2026-08-24T14:27:49.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區延平路一段",
+   "unit": "中山分隊",
+   "status": "送醫中",
+   "state": "unknown"
+  },
+  {
+   "seq": 4,
    "receivedAt": "2026-08-24T13:28:00.000Z",
    "category": "火災",
    "place": "新竹市東區勝利路",
@@ -23,7 +41,7 @@
    "state": "closed"
   },
   {
-   "seq": 3,
+   "seq": 5,
    "receivedAt": "2026-08-24T13:03:17.000Z",
    "category": "緊急救護",
    "place": "新竹市東區金城一路",
@@ -32,7 +50,7 @@
    "state": "closed"
   },
   {
-   "seq": 4,
+   "seq": 6,
    "receivedAt": "2026-08-24T12:45:38.000Z",
    "category": "其他",
    "place": "新竹市東區忠孝路72巷",
