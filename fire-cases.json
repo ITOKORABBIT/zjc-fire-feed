@@ -1,29 +1,38 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-24T02:00:01.781Z",
+ "fetchedAt": "2026-08-24T02:10:01.750Z",
  "count": 9,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-08-24T01:59:34.000Z",
+   "receivedAt": "2026-08-24T02:06:15.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區西大路",
-   "unit": "中山分隊",
-   "status": "已派遣",
+   "place": "新竹市東區民享街",
+   "unit": "金山分隊",
+   "status": "已出動",
    "state": "dispatched"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-08-24T01:46:40.000Z",
+   "receivedAt": "2026-08-24T01:59:34.000Z",
    "category": "緊急救護",
-   "place": "新竹市香山區中山路",
-   "unit": "光復分隊",
+   "place": "新竹市東區西大路",
+   "unit": "中山分隊,香山分隊",
    "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 3,
+   "receivedAt": "2026-08-24T01:46:40.000Z",
+   "category": "緊急救護",
+   "place": "新竹市香山區中山路",
+   "unit": "光復分隊",
+   "status": "送醫中",
+   "state": "unknown"
+  },
+  {
+   "seq": 4,
    "receivedAt": "2026-08-24T01:41:12.000Z",
    "category": "緊急救護",
    "place": "新竹市東區園區二路",
@@ -32,20 +41,11 @@
    "state": "unknown"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-08-24T01:16:47.000Z",
    "category": "緊急救護",
    "place": "新竹市北區仁德街",
    "unit": "香山分隊",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 5,
-   "receivedAt": "2026-08-24T01:12:37.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區經國路二段",
-   "unit": "中山分隊",
    "status": "已返隊",
    "state": "closed"
   },
