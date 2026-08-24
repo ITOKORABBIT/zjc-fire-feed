@@ -1,11 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-24T00:10:01.631Z",
- "count": 6,
+ "fetchedAt": "2026-08-24T00:20:01.612Z",
+ "count": 7,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-08-24T00:19:02.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區",
+   "unit": "光復分隊",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
+   "receivedAt": "2026-08-24T00:13:03.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區光華二街72巷62弄",
+   "unit": "三民分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-08-24T00:02:46.000Z",
    "category": "其他",
    "place": "新竹市東區金山二十三街",
@@ -14,25 +32,25 @@
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 4,
    "receivedAt": "2026-08-23T23:40:33.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區中華路五段",
    "unit": "朝山分隊",
-   "status": "送醫中",
-   "state": "unknown"
-  },
-  {
-   "seq": 3,
-   "receivedAt": "2026-08-23T23:23:44.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區延平路一段261巷4弄",
-   "unit": "香山分隊",
    "status": "已到院",
    "state": "unknown"
   },
   {
-   "seq": 4,
+   "seq": 5,
+   "receivedAt": "2026-08-23T23:23:44.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區延平路一段261巷4弄",
+   "unit": "香山分隊",
+   "status": "已返隊",
+   "state": "closed"
+  },
+  {
+   "seq": 6,
    "receivedAt": "2026-08-23T22:51:19.000Z",
    "category": "緊急救護",
    "place": "新竹市北區港北里西濱路一段61巷",
@@ -41,16 +59,7 @@
    "state": "closed"
   },
   {
-   "seq": 5,
-   "receivedAt": "2026-08-23T20:54:37.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區國立清華大學[光復路二段",
-   "unit": "埔頂分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-08-23T09:46:30.000Z",
    "category": "其他",
    "place": "新竹市香山區中華路五段912巷5弄",
