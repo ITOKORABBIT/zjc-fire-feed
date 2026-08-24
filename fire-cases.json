@@ -1,38 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-24T07:40:02.014Z",
- "count": 8,
+ "fetchedAt": "2026-08-24T07:50:02.010Z",
+ "count": 7,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-08-24T07:39:54.000Z",
+   "category": "其他",
+   "place": "新竹市香山區新竹市消防局香山分隊[牛埔路",
+   "unit": "委外廠商",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-08-24T07:29:09.000Z",
    "category": "緊急救護",
    "place": "新竹市北區延平路一段214巷3弄",
    "unit": "竹光分隊",
-   "status": "送醫中",
-   "state": "unknown"
-  },
-  {
-   "seq": 2,
-   "receivedAt": "2026-08-24T06:57:47.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區牛埔東路",
-   "unit": "香山分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 3,
-   "receivedAt": "2026-08-24T06:54:50.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區延平路一段",
-   "unit": "中山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 4,
    "receivedAt": "2026-08-24T06:40:11.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區西濱路六段",
@@ -41,7 +32,7 @@
    "state": "unknown"
   },
   {
-   "seq": 5,
+   "seq": 4,
    "receivedAt": "2026-08-24T04:36:01.000Z",
    "category": "其他",
    "place": "新竹市香山區浸水南街",
@@ -50,7 +41,7 @@
    "state": "returning"
   },
   {
-   "seq": 6,
+   "seq": 5,
    "receivedAt": "2026-08-24T03:04:51.000Z",
    "category": "其他",
    "place": "新竹市東區竹村七路",
@@ -59,7 +50,7 @@
    "state": "returning"
   },
   {
-   "seq": 7,
+   "seq": 6,
    "receivedAt": "2026-08-24T02:41:19.000Z",
    "category": "其他",
    "place": "新竹市香山區中華路六段647巷136弄",
@@ -68,7 +59,7 @@
    "state": "returning"
   },
   {
-   "seq": 8,
+   "seq": 7,
    "receivedAt": "2026-08-23T09:46:30.000Z",
    "category": "其他",
    "place": "新竹市香山區中華路五段912巷5弄",
