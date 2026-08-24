@@ -1,17 +1,17 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-24T11:40:02.150Z",
+ "fetchedAt": "2026-08-24T11:50:02.170Z",
  "count": 7,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-08-24T10:51:09.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區明湖路319巷",
-   "unit": "中山分隊",
-   "status": "已返隊",
-   "state": "closed"
+   "receivedAt": "2026-08-24T11:46:57.000Z",
+   "category": "其他",
+   "place": "新竹市東區東山街32巷",
+   "unit": "光復分隊",
+   "status": "已派遣",
+   "state": "dispatched"
   },
   {
    "seq": 2,
