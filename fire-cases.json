@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-24T13:50:02.251Z",
- "count": 5,
+ "fetchedAt": "2026-08-24T14:00:02.234Z",
+ "count": 4,
  "items": [
   {
    "seq": 1,
@@ -37,15 +37,6 @@
    "category": "緊急救護",
    "place": "新竹市東區關新二街",
    "unit": "金山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 5,
-   "receivedAt": "2026-08-24T11:46:57.000Z",
-   "category": "其他",
-   "place": "新竹市東區東山街32巷",
-   "unit": "光復分隊",
    "status": "已返隊",
    "state": "closed"
   }
