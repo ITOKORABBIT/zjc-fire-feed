@@ -1,20 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-24T13:20:02.249Z",
- "count": 10,
+ "fetchedAt": "2026-08-24T13:30:02.250Z",
+ "count": 11,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-08-24T13:28:00.000Z",
+   "category": "火災",
+   "place": "新竹市東區勝利路",
+   "unit": "三民分隊,中山分隊,光復分隊,竹光分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-08-24T13:03:17.000Z",
    "category": "緊急救護",
    "place": "新竹市東區金城一路",
-   "unit": "埔頂分隊",
+   "unit": "埔頂分隊,金山分隊",
    "status": "已到達",
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-08-24T12:45:38.000Z",
    "category": "其他",
    "place": "新竹市東區忠孝路72巷",
@@ -23,7 +32,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-08-24T12:23:54.000Z",
    "category": "緊急救護",
    "place": "新竹市東區關新二街",
@@ -32,7 +41,7 @@
    "state": "closed"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-08-24T11:46:57.000Z",
    "category": "其他",
    "place": "新竹市東區東山街32巷",
@@ -41,7 +50,7 @@
    "state": "closed"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-08-24T09:15:24.000Z",
    "category": "其他",
    "place": "新竹市",
@@ -50,7 +59,7 @@
    "state": "returning"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-08-24T08:49:43.000Z",
    "category": "其他",
    "place": "新竹市東區高峰路",
@@ -59,7 +68,7 @@
    "state": "returning"
   },
   {
-   "seq": 7,
+   "seq": 8,
    "receivedAt": "2026-08-24T07:39:54.000Z",
    "category": "其他",
    "place": "新竹市香山區新竹市消防局香山分隊[牛埔路",
@@ -68,7 +77,7 @@
    "state": "returning"
   },
   {
-   "seq": 8,
+   "seq": 9,
    "receivedAt": "2026-08-24T04:36:01.000Z",
    "category": "其他",
    "place": "新竹市香山區浸水南街",
@@ -77,7 +86,7 @@
    "state": "returning"
   },
   {
-   "seq": 9,
+   "seq": 10,
    "receivedAt": "2026-08-24T03:04:51.000Z",
    "category": "其他",
    "place": "新竹市東區竹村七路",
@@ -86,7 +95,7 @@
    "state": "returning"
   },
   {
-   "seq": 10,
+   "seq": 11,
    "receivedAt": "2026-08-23T09:46:30.000Z",
    "category": "其他",
    "place": "新竹市香山區中華路五段912巷5弄",
