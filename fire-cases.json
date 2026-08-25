@@ -1,16 +1,25 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-25T17:40:01.560Z",
- "count": 1,
+ "fetchedAt": "2026-08-25T17:50:01.699Z",
+ "count": 2,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-08-25T17:42:41.000Z",
+   "category": "緊急救護",
+   "place": "新竹市香山區中華路五段",
+   "unit": "朝山分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-08-25T17:20:37.000Z",
    "category": "緊急救護",
    "place": "新竹市東區花園新城街16巷",
    "unit": "明湖分隊",
-   "status": "已到達",
+   "status": "送醫中",
    "state": "unknown"
   }
  ]
