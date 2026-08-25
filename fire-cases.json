@@ -1,11 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-25T07:40:02.055Z",
- "count": 9,
+ "fetchedAt": "2026-08-25T07:50:02.065Z",
+ "count": 11,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-08-25T07:44:27.000Z",
+   "category": "其他",
+   "place": "新竹市東區竹村七路",
+   "unit": "委外廠商",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
+   "receivedAt": "2026-08-25T07:40:44.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區科學園路",
+   "unit": "金山分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-08-25T07:35:00.000Z",
    "category": "緊急救護",
    "place": "新竹市北區中山路",
@@ -14,7 +32,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 2,
+   "seq": 4,
    "receivedAt": "2026-08-25T07:30:07.000Z",
    "category": "緊急救護",
    "place": "新竹市東區立鵬路",
@@ -23,16 +41,16 @@
    "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 5,
    "receivedAt": "2026-08-25T06:30:05.000Z",
    "category": "其他",
    "place": "新竹市東區八德路19巷",
    "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
-   "seq": 4,
+   "seq": 6,
    "receivedAt": "2026-08-25T05:58:16.000Z",
    "category": "緊急救護",
    "place": "新竹市北區延平路一段113巷",
@@ -41,16 +59,16 @@
    "state": "closed"
   },
   {
-   "seq": 5,
+   "seq": 7,
    "receivedAt": "2026-08-25T04:58:58.000Z",
    "category": "其他",
    "place": "新竹市東區高翠路210巷5弄",
    "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
-   "seq": 6,
+   "seq": 8,
    "receivedAt": "2026-08-25T04:34:51.000Z",
    "category": "其他",
    "place": "新竹市東區慈雲路",
@@ -59,7 +77,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 7,
+   "seq": 9,
    "receivedAt": "2026-08-25T02:26:05.000Z",
    "category": "其他",
    "place": "新竹市香山區中華路六段647巷",
@@ -68,7 +86,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 8,
+   "seq": 10,
    "receivedAt": "2026-08-25T02:07:52.000Z",
    "category": "其他",
    "place": "新竹市東區高翠路162巷16弄",
@@ -77,7 +95,7 @@
    "state": "returning"
   },
   {
-   "seq": 9,
+   "seq": 11,
    "receivedAt": "2026-08-24T12:45:38.000Z",
    "category": "其他",
    "place": "新竹市東區忠孝路72巷",
