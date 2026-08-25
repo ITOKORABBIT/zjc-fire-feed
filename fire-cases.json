@@ -1,29 +1,38 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-25T01:30:01.854Z",
+ "fetchedAt": "2026-08-25T01:40:01.847Z",
  "count": 10,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-08-25T01:34:19.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區光復路二段",
+   "unit": "埔頂分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-08-25T01:23:58.000Z",
    "category": "緊急救護",
    "place": "新竹市東區東進路",
    "unit": "光復分隊",
-   "status": "已到達",
-   "state": "unknown"
-  },
-  {
-   "seq": 2,
-   "receivedAt": "2026-08-25T01:06:02.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區新安路",
-   "unit": "明湖分隊",
    "status": "送醫中",
    "state": "unknown"
   },
   {
    "seq": 3,
+   "receivedAt": "2026-08-25T01:06:02.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區新安路",
+   "unit": "明湖分隊",
+   "status": "已到院",
+   "state": "unknown"
+  },
+  {
+   "seq": 4,
    "receivedAt": "2026-08-25T01:01:20.000Z",
    "category": "緊急救護",
    "place": "新竹市東區園區一路",
@@ -32,7 +41,7 @@
    "state": "unknown"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-08-25T00:54:36.000Z",
    "category": "緊急救護",
    "place": "光華北街",
@@ -41,16 +50,16 @@
    "state": "closed"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-08-25T00:50:20.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區牛埔南路496巷40弄",
    "unit": "香山分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-08-25T00:48:13.000Z",
    "category": "緊急救護",
    "place": "園區三路",
@@ -68,22 +77,13 @@
    "state": "closed"
   },
   {
-   "seq": 7,
-   "receivedAt": "2026-08-25T00:42:07.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區長興街103巷",
-   "unit": "朝山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
    "seq": 9,
    "receivedAt": "2026-08-25T00:37:09.000Z",
    "category": "緊急救護",
    "place": "新竹市北區鐵道路二段",
    "unit": "竹光分隊",
-   "status": "返隊中",
-   "state": "returning"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
    "seq": 10,
