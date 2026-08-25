@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-25T13:20:02.363Z",
- "count": 2,
+ "fetchedAt": "2026-08-25T13:30:02.358Z",
+ "count": 3,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-08-25T13:22:39.000Z",
+   "category": "緊急救護",
+   "place": "新竹市香山區牛埔路",
+   "unit": "竹光分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-08-25T13:12:20.000Z",
    "category": "緊急救護",
    "place": "新竹市北區延平路一段113巷",
@@ -14,7 +23,7 @@
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-08-25T12:54:55.000Z",
    "category": "其他",
    "place": "新竹市北區中華路三段",
