@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-25T11:40:02.293Z",
- "count": 10,
+ "fetchedAt": "2026-08-25T11:50:02.271Z",
+ "count": 8,
  "items": [
   {
    "seq": 1,
@@ -10,7 +10,7 @@
    "category": "緊急救護",
    "place": "新竹市東區千甲路",
    "unit": "中山分隊",
-   "status": "已派遣",
+   "status": "已出動",
    "state": "dispatched"
   },
   {
@@ -19,7 +19,7 @@
    "category": "緊急救護",
    "place": "新竹市東區高峰路",
    "unit": "埔頂分隊",
-   "status": "已到達",
+   "status": "已到院",
    "state": "unknown"
   },
   {
@@ -28,7 +28,7 @@
    "category": "緊急救護",
    "place": "新竹市東區南大路",
    "unit": "光復分隊",
-   "status": "已到達",
+   "status": "已到院",
    "state": "unknown"
   },
   {
@@ -37,20 +37,11 @@
    "category": "緊急救護",
    "place": "新竹市東區北大路92巷",
    "unit": "三民分隊",
-   "status": "已到院",
-   "state": "unknown"
-  },
-  {
-   "seq": 5,
-   "receivedAt": "2026-08-25T10:55:24.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區武陵路",
-   "unit": "竹光分隊",
    "status": "已返隊",
    "state": "closed"
   },
   {
-   "seq": 6,
+   "seq": 5,
    "receivedAt": "2026-08-25T10:35:43.000Z",
    "category": "緊急救護",
    "place": "新竹市東區力行七路",
@@ -59,16 +50,7 @@
    "state": "closed"
   },
   {
-   "seq": 7,
-   "receivedAt": "2026-08-25T10:16:57.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區崧嶺路128巷",
-   "unit": "明湖分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 8,
+   "seq": 6,
    "receivedAt": "2026-08-25T04:34:51.000Z",
    "category": "其他",
    "place": "新竹市東區慈雲路",
@@ -77,7 +59,7 @@
    "state": "returning"
   },
   {
-   "seq": 9,
+   "seq": 7,
    "receivedAt": "2026-08-25T02:26:05.000Z",
    "category": "其他",
    "place": "新竹市香山區中華路六段647巷",
@@ -86,7 +68,7 @@
    "state": "returning"
   },
   {
-   "seq": 10,
+   "seq": 8,
    "receivedAt": "2026-08-24T12:45:38.000Z",
    "category": "其他",
    "place": "新竹市東區忠孝路72巷",
