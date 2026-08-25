@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-25T08:30:02.102Z",
- "count": 10,
+ "fetchedAt": "2026-08-25T08:40:02.094Z",
+ "count": 8,
  "items": [
   {
    "seq": 1,
@@ -10,8 +10,8 @@
    "category": "緊急救護",
    "place": "新竹市東區建功一路",
    "unit": "埔頂分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "已到達",
+   "state": "unknown"
   },
   {
    "seq": 2,
@@ -28,7 +28,7 @@
    "category": "緊急救護",
    "place": "新竹市北區西門街",
    "unit": "中山分隊",
-   "status": "已到達",
+   "status": "已到院",
    "state": "unknown"
   },
   {
@@ -51,24 +51,6 @@
   },
   {
    "seq": 6,
-   "receivedAt": "2026-08-25T07:30:07.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區立鵬路",
-   "unit": "埔頂分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 7,
-   "receivedAt": "2026-08-25T05:58:16.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區延平路一段113巷",
-   "unit": "竹光分隊,香山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 8,
    "receivedAt": "2026-08-25T04:34:51.000Z",
    "category": "其他",
    "place": "新竹市東區慈雲路",
@@ -77,7 +59,7 @@
    "state": "returning"
   },
   {
-   "seq": 9,
+   "seq": 7,
    "receivedAt": "2026-08-25T02:26:05.000Z",
    "category": "其他",
    "place": "新竹市香山區中華路六段647巷",
@@ -86,7 +68,7 @@
    "state": "returning"
   },
   {
-   "seq": 10,
+   "seq": 8,
    "receivedAt": "2026-08-24T12:45:38.000Z",
    "category": "其他",
    "place": "新竹市東區忠孝路72巷",
