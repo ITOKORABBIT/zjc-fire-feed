@@ -1,62 +1,80 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-25T13:50:02.377Z",
- "count": 6,
+ "fetchedAt": "2026-08-25T14:10:02.430Z",
+ "count": 8,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-08-25T13:45:31.000Z",
+   "receivedAt": "2026-08-25T14:06:14.000Z",
+   "category": "其他",
+   "place": "新竹市香山區麗山街",
+   "unit": "委外廠商",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
+   "receivedAt": "2026-08-25T14:01:00.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區光復路二段",
-   "unit": "光復分隊",
+   "place": "新竹市香山區芝柏一街",
+   "unit": "朝山分隊",
    "status": "已出動",
    "state": "dispatched"
   },
   {
    "seq": 3,
-   "receivedAt": "2026-08-25T13:41:27.000Z",
+   "receivedAt": "2026-08-25T13:56:43.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區關東路",
-   "unit": "金山分隊",
-   "status": "已出動",
-   "state": "dispatched"
-  },
-  {
-   "seq": 2,
-   "receivedAt": "2026-08-25T13:40:30.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區境福街176巷",
-   "unit": "中山分隊",
+   "place": "新竹市香山區中山路",
+   "unit": "明湖分隊",
    "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 4,
-   "receivedAt": "2026-08-25T13:22:39.000Z",
+   "receivedAt": "2026-08-25T13:55:51.000Z",
    "category": "緊急救護",
-   "place": "新竹市香山區牛埔路",
-   "unit": "竹光分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "place": "新竹市香山區牛埔北路",
+   "unit": "香山分隊",
+   "status": "已返隊",
+   "state": "closed"
   },
   {
    "seq": 5,
-   "receivedAt": "2026-08-25T13:12:20.000Z",
+   "receivedAt": "2026-08-25T13:45:31.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區延平路一段113巷",
-   "unit": "香山分隊",
+   "place": "新竹市東區光復路二段",
+   "unit": "光復分隊",
+   "status": "已返隊",
+   "state": "closed"
+  },
+  {
+   "seq": 7,
+   "receivedAt": "2026-08-25T13:41:27.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區關東路",
+   "unit": "金山分隊",
    "status": "已到院",
    "state": "unknown"
   },
   {
    "seq": 6,
+   "receivedAt": "2026-08-25T13:40:30.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區境福街176巷",
+   "unit": "中山分隊",
+   "status": "已到院",
+   "state": "unknown"
+  },
+  {
+   "seq": 8,
    "receivedAt": "2026-08-25T12:54:55.000Z",
    "category": "其他",
    "place": "新竹市北區中華路三段",
    "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
+   "status": "返隊中",
+   "state": "returning"
   }
  ]
 }
