@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-26T00:30:02.282Z",
+ "fetchedAt": "2026-08-26T00:40:02.287Z",
  "count": 8,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-08-26T00:33:32.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區延平路一段113巷",
+   "unit": "香山分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-08-26T00:28:24.000Z",
    "category": "其他",
    "place": "新竹市東區明湖分隊[明湖路1075巷",
@@ -14,49 +23,40 @@
    "state": "dispatched"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-08-26T00:26:21.000Z",
    "category": "緊急救護",
    "place": "新竹市東區建功一路",
    "unit": "埔頂分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "已到達",
+   "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-08-26T00:25:59.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路1050巷",
    "unit": "明湖分隊",
-   "status": "已出動",
-   "state": "dispatched"
-  },
-  {
-   "seq": 4,
-   "receivedAt": "2026-08-26T00:01:40.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區中山路312巷",
-   "unit": "光復分隊",
-   "status": "已到院",
+   "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 5,
+   "receivedAt": "2026-08-26T00:01:40.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區中山路312巷",
+   "unit": "光復分隊",
+   "status": "返隊中",
+   "state": "returning"
+  },
+  {
+   "seq": 6,
    "receivedAt": "2026-08-26T00:00:30.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路213巷",
    "unit": "委外廠商",
    "status": "已派遣",
    "state": "dispatched"
-  },
-  {
-   "seq": 6,
-   "receivedAt": "2026-08-25T23:37:00.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區",
-   "unit": "明湖分隊",
-   "status": "已返隊",
-   "state": "closed"
   },
   {
    "seq": 7,
