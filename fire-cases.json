@@ -1,29 +1,47 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-26T00:00:02.223Z",
- "count": 3,
+ "fetchedAt": "2026-08-26T00:10:02.223Z",
+ "count": 5,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-08-25T23:37:00.000Z",
+   "receivedAt": "2026-08-26T00:01:40.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區",
-   "unit": "明湖分隊",
-   "status": "送醫中",
-   "state": "unknown"
-  },
-  {
-   "seq": 2,
-   "receivedAt": "2026-08-25T23:36:59.000Z",
-   "category": "火災",
-   "place": "新竹市北區東大路三段",
-   "unit": "三民分隊,中山分隊,南寮分隊,埔頂分隊,朝山分隊,竹光分隊,第一大隊",
+   "place": "新竹市北區中山路312巷",
+   "unit": "光復分隊",
    "status": "已到達",
    "state": "unknown"
   },
   {
+   "seq": 2,
+   "receivedAt": "2026-08-26T00:00:30.000Z",
+   "category": "其他",
+   "place": "新竹市東區明湖路213巷",
+   "unit": "委外廠商",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
    "seq": 3,
+   "receivedAt": "2026-08-25T23:37:00.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區",
+   "unit": "明湖分隊",
+   "status": "已到院",
+   "state": "unknown"
+  },
+  {
+   "seq": 4,
+   "receivedAt": "2026-08-25T23:36:59.000Z",
+   "category": "火災",
+   "place": "新竹市北區東大路三段",
+   "unit": "三民分隊,中山分隊,南寮分隊,埔頂分隊,朝山分隊,竹光分隊,第一大隊",
+   "status": "火已滅",
+   "state": "unknown"
+  },
+  {
+   "seq": 5,
    "receivedAt": "2026-08-25T21:52:51.000Z",
    "category": "緊急救護",
    "place": "新竹市北區城北街137巷14弄",
