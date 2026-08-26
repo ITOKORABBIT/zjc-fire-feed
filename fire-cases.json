@@ -1,20 +1,47 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-26T09:40:01.647Z",
- "count": 9,
+ "fetchedAt": "2026-08-26T10:00:01.666Z",
+ "count": 12,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-08-26T09:37:56.000Z",
+   "receivedAt": "2026-08-26T09:57:19.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區仁義街",
-   "unit": "中山分隊",
-   "status": "已派遣",
+   "place": "新竹市東區園區二路",
+   "unit": "金山分隊",
+   "status": "已出動",
    "state": "dispatched"
   },
   {
    "seq": 2,
+   "receivedAt": "2026-08-26T09:53:04.000Z",
+   "category": "其他",
+   "place": "新竹市香山區",
+   "unit": "委外廠商",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 3,
+   "receivedAt": "2026-08-26T09:43:13.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區金雅二街",
+   "unit": "竹光分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 4,
+   "receivedAt": "2026-08-26T09:37:56.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區仁義街",
+   "unit": "中山分隊",
+   "status": "已返隊",
+   "state": "closed"
+  },
+  {
+   "seq": 5,
    "receivedAt": "2026-08-26T08:57:04.000Z",
    "category": "其他",
    "place": "新竹市東區平和街",
@@ -23,7 +50,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 3,
+   "seq": 6,
    "receivedAt": "2026-08-26T07:10:58.000Z",
    "category": "其他",
    "place": "新竹市北區北大路",
@@ -32,7 +59,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 4,
+   "seq": 7,
    "receivedAt": "2026-08-26T04:54:44.000Z",
    "category": "其他",
    "place": "新竹市香山區延平路二段",
@@ -41,7 +68,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 5,
+   "seq": 8,
    "receivedAt": "2026-08-26T04:08:26.000Z",
    "category": "其他",
    "place": "新竹市香山區宮口街57巷21弄",
@@ -50,7 +77,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 6,
+   "seq": 9,
    "receivedAt": "2026-08-26T02:48:47.000Z",
    "category": "其他",
    "place": "新竹市香山區玄奘路53巷",
@@ -59,7 +86,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 7,
+   "seq": 10,
    "receivedAt": "2026-08-26T02:43:36.000Z",
    "category": "其他",
    "place": "新竹市東區研新三路",
@@ -68,7 +95,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 8,
+   "seq": 11,
    "receivedAt": "2026-08-26T00:28:24.000Z",
    "category": "其他",
    "place": "新竹市東區明湖分隊[明湖路1075巷",
@@ -77,7 +104,7 @@
    "state": "returning"
   },
   {
-   "seq": 9,
+   "seq": 12,
    "receivedAt": "2026-08-26T00:00:30.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路213巷",
