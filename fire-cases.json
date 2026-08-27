@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-27T08:00:01.896Z",
- "count": 14,
+ "fetchedAt": "2026-08-27T08:10:01.881Z",
+ "count": 15,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-08-27T08:06:42.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區關東路",
+   "unit": "埔頂分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-08-27T07:46:33.000Z",
    "category": "緊急救護",
    "place": "新竹市東區林森路",
@@ -14,7 +23,7 @@
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-08-27T07:39:13.000Z",
    "category": "緊急救護",
    "place": "新竹市東區",
@@ -23,7 +32,7 @@
    "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-08-27T07:38:15.000Z",
    "category": "緊急救護",
    "place": "新竹市東區",
@@ -32,7 +41,7 @@
    "state": "unknown"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-08-27T07:26:40.000Z",
    "category": "緊急救護",
    "place": "新竹市東區力行路",
@@ -41,7 +50,7 @@
    "state": "unknown"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-08-27T07:23:35.000Z",
    "category": "緊急救護",
    "place": "新竹市北區水田街91巷32弄",
@@ -50,16 +59,16 @@
    "state": "returning"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-08-27T07:04:51.000Z",
    "category": "其他",
    "place": "新竹市東區光復路二段",
    "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
-   "seq": 7,
+   "seq": 8,
    "receivedAt": "2026-08-27T07:01:50.000Z",
    "category": "緊急救護",
    "place": "新竹市東區東大路一段52巷5弄",
@@ -68,7 +77,7 @@
    "state": "closed"
   },
   {
-   "seq": 8,
+   "seq": 9,
    "receivedAt": "2026-08-27T06:43:01.000Z",
    "category": "火災",
    "place": "新竹市香山區中華路六段",
@@ -77,7 +86,7 @@
    "state": "unknown"
   },
   {
-   "seq": 9,
+   "seq": 10,
    "receivedAt": "2026-08-27T05:13:16.000Z",
    "category": "其他",
    "place": "新竹市香山區元培街",
@@ -86,7 +95,7 @@
    "state": "returning"
   },
   {
-   "seq": 10,
+   "seq": 11,
    "receivedAt": "2026-08-27T04:32:49.000Z",
    "category": "其他",
    "place": "新竹市東區原興路",
@@ -95,7 +104,7 @@
    "state": "returning"
   },
   {
-   "seq": 11,
+   "seq": 12,
    "receivedAt": "2026-08-27T02:53:58.000Z",
    "category": "其他",
    "place": "新竹市東區",
@@ -104,7 +113,7 @@
    "state": "returning"
   },
   {
-   "seq": 12,
+   "seq": 13,
    "receivedAt": "2026-08-27T02:44:01.000Z",
    "category": "其他",
    "place": "新竹市東區",
@@ -113,7 +122,7 @@
    "state": "returning"
   },
   {
-   "seq": 13,
+   "seq": 14,
    "receivedAt": "2026-08-27T00:27:55.000Z",
    "category": "其他",
    "place": "新竹市北區西大路780巷",
@@ -122,7 +131,7 @@
    "state": "returning"
   },
   {
-   "seq": 14,
+   "seq": 15,
    "receivedAt": "2026-08-27T00:04:05.000Z",
    "category": "其他",
    "place": "新竹市東區高峰路",
