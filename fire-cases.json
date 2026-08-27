@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-27T00:40:01.457Z",
- "count": 7,
+ "fetchedAt": "2026-08-27T00:50:01.450Z",
+ "count": 8,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-08-27T00:44:22.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區自由路95巷38弄",
+   "unit": "三民分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-08-27T00:27:55.000Z",
    "category": "其他",
    "place": "新竹市北區西大路780巷",
@@ -14,7 +23,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-08-27T00:05:19.000Z",
    "category": "緊急救護",
    "place": "新竹市東區力行三路",
@@ -23,7 +32,7 @@
    "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-08-27T00:04:05.000Z",
    "category": "其他",
    "place": "新竹市東區高峰路",
@@ -32,7 +41,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-08-26T23:59:50.000Z",
    "category": "緊急救護",
    "place": "新竹市北區經國路二段",
@@ -41,7 +50,7 @@
    "state": "closed"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-08-26T23:26:16.000Z",
    "category": "緊急救護",
    "place": "新竹市東區光復路一段268巷41弄",
@@ -50,7 +59,7 @@
    "state": "closed"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-08-26T22:52:51.000Z",
    "category": "緊急救護",
    "place": "新竹市東區民治街",
@@ -59,7 +68,7 @@
    "state": "closed"
   },
   {
-   "seq": 7,
+   "seq": 8,
    "receivedAt": "2026-08-26T20:47:30.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區中山路640巷",
