@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-27T09:40:01.953Z",
- "count": 16,
+ "fetchedAt": "2026-08-27T09:50:01.961Z",
+ "count": 15,
  "items": [
   {
    "seq": 1,
@@ -10,8 +10,8 @@
    "category": "緊急救護",
    "place": "新竹市東區金山六街8巷",
    "unit": "金山分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "已到達",
+   "state": "unknown"
   },
   {
    "seq": 2,
@@ -28,7 +28,7 @@
    "category": "緊急救護",
    "place": "新竹市東區大學路",
    "unit": "埔頂分隊",
-   "status": "已到達",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
@@ -37,8 +37,8 @@
    "category": "緊急救護",
    "place": "新竹市東區花園街",
    "unit": "光復分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 5,
@@ -46,8 +46,8 @@
    "category": "緊急救護",
    "place": "新竹市香山區延平路二段",
    "unit": "香山分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 6,
@@ -87,15 +87,6 @@
   },
   {
    "seq": 10,
-   "receivedAt": "2026-08-27T06:43:01.000Z",
-   "category": "火災",
-   "place": "新竹市香山區中華路六段",
-   "unit": "朝山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 11,
    "receivedAt": "2026-08-27T05:13:16.000Z",
    "category": "其他",
    "place": "新竹市香山區元培街",
@@ -104,7 +95,7 @@
    "state": "returning"
   },
   {
-   "seq": 12,
+   "seq": 11,
    "receivedAt": "2026-08-27T04:32:49.000Z",
    "category": "其他",
    "place": "新竹市東區原興路",
@@ -113,7 +104,7 @@
    "state": "returning"
   },
   {
-   "seq": 13,
+   "seq": 12,
    "receivedAt": "2026-08-27T02:53:58.000Z",
    "category": "其他",
    "place": "新竹市東區",
@@ -122,7 +113,7 @@
    "state": "returning"
   },
   {
-   "seq": 14,
+   "seq": 13,
    "receivedAt": "2026-08-27T02:44:01.000Z",
    "category": "其他",
    "place": "新竹市東區",
@@ -131,7 +122,7 @@
    "state": "returning"
   },
   {
-   "seq": 15,
+   "seq": 14,
    "receivedAt": "2026-08-27T00:27:55.000Z",
    "category": "其他",
    "place": "新竹市北區西大路780巷",
@@ -140,7 +131,7 @@
    "state": "returning"
   },
   {
-   "seq": 16,
+   "seq": 15,
    "receivedAt": "2026-08-27T00:04:05.000Z",
    "category": "其他",
    "place": "新竹市東區高峰路",
