@@ -1,26 +1,26 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-27T13:50:02.135Z",
+ "fetchedAt": "2026-08-27T14:00:02.134Z",
  "count": 4,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-08-27T13:41:54.000Z",
+   "receivedAt": "2026-08-27T13:49:58.000Z",
    "category": "緊急救護",
-   "place": "新竹市香山區牛埔路",
-   "unit": "香山分隊",
+   "place": "中華路一段2巷",
+   "unit": "三民分隊",
    "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-08-27T13:06:22.000Z",
+   "receivedAt": "2026-08-27T13:41:54.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區花園新城街13巷",
-   "unit": "明湖分隊",
-   "status": "已返隊",
-   "state": "closed"
+   "place": "新竹市香山區牛埔路",
+   "unit": "香山分隊",
+   "status": "已到院",
+   "state": "unknown"
   },
   {
    "seq": 3,
@@ -28,8 +28,8 @@
    "category": "緊急救護",
    "place": "新竹市北區成功路",
    "unit": "竹光分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 4,
