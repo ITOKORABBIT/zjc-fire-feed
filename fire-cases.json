@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-27T07:50:01.887Z",
- "count": 19,
+ "fetchedAt": "2026-08-27T08:00:01.896Z",
+ "count": 14,
  "items": [
   {
    "seq": 1,
@@ -10,8 +10,8 @@
    "category": "緊急救護",
    "place": "新竹市東區林森路",
    "unit": "香山分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "已到達",
+   "state": "unknown"
   },
   {
    "seq": 2,
@@ -19,7 +19,7 @@
    "category": "緊急救護",
    "place": "新竹市東區",
    "unit": "竹光分隊",
-   "status": "已到達",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
@@ -28,7 +28,7 @@
    "category": "緊急救護",
    "place": "新竹市東區",
    "unit": "光復分隊",
-   "status": "已到達",
+   "status": "已到院",
    "state": "unknown"
   },
   {
@@ -37,7 +37,7 @@
    "category": "緊急救護",
    "place": "新竹市東區力行路",
    "unit": "金山分隊",
-   "status": "已到達",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
@@ -46,8 +46,8 @@
    "category": "緊急救護",
    "place": "新竹市北區水田街91巷32弄",
    "unit": "三民分隊,中山分隊",
-   "status": "送醫中",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 6,
@@ -78,42 +78,6 @@
   },
   {
    "seq": 9,
-   "receivedAt": "2026-08-27T06:32:09.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區東大路四段",
-   "unit": "南寮分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 10,
-   "receivedAt": "2026-08-27T05:46:40.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區西大路和西門街",
-   "unit": "中山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 11,
-   "receivedAt": "2026-08-27T05:33:29.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區東門街",
-   "unit": "光復分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 12,
-   "receivedAt": "2026-08-27T05:27:42.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區西大路",
-   "unit": "竹光分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 13,
    "receivedAt": "2026-08-27T05:13:16.000Z",
    "category": "其他",
    "place": "新竹市香山區元培街",
@@ -122,16 +86,7 @@
    "state": "returning"
   },
   {
-   "seq": 14,
-   "receivedAt": "2026-08-27T05:05:35.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區世界街",
-   "unit": "中山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 15,
+   "seq": 10,
    "receivedAt": "2026-08-27T04:32:49.000Z",
    "category": "其他",
    "place": "新竹市東區原興路",
@@ -140,7 +95,7 @@
    "state": "returning"
   },
   {
-   "seq": 16,
+   "seq": 11,
    "receivedAt": "2026-08-27T02:53:58.000Z",
    "category": "其他",
    "place": "新竹市東區",
@@ -149,7 +104,7 @@
    "state": "returning"
   },
   {
-   "seq": 17,
+   "seq": 12,
    "receivedAt": "2026-08-27T02:44:01.000Z",
    "category": "其他",
    "place": "新竹市東區",
@@ -158,7 +113,7 @@
    "state": "returning"
   },
   {
-   "seq": 18,
+   "seq": 13,
    "receivedAt": "2026-08-27T00:27:55.000Z",
    "category": "其他",
    "place": "新竹市北區西大路780巷",
@@ -167,7 +122,7 @@
    "state": "returning"
   },
   {
-   "seq": 19,
+   "seq": 14,
    "receivedAt": "2026-08-27T00:04:05.000Z",
    "category": "其他",
    "place": "新竹市東區高峰路",
