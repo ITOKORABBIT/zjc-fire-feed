@@ -1,38 +1,47 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-27T03:50:01.649Z",
- "count": 11,
+ "fetchedAt": "2026-08-27T04:00:01.629Z",
+ "count": 10,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-08-27T03:54:05.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區東光路",
+   "unit": "光復分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-08-27T03:48:52.000Z",
    "category": "緊急救護",
    "place": "新竹市東區關新路",
    "unit": "金山分隊",
-   "status": "已派遣",
-   "state": "dispatched"
+   "status": "已到達",
+   "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-08-27T03:46:11.000Z",
    "category": "緊急救護",
    "place": "新竹市東區立鵬路",
    "unit": "埔頂分隊",
-   "status": "已出動",
-   "state": "dispatched"
-  },
-  {
-   "seq": 3,
-   "receivedAt": "2026-08-27T03:32:43.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區中華路二段",
-   "unit": "中山分隊",
    "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 4,
+   "receivedAt": "2026-08-27T03:32:43.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區中華路二段",
+   "unit": "中山分隊",
+   "status": "已返隊",
+   "state": "closed"
+  },
+  {
+   "seq": 5,
    "receivedAt": "2026-08-27T02:53:58.000Z",
    "category": "其他",
    "place": "新竹市東區",
@@ -41,22 +50,13 @@
    "state": "returning"
   },
   {
-   "seq": 5,
-   "receivedAt": "2026-08-27T02:52:38.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區民生路",
-   "unit": "三民分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
    "seq": 6,
    "receivedAt": "2026-08-27T02:45:38.000Z",
    "category": "緊急救護",
    "place": "新竹市中華路二段",
    "unit": "中山分隊",
-   "status": "返隊中",
-   "state": "returning"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
    "seq": 7,
@@ -69,15 +69,6 @@
   },
   {
    "seq": 8,
-   "receivedAt": "2026-08-27T02:21:00.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區食品路",
-   "unit": "光復分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 9,
    "receivedAt": "2026-08-27T01:39:28.000Z",
    "category": "緊急救護",
    "place": "新竹市東區光復路一段531巷",
@@ -86,7 +77,7 @@
    "state": "closed"
   },
   {
-   "seq": 10,
+   "seq": 9,
    "receivedAt": "2026-08-27T00:27:55.000Z",
    "category": "其他",
    "place": "新竹市北區西大路780巷",
@@ -95,7 +86,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 11,
+   "seq": 10,
    "receivedAt": "2026-08-27T00:04:05.000Z",
    "category": "其他",
    "place": "新竹市東區高峰路",
