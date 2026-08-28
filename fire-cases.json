@@ -1,20 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-28T21:20:02.412Z",
- "count": 2,
+ "fetchedAt": "2026-08-28T21:30:01.417Z",
+ "count": 3,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-08-28T21:19:47.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區公道五路二段",
+   "unit": "埔頂分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-08-28T21:04:49.000Z",
    "category": "緊急救護",
    "place": "新竹市東區光復路一段89巷",
    "unit": "金山分隊",
-   "status": "已到達",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-08-28T17:32:06.000Z",
    "category": "緊急救護",
    "place": "新竹市北區天府路一段",
