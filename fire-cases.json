@@ -1,29 +1,38 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-28T00:50:01.525Z",
- "count": 12,
+ "fetchedAt": "2026-08-28T01:00:01.507Z",
+ "count": 11,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-08-28T00:50:38.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區經國路二段",
+   "unit": "中山分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-08-28T00:47:19.000Z",
    "category": "緊急救護",
    "place": "新竹市北區大同路",
    "unit": "香山分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "已到達",
+   "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-08-28T00:43:12.000Z",
    "category": "緊急救護",
    "place": "新竹市東區關東橋派出所[介壽路",
    "unit": "金山分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "送醫中",
+   "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-08-28T00:42:08.000Z",
    "category": "緊急救護",
    "place": "新竹市東區",
@@ -32,7 +41,7 @@
    "state": "unknown"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-08-28T00:38:55.000Z",
    "category": "緊急救護",
    "place": "新竹市東區中華路一段2巷",
@@ -41,16 +50,16 @@
    "state": "unknown"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-08-28T00:37:46.000Z",
    "category": "緊急救護",
    "place": "新竹市東區民權路24巷7弄",
    "unit": "光復分隊",
-   "status": "已到達",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-08-28T00:33:12.000Z",
    "category": "其他",
    "place": "新竹市北區成德一街",
@@ -59,7 +68,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 7,
+   "seq": 8,
    "receivedAt": "2026-08-28T00:22:23.000Z",
    "category": "緊急救護",
    "place": "新竹市北區西安街",
@@ -68,7 +77,7 @@
    "state": "closed"
   },
   {
-   "seq": 8,
+   "seq": 9,
    "receivedAt": "2026-08-28T00:20:59.000Z",
    "category": "緊急救護",
    "place": "新竹市",
@@ -77,7 +86,7 @@
    "state": "unknown"
   },
   {
-   "seq": 9,
+   "seq": 10,
    "receivedAt": "2026-08-28T00:18:46.000Z",
    "category": "緊急救護",
    "place": "新竹市北區台68快速道路",
@@ -86,31 +95,13 @@
    "state": "returning"
   },
   {
-   "seq": 10,
+   "seq": 11,
    "receivedAt": "2026-08-28T00:05:01.000Z",
    "category": "緊急救護",
    "place": "新竹市東區明湖路650巷",
    "unit": "明湖分隊",
    "status": "已到院",
    "state": "unknown"
-  },
-  {
-   "seq": 11,
-   "receivedAt": "2026-08-27T23:45:09.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區仁愛街",
-   "unit": "中山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 12,
-   "receivedAt": "2026-08-27T23:09:20.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區境福街79巷",
-   "unit": "竹光分隊",
-   "status": "已返隊",
-   "state": "closed"
   }
  ]
 }
