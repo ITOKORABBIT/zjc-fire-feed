@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-28T11:40:02.019Z",
- "count": 19,
+ "fetchedAt": "2026-08-28T11:50:02.026Z",
+ "count": 20,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-08-28T11:43:20.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區草湖街",
+   "unit": "明湖分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-08-28T11:32:22.000Z",
    "category": "緊急救護",
    "place": "新竹市東區力行三路",
@@ -14,7 +23,7 @@
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-08-28T11:27:19.000Z",
    "category": "其他",
    "place": "新竹市香山區樹下街411巷",
@@ -23,7 +32,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-08-28T11:23:27.000Z",
    "category": "緊急救護",
    "place": "新竹市東區慈濟路",
@@ -32,16 +41,16 @@
    "state": "unknown"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-08-28T11:20:06.000Z",
    "category": "緊急救護",
    "place": "新竹市東區學府路",
    "unit": "光復分隊",
-   "status": "已到達",
+   "status": "已到院",
    "state": "unknown"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-08-28T09:50:39.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路",
@@ -50,7 +59,7 @@
    "state": "returning"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-08-28T09:36:20.000Z",
    "category": "其他",
    "place": "新竹市香山區中華路五段",
@@ -59,7 +68,7 @@
    "state": "returning"
   },
   {
-   "seq": 7,
+   "seq": 8,
    "receivedAt": "2026-08-28T09:19:48.000Z",
    "category": "其他",
    "place": "新竹市東區金山十九街",
@@ -68,7 +77,7 @@
    "state": "returning"
   },
   {
-   "seq": 8,
+   "seq": 9,
    "receivedAt": "2026-08-28T08:56:42.000Z",
    "category": "其他",
    "place": "新竹市北區公道五路四段",
@@ -77,7 +86,7 @@
    "state": "returning"
   },
   {
-   "seq": 9,
+   "seq": 10,
    "receivedAt": "2026-08-28T08:27:30.000Z",
    "category": "其他",
    "place": "新竹市東區光復路二段",
@@ -86,7 +95,7 @@
    "state": "returning"
   },
   {
-   "seq": 10,
+   "seq": 11,
    "receivedAt": "2026-08-28T08:10:45.000Z",
    "category": "其他",
    "place": "新竹市北區延平路一段",
@@ -95,7 +104,7 @@
    "state": "closed"
   },
   {
-   "seq": 11,
+   "seq": 12,
    "receivedAt": "2026-08-28T07:02:40.000Z",
    "category": "其他",
    "place": "新竹市東區光復路二段",
@@ -104,7 +113,7 @@
    "state": "returning"
   },
   {
-   "seq": 12,
+   "seq": 13,
    "receivedAt": "2026-08-28T06:44:06.000Z",
    "category": "其他",
    "place": "新竹市香山區遊樂街29巷",
@@ -113,7 +122,7 @@
    "state": "returning"
   },
   {
-   "seq": 13,
+   "seq": 14,
    "receivedAt": "2026-08-28T06:41:07.000Z",
    "category": "其他",
    "place": "新竹市香山區中華路五段331巷",
@@ -122,7 +131,7 @@
    "state": "returning"
   },
   {
-   "seq": 14,
+   "seq": 15,
    "receivedAt": "2026-08-28T06:08:42.000Z",
    "category": "其他",
    "place": "新竹市香山區中華路五段320巷5弄",
@@ -131,7 +140,7 @@
    "state": "returning"
   },
   {
-   "seq": 15,
+   "seq": 16,
    "receivedAt": "2026-08-28T06:04:31.000Z",
    "category": "其他",
    "place": "新竹市北區中山分隊[中山路",
@@ -140,7 +149,7 @@
    "state": "returning"
   },
   {
-   "seq": 16,
+   "seq": 17,
    "receivedAt": "2026-08-28T05:49:06.000Z",
    "category": "其他",
    "place": "新竹市香山區中華路五段420巷",
@@ -149,7 +158,7 @@
    "state": "returning"
   },
   {
-   "seq": 17,
+   "seq": 18,
    "receivedAt": "2026-08-28T05:45:36.000Z",
    "category": "其他",
    "place": "新竹市香山區延平路二段",
@@ -158,7 +167,7 @@
    "state": "returning"
   },
   {
-   "seq": 18,
+   "seq": 19,
    "receivedAt": "2026-08-28T02:13:49.000Z",
    "category": "其他",
    "place": "新竹市東區力行六路",
@@ -167,7 +176,7 @@
    "state": "returning"
   },
   {
-   "seq": 19,
+   "seq": 20,
    "receivedAt": "2026-08-28T02:02:00.000Z",
    "category": "其他",
    "place": "新竹市香山區中華路五段",
