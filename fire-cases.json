@@ -1,29 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-28T21:00:02.420Z",
- "count": 3,
+ "fetchedAt": "2026-08-28T21:10:02.407Z",
+ "count": 2,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-08-28T19:57:40.000Z",
+   "receivedAt": "2026-08-28T21:04:49.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區中正路",
-   "unit": "竹光分隊",
-   "status": "已返隊",
-   "state": "closed"
+   "place": "新竹市東區光復路一段89巷",
+   "unit": "金山分隊",
+   "status": "已出動",
+   "state": "dispatched"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-08-28T19:48:43.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區西大路135巷",
-   "unit": "明湖分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 3,
    "receivedAt": "2026-08-28T17:32:06.000Z",
    "category": "緊急救護",
    "place": "新竹市北區天府路一段",
