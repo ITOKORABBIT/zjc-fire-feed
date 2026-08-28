@@ -1,20 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-28T19:40:02.318Z",
- "count": 3,
+ "fetchedAt": "2026-08-28T19:50:02.463Z",
+ "count": 4,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-08-28T19:48:43.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區西大路135巷",
+   "unit": "明湖分隊",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-08-28T18:50:33.000Z",
    "category": "緊急救護",
    "place": "新竹市東區力行一路",
    "unit": "金山分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-08-28T17:51:41.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區延平路二段95巷",
@@ -23,7 +32,7 @@
    "state": "closed"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-08-28T17:32:06.000Z",
    "category": "緊急救護",
    "place": "新竹市北區天府路一段",
