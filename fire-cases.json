@@ -1,20 +1,11 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-30T20:20:02.018Z",
- "count": 2,
+ "fetchedAt": "2026-08-30T20:30:02.023Z",
+ "count": 1,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-08-30T20:02:54.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區公園路和東南街53巷",
-   "unit": "光復分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 2,
    "receivedAt": "2026-08-30T15:44:34.000Z",
    "category": "緊急救護",
    "place": "新竹市東區建中一路",
