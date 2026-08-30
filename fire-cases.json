@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-30T11:10:01.593Z",
- "count": 8,
+ "fetchedAt": "2026-08-30T11:20:01.592Z",
+ "count": 6,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-08-30T11:18:11.000Z",
+   "category": "火災",
+   "place": "新竹市",
+   "unit": "朝山分隊",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-08-30T10:53:53.000Z",
    "category": "緊急救護",
    "place": "新竹市北區經國路二段和凌雲街",
@@ -14,43 +23,16 @@
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-08-30T10:48:44.000Z",
    "category": "緊急救護",
    "place": "新竹市東區台灣鐵路管理局新竹站前站[中華路二段",
    "unit": "光復分隊",
-   "status": "已到院",
-   "state": "unknown"
-  },
-  {
-   "seq": 3,
-   "receivedAt": "2026-08-30T10:37:01.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區寶山路",
-   "unit": "埔頂分隊",
-   "status": "已返隊",
-   "state": "closed"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 4,
-   "receivedAt": "2026-08-30T10:32:31.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區東門街34巷",
-   "unit": "中山分隊",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 5,
-   "receivedAt": "2026-08-30T10:23:22.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區武陵路",
-   "unit": "竹光分隊",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 6,
    "receivedAt": "2026-08-30T10:11:12.000Z",
    "category": "緊急救護",
    "place": "新竹市東區明湖路",
@@ -59,7 +41,7 @@
    "state": "closed"
   },
   {
-   "seq": 7,
+   "seq": 5,
    "receivedAt": "2026-08-30T08:25:53.000Z",
    "category": "其他",
    "place": "新竹市東區志平路",
@@ -68,7 +50,7 @@
    "state": "returning"
   },
   {
-   "seq": 8,
+   "seq": 6,
    "receivedAt": "2026-08-30T07:35:50.000Z",
    "category": "其他",
    "place": "新竹市北區府後街",
