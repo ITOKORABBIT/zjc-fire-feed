@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-30T22:10:02.087Z",
- "count": 1,
+ "fetchedAt": "2026-08-30T22:20:02.231Z",
+ "count": 2,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-08-30T22:15:51.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區經國路二段",
+   "unit": "中山分隊,竹光分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-08-30T15:44:34.000Z",
    "category": "緊急救護",
    "place": "新竹市東區建中一路",
