@@ -1,20 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-30T15:30:01.782Z",
- "count": 3,
+ "fetchedAt": "2026-08-30T15:40:01.795Z",
+ "count": 4,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-08-30T15:36:38.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區清大體育館/蒙民偉樓[新竹市東區光復路一段",
+   "unit": "埔頂分隊",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-08-30T15:11:26.000Z",
    "category": "緊急救護",
    "place": "新竹市北區中正路485巷",
    "unit": "竹光分隊",
-   "status": "已到達",
+   "status": "已到院",
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-08-30T15:07:24.000Z",
    "category": "緊急救護",
    "place": "新竹市北區金竹路102巷",
@@ -23,13 +32,13 @@
    "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-08-30T14:54:25.000Z",
    "category": "緊急救護",
    "place": "新竹市東區中華路一段",
    "unit": "三民分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   }
  ]
 }
