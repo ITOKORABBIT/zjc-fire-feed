@@ -1,17 +1,17 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-31T15:50:01.902Z",
+ "fetchedAt": "2026-08-31T16:10:01.901Z",
  "count": 1,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-08-31T14:34:40.000Z",
+   "receivedAt": "2026-08-31T16:06:31.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區西大路736巷19弄",
-   "unit": "竹光分隊",
-   "status": "已返隊",
-   "state": "closed"
+   "place": "新竹市北區北大路",
+   "unit": "中山分隊",
+   "status": "已到達",
+   "state": "unknown"
   }
  ]
 }
