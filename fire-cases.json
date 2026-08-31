@@ -1,29 +1,47 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-31T23:20:02.000Z",
- "count": 7,
+ "fetchedAt": "2026-08-31T23:30:01.985Z",
+ "count": 8,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-08-31T23:18:33.000Z",
+   "receivedAt": "2026-08-31T23:26:46.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區關東路9巷",
+   "place": "新竹市東區光復路一段",
    "unit": "金山分隊",
-   "status": "已派遣",
+   "status": "已出動",
    "state": "dispatched"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-08-31T23:17:19.000Z",
+   "receivedAt": "2026-08-31T23:24:03.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區中華路二段",
-   "unit": "三民分隊",
+   "place": "新竹市東區金城一路",
+   "unit": "埔頂分隊",
    "status": "已出動",
    "state": "dispatched"
   },
   {
    "seq": 3,
+   "receivedAt": "2026-08-31T23:19:13.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區關東路9巷",
+   "unit": "埔頂分隊,金山分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 4,
+   "receivedAt": "2026-08-31T23:17:19.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區中華路二段",
+   "unit": "三民分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 5,
    "receivedAt": "2026-08-31T23:00:43.000Z",
    "category": "緊急救護",
    "place": "新竹市東區高峰路2巷",
@@ -32,7 +50,7 @@
    "state": "unknown"
   },
   {
-   "seq": 4,
+   "seq": 6,
    "receivedAt": "2026-08-31T22:46:47.000Z",
    "category": "緊急救護",
    "place": "新竹市東區明湖里明湖路982巷2弄",
@@ -41,16 +59,7 @@
    "state": "unknown"
   },
   {
-   "seq": 5,
-   "receivedAt": "2026-08-31T22:41:41.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區延平路一段261巷4弄",
-   "unit": "香山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-08-31T20:52:03.000Z",
    "category": "緊急救護",
    "place": "新竹市東區南大路",
@@ -59,7 +68,7 @@
    "state": "closed"
   },
   {
-   "seq": 7,
+   "seq": 8,
    "receivedAt": "2026-08-31T16:27:56.000Z",
    "category": "緊急救護",
    "place": "新竹市東區中央路",
