@@ -1,15 +1,15 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-31T07:10:01.525Z",
+ "fetchedAt": "2026-08-31T07:20:01.554Z",
  "count": 5,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-08-31T06:48:07.000Z",
+   "receivedAt": "2026-08-31T07:14:27.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區明湖分隊[明湖路1075巷",
-   "unit": "明湖分隊",
+   "place": "新竹市香山區中華路四段",
+   "unit": "香山分隊",
    "status": "已出動",
    "state": "dispatched"
   },
@@ -28,8 +28,8 @@
    "category": "緊急救護",
    "place": "新竹市北區延平路一段261巷4弄",
    "unit": "香山分隊",
-   "status": "返隊中",
-   "state": "returning"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
    "seq": 4,
@@ -37,7 +37,7 @@
    "category": "緊急救護",
    "place": "新竹市東區大學路",
    "unit": "埔頂分隊",
-   "status": "送醫中",
+   "status": "已到院",
    "state": "unknown"
   },
   {
