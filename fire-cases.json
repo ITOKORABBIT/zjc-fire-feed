@@ -1,20 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-31T02:10:02.362Z",
- "count": 4,
+ "fetchedAt": "2026-08-31T02:20:02.312Z",
+ "count": 5,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-08-31T02:12:18.000Z",
+   "category": "其他",
+   "place": "新竹市香山區浸水南街84巷",
+   "unit": "委外廠商",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-08-31T01:48:38.000Z",
    "category": "緊急救護",
    "place": "新竹市東區學府路和東山街",
    "unit": "光復分隊",
-   "status": "已到達",
+   "status": "已到院",
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-08-31T01:26:47.000Z",
    "category": "其他",
    "place": "新竹市香山區牛埔南路48巷",
@@ -23,7 +32,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-08-31T01:05:16.000Z",
    "category": "其他",
    "place": "新竹市東區力行二路",
@@ -32,7 +41,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-08-31T00:43:48.000Z",
    "category": "其他",
    "place": "新竹市東區新莊街",
