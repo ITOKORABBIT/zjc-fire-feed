@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-31T13:50:01.803Z",
- "count": 3,
+ "fetchedAt": "2026-08-31T14:00:01.830Z",
+ "count": 4,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-08-31T13:58:23.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區研新一路",
+   "unit": "埔頂分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-08-31T13:18:15.000Z",
    "category": "其他",
    "place": "新竹市香山區南港街101巷23弄",
@@ -14,7 +23,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-08-31T13:17:51.000Z",
    "category": "緊急救護",
    "place": "新竹市東區南大路473巷",
@@ -23,7 +32,7 @@
    "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-08-31T12:22:00.000Z",
    "category": "緊急救護",
    "place": "新竹市東區科學園路",
