@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-31T11:30:01.795Z",
- "count": 12,
+ "fetchedAt": "2026-08-31T11:40:01.748Z",
+ "count": 13,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-08-31T11:31:34.000Z",
+   "category": "緊急救護",
+   "place": "新竹市香山區長興街",
+   "unit": "香山分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-08-31T11:18:33.000Z",
    "category": "其他",
    "place": "新竹市香山區香村路421巷20弄",
@@ -14,25 +23,25 @@
    "state": "dispatched"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-08-31T11:14:02.000Z",
    "category": "緊急救護",
    "place": "新竹市東區光復路二段",
    "unit": "光復分隊",
-   "status": "已到達",
+   "status": "已到院",
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-08-31T11:13:07.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區中華路六段647巷136弄",
    "unit": "朝山分隊",
-   "status": "已到達",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-08-31T10:53:43.000Z",
    "category": "緊急救護",
    "place": "新竹市東區慈雲路",
@@ -41,16 +50,16 @@
    "state": "unknown"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-08-31T10:47:50.000Z",
    "category": "緊急救護",
    "place": "新竹市東區光復路一段607巷1弄",
    "unit": "埔頂分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-08-31T10:45:21.000Z",
    "category": "緊急救護",
    "place": "新竹市東區關東路",
@@ -59,7 +68,7 @@
    "state": "returning"
   },
   {
-   "seq": 7,
+   "seq": 8,
    "receivedAt": "2026-08-31T10:09:28.000Z",
    "category": "緊急救護",
    "place": "新竹市東區建中一路",
@@ -68,7 +77,7 @@
    "state": "closed"
   },
   {
-   "seq": 8,
+   "seq": 9,
    "receivedAt": "2026-08-31T09:18:27.000Z",
    "category": "其他",
    "place": "新竹市北區愛文街26巷",
@@ -77,7 +86,7 @@
    "state": "returning"
   },
   {
-   "seq": 9,
+   "seq": 10,
    "receivedAt": "2026-08-31T09:14:59.000Z",
    "category": "其他",
    "place": "新竹市香山區香檳五街",
@@ -86,7 +95,7 @@
    "state": "returning"
   },
   {
-   "seq": 10,
+   "seq": 11,
    "receivedAt": "2026-08-31T09:04:59.000Z",
    "category": "其他",
    "place": "新竹市香山區牛埔北路171巷12弄",
@@ -95,7 +104,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 11,
+   "seq": 12,
    "receivedAt": "2026-08-31T06:44:22.000Z",
    "category": "其他",
    "place": "新竹市香山區中華路五段522巷",
@@ -104,7 +113,7 @@
    "state": "returning"
   },
   {
-   "seq": 12,
+   "seq": 13,
    "receivedAt": "2026-08-31T04:41:34.000Z",
    "category": "其他",
    "place": "新竹市北區成功路",
