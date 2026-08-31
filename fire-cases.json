@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-31T16:20:02.043Z",
- "count": 1,
+ "fetchedAt": "2026-08-31T16:30:01.948Z",
+ "count": 2,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-08-31T16:27:56.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區中央路",
+   "unit": "三民分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-08-31T16:06:31.000Z",
    "category": "緊急救護",
    "place": "新竹市北區北大路",
