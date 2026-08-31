@@ -1,11 +1,38 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-31T09:10:01.605Z",
- "count": 5,
+ "fetchedAt": "2026-08-31T09:20:01.631Z",
+ "count": 8,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-08-31T09:18:27.000Z",
+   "category": "其他",
+   "place": "新竹市北區愛文街26巷",
+   "unit": "委外廠商",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
+   "receivedAt": "2026-08-31T09:17:57.000Z",
+   "category": "緊急救護",
+   "place": "新竹市湳雅街",
+   "unit": "中山分隊",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 3,
+   "receivedAt": "2026-08-31T09:14:59.000Z",
+   "category": "其他",
+   "place": "新竹市香山區香檳五街",
+   "unit": "委外廠商",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 4,
    "receivedAt": "2026-08-31T09:04:59.000Z",
    "category": "其他",
    "place": "新竹市香山區牛埔北路171巷12弄",
@@ -14,25 +41,25 @@
    "state": "dispatched"
   },
   {
-   "seq": 2,
+   "seq": 5,
    "receivedAt": "2026-08-31T09:00:35.000Z",
    "category": "緊急救護",
    "place": "新竹市東區北大路",
    "unit": "三民分隊",
-   "status": "已到達",
-   "state": "unknown"
-  },
-  {
-   "seq": 3,
-   "receivedAt": "2026-08-31T08:55:05.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區中華路六段",
-   "unit": "朝山分隊",
    "status": "送醫中",
    "state": "unknown"
   },
   {
-   "seq": 4,
+   "seq": 6,
+   "receivedAt": "2026-08-31T08:55:05.000Z",
+   "category": "緊急救護",
+   "place": "新竹市香山區中華路六段",
+   "unit": "朝山分隊",
+   "status": "已到院",
+   "state": "unknown"
+  },
+  {
+   "seq": 7,
    "receivedAt": "2026-08-31T06:44:22.000Z",
    "category": "其他",
    "place": "新竹市香山區中華路五段522巷",
@@ -41,7 +68,7 @@
    "state": "returning"
   },
   {
-   "seq": 5,
+   "seq": 8,
    "receivedAt": "2026-08-31T04:41:34.000Z",
    "category": "其他",
    "place": "新竹市北區成功路",
