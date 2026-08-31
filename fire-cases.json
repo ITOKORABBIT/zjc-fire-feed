@@ -1,33 +1,33 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-31T15:00:01.873Z",
+ "fetchedAt": "2026-08-31T15:10:01.970Z",
  "count": 3,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-08-31T14:34:40.000Z",
+   "receivedAt": "2026-08-31T15:00:44.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區西大路736巷19弄",
-   "unit": "竹光分隊",
+   "place": "新竹市北區延平路一段",
+   "unit": "香山分隊",
    "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-08-31T14:24:24.000Z",
+   "receivedAt": "2026-08-31T14:34:40.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區民享街136巷",
-   "unit": "金山分隊",
-   "status": "已到院",
+   "place": "新竹市北區西大路736巷19弄",
+   "unit": "竹光分隊",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
    "seq": 3,
-   "receivedAt": "2026-08-31T13:58:23.000Z",
+   "receivedAt": "2026-08-31T14:24:24.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區研新一路",
-   "unit": "明湖分隊",
+   "place": "新竹市東區民享街136巷",
+   "unit": "金山分隊",
    "status": "已到院",
    "state": "unknown"
   }
