@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-08-31T15:30:01.905Z",
- "count": 3,
+ "fetchedAt": "2026-08-31T15:40:01.887Z",
+ "count": 2,
  "items": [
   {
    "seq": 1,
@@ -21,15 +21,6 @@
    "unit": "竹光分隊",
    "status": "已到院",
    "state": "unknown"
-  },
-  {
-   "seq": 3,
-   "receivedAt": "2026-08-31T14:24:24.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區民享街136巷",
-   "unit": "金山分隊",
-   "status": "已返隊",
-   "state": "closed"
   }
  ]
 }
