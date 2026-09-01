@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-01T06:40:02.336Z",
- "count": 2,
+ "fetchedAt": "2026-09-01T06:50:02.349Z",
+ "count": 3,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-01T06:46:47.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區中山路40巷",
+   "unit": "中山分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-09-01T06:19:58.000Z",
    "category": "緊急救護",
    "place": "新竹市東區自由路",
@@ -14,7 +23,7 @@
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-09-01T05:25:58.000Z",
    "category": "緊急救護",
    "place": "新竹市東區光復路一段",
