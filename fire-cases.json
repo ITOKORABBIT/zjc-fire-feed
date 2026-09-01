@@ -1,20 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-01T05:10:02.287Z",
- "count": 6,
+ "fetchedAt": "2026-09-01T05:20:02.303Z",
+ "count": 7,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-01T05:14:42.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區高峰路",
+   "unit": "光復分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-09-01T04:59:39.000Z",
    "category": "火災",
    "place": "新竹市北區東大路四段237巷",
    "unit": "中山分隊,南寮分隊,竹光分隊,香山分隊",
-   "status": "已到達",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-09-01T04:55:32.000Z",
    "category": "緊急救護",
    "place": "新竹市東區中央路",
@@ -23,7 +32,7 @@
    "state": "closed"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-09-01T04:26:05.000Z",
    "category": "緊急救護",
    "place": "新竹市東區建功一路51巷",
@@ -32,31 +41,31 @@
    "state": "unknown"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-09-01T04:21:58.000Z",
    "category": "緊急救護",
    "place": "新竹市東區東明街138巷",
    "unit": "光復分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-09-01T04:17:56.000Z",
    "category": "緊急救護",
    "place": "新竹市",
    "unit": "明湖分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-09-01T04:12:52.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區頂埔路19巷5弄",
    "unit": "香山分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   }
  ]
 }
