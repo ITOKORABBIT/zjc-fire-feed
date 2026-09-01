@@ -1,20 +1,11 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-01T17:30:40.401Z",
- "count": 2,
+ "fetchedAt": "2026-09-01T17:40:02.151Z",
+ "count": 1,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-09-01T17:16:18.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區中華路二段10巷",
-   "unit": "三民分隊",
-   "status": "已到達",
-   "state": "unknown"
-  },
-  {
-   "seq": 2,
    "receivedAt": "2026-09-01T16:34:29.000Z",
    "category": "火災",
    "place": "新竹市東區公園路",
