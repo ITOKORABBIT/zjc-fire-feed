@@ -1,20 +1,11 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-01T10:10:01.530Z",
- "count": 2,
+ "fetchedAt": "2026-09-01T10:20:01.527Z",
+ "count": 1,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-09-01T09:25:37.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區成功路",
-   "unit": "竹光分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 2,
    "receivedAt": "2026-09-01T09:12:51.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區中華路五段522巷",
