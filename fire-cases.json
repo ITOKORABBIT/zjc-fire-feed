@@ -1,11 +1,38 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-01T01:00:02.084Z",
- "count": 8,
+ "fetchedAt": "2026-09-01T01:10:02.117Z",
+ "count": 9,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-01T01:08:26.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區公道五路三段",
+   "unit": "三民分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
+   "receivedAt": "2026-09-01T01:05:57.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區中和路136巷",
+   "unit": "香山分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 3,
+   "receivedAt": "2026-09-01T01:05:33.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區明湖路775巷",
+   "unit": "明湖分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 4,
    "receivedAt": "2026-09-01T00:54:35.000Z",
    "category": "其他",
    "place": "新竹市香山區浸水街406巷",
@@ -14,25 +41,25 @@
    "state": "dispatched"
   },
   {
-   "seq": 2,
+   "seq": 5,
    "receivedAt": "2026-09-01T00:44:31.000Z",
    "category": "緊急救護",
    "place": "新竹市東區民主路",
    "unit": "三民分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 3,
+   "seq": 6,
    "receivedAt": "2026-09-01T00:44:27.000Z",
    "category": "緊急救護",
    "place": "新竹市北區中央市場靠近南門街",
    "unit": "中山分隊",
-   "status": "已到達",
+   "status": "已到院",
    "state": "unknown"
   },
   {
-   "seq": 4,
+   "seq": 7,
    "receivedAt": "2026-09-01T00:08:52.000Z",
    "category": "其他",
    "place": "新竹市香山區大庄路",
@@ -41,34 +68,16 @@
    "state": "dispatched"
   },
   {
-   "seq": 5,
+   "seq": 8,
    "receivedAt": "2026-09-01T00:00:54.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區中華路四段",
    "unit": "朝山分隊",
-   "status": "已到院",
-   "state": "unknown"
-  },
-  {
-   "seq": 6,
-   "receivedAt": "2026-08-31T23:59:05.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區湳中街",
-   "unit": "竹光分隊",
    "status": "返隊中",
    "state": "returning"
   },
   {
-   "seq": 7,
-   "receivedAt": "2026-08-31T23:44:00.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區關東路178巷",
-   "unit": "三民分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 8,
+   "seq": 9,
    "receivedAt": "2026-08-31T23:00:43.000Z",
    "category": "緊急救護",
    "place": "新竹市東區高峰路2巷",
