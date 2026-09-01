@@ -1,7 +1,7 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-01T02:50:02.158Z",
+ "fetchedAt": "2026-09-01T03:00:02.174Z",
  "count": 6,
  "items": [
   {
@@ -19,7 +19,7 @@
    "category": "緊急救護",
    "place": "新竹市東區民生路",
    "unit": "中山分隊",
-   "status": "已到達",
+   "status": "已到院",
    "state": "unknown"
   },
   {
@@ -28,7 +28,7 @@
    "category": "緊急救護",
    "place": "新竹市東區自由路",
    "unit": "三民分隊",
-   "status": "送醫中",
+   "status": "已到院",
    "state": "unknown"
   },
   {
