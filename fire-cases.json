@@ -1,35 +1,17 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-01T17:00:01.834Z",
- "count": 3,
+ "fetchedAt": "2026-09-01T17:10:01.809Z",
+ "count": 1,
  "items": [
   {
    "seq": 1,
    "receivedAt": "2026-09-01T16:34:29.000Z",
    "category": "火災",
-   "place": "新竹市東區玻璃工藝館附近(警報器作動)[新竹市東區東大路一段",
+   "place": "新竹市東區公園路",
    "unit": "光復分隊",
    "status": "已到達",
    "state": "unknown"
-  },
-  {
-   "seq": 2,
-   "receivedAt": "2026-09-01T16:00:44.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區介壽路",
-   "unit": "金山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 3,
-   "receivedAt": "2026-09-01T15:55:10.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區食品路",
-   "unit": "明湖分隊",
-   "status": "已返隊",
-   "state": "closed"
   }
  ]
 }
