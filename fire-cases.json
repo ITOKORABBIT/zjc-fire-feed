@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-01T00:10:02.037Z",
- "count": 14,
+ "fetchedAt": "2026-09-01T00:20:02.060Z",
+ "count": 11,
  "items": [
   {
    "seq": 1,
@@ -28,8 +28,8 @@
    "category": "緊急救護",
    "place": "新竹市香山區中華路四段",
    "unit": "朝山分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "已到達",
+   "state": "unknown"
   },
   {
    "seq": 4,
@@ -60,60 +60,33 @@
   },
   {
    "seq": 7,
-   "receivedAt": "2026-08-31T23:30:41.000Z",
+   "receivedAt": "2026-08-31T23:26:46.000Z",
    "category": "緊急救護",
-   "place": "新竹市食品路",
-   "unit": "明湖分隊",
+   "place": "新竹市東區光復路一段",
+   "unit": "埔頂分隊",
    "status": "已返隊",
    "state": "closed"
   },
   {
    "seq": 8,
-   "receivedAt": "2026-08-31T23:26:46.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區光復路一段",
-   "unit": "埔頂分隊",
-   "status": "已到院",
-   "state": "unknown"
-  },
-  {
-   "seq": 9,
-   "receivedAt": "2026-08-31T23:24:03.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區金城一路",
-   "unit": "埔頂分隊",
-   "status": "已到院",
-   "state": "unknown"
-  },
-  {
-   "seq": 10,
    "receivedAt": "2026-08-31T23:19:13.000Z",
    "category": "緊急救護",
    "place": "新竹市東區關東路9巷",
    "unit": "金山分隊",
-   "status": "已到達",
-   "state": "unknown"
-  },
-  {
-   "seq": 11,
-   "receivedAt": "2026-08-31T23:17:19.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區中華路二段",
-   "unit": "三民分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 12,
-   "receivedAt": "2026-08-31T23:00:43.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區高峰路2巷",
-   "unit": "中山分隊,光復分隊",
    "status": "返隊中",
    "state": "returning"
   },
   {
-   "seq": 13,
+   "seq": 9,
+   "receivedAt": "2026-08-31T23:00:43.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區高峰路2巷",
+   "unit": "中山分隊,光復分隊",
+   "status": "已返隊",
+   "state": "closed"
+  },
+  {
+   "seq": 10,
    "receivedAt": "2026-08-31T20:52:03.000Z",
    "category": "緊急救護",
    "place": "新竹市東區南大路",
@@ -122,7 +95,7 @@
    "state": "closed"
   },
   {
-   "seq": 14,
+   "seq": 11,
    "receivedAt": "2026-08-31T16:27:56.000Z",
    "category": "緊急救護",
    "place": "新竹市東區中央路",
