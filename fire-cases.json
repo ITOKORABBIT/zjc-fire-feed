@@ -1,29 +1,56 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-01T00:00:02.036Z",
- "count": 11,
+ "fetchedAt": "2026-09-01T00:10:02.037Z",
+ "count": 14,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-08-31T23:59:05.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區湳中街",
-   "unit": "竹光分隊",
+   "receivedAt": "2026-09-01T00:08:52.000Z",
+   "category": "其他",
+   "place": "新竹市香山區大庄路",
+   "unit": "委外廠商",
    "status": "已派遣",
    "state": "dispatched"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-08-31T23:44:00.000Z",
+   "receivedAt": "2026-09-01T00:02:57.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區關東路178巷",
-   "unit": "三民分隊",
+   "place": "新竹市東區自由路",
+   "unit": "中山分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 3,
+   "receivedAt": "2026-09-01T00:00:54.000Z",
+   "category": "緊急救護",
+   "place": "新竹市香山區中華路四段",
+   "unit": "朝山分隊",
    "status": "已出動",
    "state": "dispatched"
   },
   {
-   "seq": 3,
+   "seq": 4,
+   "receivedAt": "2026-08-31T23:59:05.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區湳中街",
+   "unit": "竹光分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 5,
+   "receivedAt": "2026-08-31T23:44:00.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區關東路178巷",
+   "unit": "三民分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 6,
    "receivedAt": "2026-08-31T23:35:11.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區牛埔北路37巷",
@@ -32,7 +59,7 @@
    "state": "unknown"
   },
   {
-   "seq": 4,
+   "seq": 7,
    "receivedAt": "2026-08-31T23:30:41.000Z",
    "category": "緊急救護",
    "place": "新竹市食品路",
@@ -41,7 +68,7 @@
    "state": "closed"
   },
   {
-   "seq": 5,
+   "seq": 8,
    "receivedAt": "2026-08-31T23:26:46.000Z",
    "category": "緊急救護",
    "place": "新竹市東區光復路一段",
@@ -50,7 +77,7 @@
    "state": "unknown"
   },
   {
-   "seq": 6,
+   "seq": 9,
    "receivedAt": "2026-08-31T23:24:03.000Z",
    "category": "緊急救護",
    "place": "新竹市東區金城一路",
@@ -59,7 +86,7 @@
    "state": "unknown"
   },
   {
-   "seq": 7,
+   "seq": 10,
    "receivedAt": "2026-08-31T23:19:13.000Z",
    "category": "緊急救護",
    "place": "新竹市東區關東路9巷",
@@ -68,7 +95,7 @@
    "state": "unknown"
   },
   {
-   "seq": 8,
+   "seq": 11,
    "receivedAt": "2026-08-31T23:17:19.000Z",
    "category": "緊急救護",
    "place": "新竹市東區中華路二段",
@@ -77,7 +104,7 @@
    "state": "closed"
   },
   {
-   "seq": 9,
+   "seq": 12,
    "receivedAt": "2026-08-31T23:00:43.000Z",
    "category": "緊急救護",
    "place": "新竹市東區高峰路2巷",
@@ -86,7 +113,7 @@
    "state": "returning"
   },
   {
-   "seq": 10,
+   "seq": 13,
    "receivedAt": "2026-08-31T20:52:03.000Z",
    "category": "緊急救護",
    "place": "新竹市東區南大路",
@@ -95,7 +122,7 @@
    "state": "closed"
   },
   {
-   "seq": 11,
+   "seq": 14,
    "receivedAt": "2026-08-31T16:27:56.000Z",
    "category": "緊急救護",
    "place": "新竹市東區中央路",
