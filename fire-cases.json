@@ -1,17 +1,17 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-01T19:40:01.889Z",
+ "fetchedAt": "2026-09-01T20:00:01.914Z",
  "count": 1,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-09-01T18:50:12.000Z",
-   "category": "火災",
-   "place": "新竹市東區金山二十街",
-   "unit": "金山分隊",
-   "status": "已到達",
-   "state": "unknown"
+   "receivedAt": "2026-09-01T19:58:31.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區光復路一段",
+   "unit": "埔頂分隊",
+   "status": "已出動",
+   "state": "dispatched"
   }
  ]
 }
