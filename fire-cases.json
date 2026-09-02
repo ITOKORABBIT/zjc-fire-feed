@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-02T00:20:02.148Z",
+ "fetchedAt": "2026-09-02T00:30:02.180Z",
  "count": 8,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-02T00:24:38.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區私立曙光小學[北大路",
+   "unit": "三民分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-09-02T00:11:56.000Z",
    "category": "其他",
    "place": "新竹市香山區",
@@ -14,7 +23,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-09-01T23:56:07.000Z",
    "category": "緊急救護",
    "place": "新竹市北區中正路和中正路223巷",
@@ -23,16 +32,16 @@
    "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-09-01T23:54:39.000Z",
    "category": "緊急救護",
    "place": "新竹市東區園區三路",
    "unit": "埔頂分隊",
-   "status": "已到達",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-09-01T23:50:42.000Z",
    "category": "緊急救護",
    "place": "新竹市東區光復路一段354巷",
@@ -41,22 +50,13 @@
    "state": "unknown"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-09-01T23:36:52.000Z",
    "category": "緊急救護",
    "place": "新竹市東區振興路",
    "unit": "香山分隊",
    "status": "返隊中",
    "state": "returning"
-  },
-  {
-   "seq": 6,
-   "receivedAt": "2026-09-01T23:22:48.000Z",
-   "category": "其他",
-   "place": "新竹市香山區育德街139巷18弄",
-   "unit": "香山分隊",
-   "status": "已返隊",
-   "state": "closed"
   },
   {
    "seq": 7,
