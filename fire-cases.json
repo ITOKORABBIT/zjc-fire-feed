@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-02T18:30:02.037Z",
- "count": 8,
+ "fetchedAt": "2026-09-02T18:40:02.004Z",
+ "count": 5,
  "items": [
   {
    "seq": 1,
@@ -19,7 +19,7 @@
    "category": "緊急救護",
    "place": "新竹市北區中山路",
    "unit": "中山分隊",
-   "status": "已到達",
+   "status": "已到院",
    "state": "unknown"
   },
   {
@@ -28,38 +28,11 @@
    "category": "緊急救護",
    "place": "新竹市北區武陵路175巷",
    "unit": "竹光分隊",
-   "status": "已到達",
+   "status": "已到院",
    "state": "unknown"
   },
   {
-   "seq": 5,
-   "receivedAt": "2026-09-02T17:33:22.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區中華路三段",
-   "unit": "香山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
    "seq": 4,
-   "receivedAt": "2026-09-02T17:33:05.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區水田街",
-   "unit": "三民分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 6,
-   "receivedAt": "2026-09-02T16:55:59.000Z",
-   "category": "火災",
-   "place": "新竹市北區金雅路",
-   "unit": "三民分隊,中山分隊,光復分隊,竹光分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 7,
    "receivedAt": "2026-09-02T15:04:45.000Z",
    "category": "緊急救護",
    "place": "新竹市北區延平路一段",
@@ -68,7 +41,7 @@
    "state": "closed"
   },
   {
-   "seq": 8,
+   "seq": 5,
    "receivedAt": "2026-09-02T12:01:08.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路486巷",
