@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-02T10:30:01.682Z",
+ "fetchedAt": "2026-09-02T10:40:01.827Z",
  "count": 10,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-02T10:34:32.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區光復路一段",
+   "unit": "埔頂分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-09-02T10:03:20.000Z",
    "category": "緊急救護",
    "place": "新竹市東區金城一路35巷",
@@ -14,40 +23,31 @@
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-09-02T09:52:46.000Z",
    "category": "緊急救護",
    "place": "新竹市東區大學路",
    "unit": "埔頂分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-09-02T09:50:22.000Z",
    "category": "緊急救護",
    "place": "新竹市北區延平路三段667巷",
    "unit": "南寮分隊,竹光分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-09-02T09:11:42.000Z",
    "category": "其他",
    "place": "新竹市北區成功路192巷62弄",
    "unit": "委外廠商",
    "status": "已派遣",
    "state": "dispatched"
-  },
-  {
-   "seq": 5,
-   "receivedAt": "2026-09-02T08:40:57.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區香山火車站前[中華路五段347巷2弄",
-   "unit": "朝山分隊",
-   "status": "已返隊",
-   "state": "closed"
   },
   {
    "seq": 6,
