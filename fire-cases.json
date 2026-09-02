@@ -1,47 +1,56 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-02T01:20:02.233Z",
- "count": 7,
+ "fetchedAt": "2026-09-02T01:30:02.231Z",
+ "count": 8,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-02T01:28:23.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區公園路",
+   "unit": "埔頂分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-09-02T01:07:41.000Z",
    "category": "緊急救護",
    "place": "新竹市北區竹光路78巷7弄",
    "unit": "竹光分隊",
-   "status": "送醫中",
-   "state": "unknown"
-  },
-  {
-   "seq": 2,
-   "receivedAt": "2026-09-02T01:04:04.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區延平路一段",
-   "unit": "中山分隊",
-   "status": "送醫中",
+   "status": "已到院",
    "state": "unknown"
   },
   {
    "seq": 3,
-   "receivedAt": "2026-09-02T00:56:31.000Z",
+   "receivedAt": "2026-09-02T01:04:04.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區中央路355巷",
-   "unit": "三民分隊",
-   "status": "送醫中",
+   "place": "新竹市北區延平路一段",
+   "unit": "中山分隊",
+   "status": "已到院",
    "state": "unknown"
   },
   {
    "seq": 4,
-   "receivedAt": "2026-09-02T00:52:25.000Z",
+   "receivedAt": "2026-09-02T00:56:31.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區光復路一段",
-   "unit": "光復分隊",
-   "status": "已到達",
+   "place": "新竹市東區中央路355巷",
+   "unit": "三民分隊",
+   "status": "已到院",
    "state": "unknown"
   },
   {
    "seq": 5,
+   "receivedAt": "2026-09-02T00:52:25.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區光復路一段",
+   "unit": "光復分隊",
+   "status": "已到院",
+   "state": "unknown"
+  },
+  {
+   "seq": 6,
    "receivedAt": "2026-09-02T00:41:20.000Z",
    "category": "其他",
    "place": "新竹市東區",
@@ -50,7 +59,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-09-02T00:11:56.000Z",
    "category": "其他",
    "place": "新竹市香山區",
@@ -59,7 +68,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 7,
+   "seq": 8,
    "receivedAt": "2026-09-01T23:36:52.000Z",
    "category": "緊急救護",
    "place": "新竹市東區振興路",
