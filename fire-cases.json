@@ -1,20 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-02T00:40:02.169Z",
+ "fetchedAt": "2026-09-02T00:50:02.370Z",
  "count": 8,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-09-02T00:38:54.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區中正路",
-   "unit": "中山分隊",
-   "status": "已出動",
+   "receivedAt": "2026-09-02T00:41:20.000Z",
+   "category": "其他",
+   "place": "新竹市東區",
+   "unit": "委外廠商",
+   "status": "已派遣",
    "state": "dispatched"
   },
   {
    "seq": 2,
+   "receivedAt": "2026-09-02T00:38:54.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區中正路",
+   "unit": "中山分隊",
+   "status": "已返隊",
+   "state": "closed"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-09-02T00:24:38.000Z",
    "category": "緊急救護",
    "place": "新竹市東區私立曙光小學[北大路",
@@ -23,7 +32,7 @@
    "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-09-02T00:11:56.000Z",
    "category": "其他",
    "place": "新竹市香山區",
@@ -32,7 +41,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-09-01T23:56:07.000Z",
    "category": "緊急救護",
    "place": "新竹市北區中正路和中正路223巷",
@@ -41,7 +50,7 @@
    "state": "closed"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-09-01T23:54:39.000Z",
    "category": "緊急救護",
    "place": "新竹市東區園區三路",
@@ -50,7 +59,7 @@
    "state": "unknown"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-09-01T23:50:42.000Z",
    "category": "緊急救護",
    "place": "新竹市東區光復路一段354巷",
@@ -59,22 +68,13 @@
    "state": "returning"
   },
   {
-   "seq": 7,
+   "seq": 8,
    "receivedAt": "2026-09-01T23:36:52.000Z",
    "category": "緊急救護",
    "place": "新竹市東區振興路",
    "unit": "香山分隊",
    "status": "返隊中",
    "state": "returning"
-  },
-  {
-   "seq": 8,
-   "receivedAt": "2026-09-01T23:18:57.000Z",
-   "category": "其他",
-   "place": "新竹市香山區中華路四段409巷",
-   "unit": "明湖分隊",
-   "status": "已出動",
-   "state": "dispatched"
   }
  ]
 }
