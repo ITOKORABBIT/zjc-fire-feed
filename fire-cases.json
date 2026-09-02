@@ -1,34 +1,34 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-02T15:20:01.880Z",
+ "fetchedAt": "2026-09-02T15:30:01.901Z",
  "count": 4,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-09-02T15:17:50.000Z",
+   "receivedAt": "2026-09-02T15:29:11.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區嘉濱路",
-   "unit": "南寮分隊",
-   "status": "已出動",
+   "place": "新竹市北區中正路223巷",
+   "unit": "竹光分隊",
+   "status": "已派遣",
    "state": "dispatched"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-09-02T15:04:45.000Z",
+   "receivedAt": "2026-09-02T15:17:50.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區延平路一段",
-   "unit": "中山分隊",
+   "place": "新竹市北區嘉濱路",
+   "unit": "南寮分隊",
    "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 3,
-   "receivedAt": "2026-09-02T14:21:39.000Z",
+   "receivedAt": "2026-09-02T15:04:45.000Z",
    "category": "緊急救護",
-   "place": "新竹市香山區彩虹路",
-   "unit": "香山分隊",
-   "status": "已到院",
+   "place": "新竹市北區延平路一段",
+   "unit": "中山分隊",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
