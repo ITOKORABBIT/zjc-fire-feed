@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-02T02:10:02.238Z",
+ "fetchedAt": "2026-09-02T02:20:02.250Z",
  "count": 5,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-02T02:18:00.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區和平路",
+   "unit": "竹光分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-09-02T01:31:21.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區中華路五段648巷",
@@ -14,16 +23,16 @@
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-09-02T01:28:23.000Z",
    "category": "緊急救護",
    "place": "新竹市東區公園路",
    "unit": "埔頂分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-09-02T00:41:20.000Z",
    "category": "其他",
    "place": "新竹市東區",
@@ -32,22 +41,13 @@
    "state": "dispatched"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-09-02T00:11:56.000Z",
    "category": "其他",
    "place": "新竹市香山區",
    "unit": "委外廠商",
    "status": "已派遣",
    "state": "dispatched"
-  },
-  {
-   "seq": 5,
-   "receivedAt": "2026-09-01T23:36:52.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區振興路",
-   "unit": "香山分隊",
-   "status": "已返隊",
-   "state": "closed"
   }
  ]
 }
