@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-02T23:40:02.274Z",
- "count": 3,
+ "fetchedAt": "2026-09-02T23:50:02.294Z",
+ "count": 4,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-02T23:44:13.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區經國路二段",
+   "unit": "中山分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-09-02T23:20:09.000Z",
    "category": "緊急救護",
    "place": "新竹市北區海濱路",
@@ -14,7 +23,7 @@
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-09-02T15:04:45.000Z",
    "category": "緊急救護",
    "place": "新竹市北區延平路一段",
@@ -23,7 +32,7 @@
    "state": "closed"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-09-02T12:01:08.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路486巷",
