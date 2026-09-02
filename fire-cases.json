@@ -1,35 +1,35 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-02T00:50:02.370Z",
- "count": 8,
+ "fetchedAt": "2026-09-02T01:00:02.185Z",
+ "count": 6,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-02T00:56:31.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區中央路355巷",
+   "unit": "三民分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
+   "receivedAt": "2026-09-02T00:52:25.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區光復路一段",
+   "unit": "光復分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-09-02T00:41:20.000Z",
    "category": "其他",
    "place": "新竹市東區",
    "unit": "委外廠商",
    "status": "已派遣",
    "state": "dispatched"
-  },
-  {
-   "seq": 2,
-   "receivedAt": "2026-09-02T00:38:54.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區中正路",
-   "unit": "中山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 3,
-   "receivedAt": "2026-09-02T00:24:38.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區私立曙光小學[北大路",
-   "unit": "三民分隊",
-   "status": "已到達",
-   "state": "unknown"
   },
   {
    "seq": 4,
@@ -42,33 +42,15 @@
   },
   {
    "seq": 5,
-   "receivedAt": "2026-09-01T23:56:07.000Z",
+   "receivedAt": "2026-09-01T23:50:42.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區中正路和中正路223巷",
-   "unit": "中山分隊",
+   "place": "新竹市東區光復路一段354巷",
+   "unit": "金山分隊",
    "status": "已返隊",
    "state": "closed"
   },
   {
    "seq": 6,
-   "receivedAt": "2026-09-01T23:54:39.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區園區三路",
-   "unit": "埔頂分隊",
-   "status": "已到院",
-   "state": "unknown"
-  },
-  {
-   "seq": 7,
-   "receivedAt": "2026-09-01T23:50:42.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區光復路一段354巷",
-   "unit": "金山分隊",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 8,
    "receivedAt": "2026-09-01T23:36:52.000Z",
    "category": "緊急救護",
    "place": "新竹市東區振興路",
