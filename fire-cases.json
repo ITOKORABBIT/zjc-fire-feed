@@ -1,7 +1,7 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-02T09:00:01.618Z",
+ "fetchedAt": "2026-09-02T09:10:01.626Z",
  "count": 13,
  "items": [
   {
@@ -10,8 +10,8 @@
    "category": "緊急救護",
    "place": "新竹市東區光復路一段",
    "unit": "埔頂分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "送醫中",
+   "state": "unknown"
   },
   {
    "seq": 2,
@@ -19,8 +19,8 @@
    "category": "緊急救護",
    "place": "新竹市東區國立清華大學校友體育館[光復路二段",
    "unit": "金山分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "已到達",
+   "state": "unknown"
   },
   {
    "seq": 3,
@@ -28,8 +28,8 @@
    "category": "緊急救護",
    "place": "新竹市香山區牛埔南路",
    "unit": "竹光分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "已到達",
+   "state": "unknown"
   },
   {
    "seq": 4,
@@ -37,7 +37,7 @@
    "category": "緊急救護",
    "place": "新竹市香山區育德街",
    "unit": "香山分隊",
-   "status": "已到達",
+   "status": "已到院",
    "state": "unknown"
   },
   {
@@ -64,8 +64,8 @@
    "category": "緊急救護",
    "place": "新竹市東區明湖路1200巷",
    "unit": "埔頂分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 7,
@@ -82,8 +82,8 @@
    "category": "其他",
    "place": "新竹市香山區五福路一段250巷",
    "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 10,
@@ -91,8 +91,8 @@
    "category": "其他",
    "place": "新竹市香山區香村路337巷",
    "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 11,
