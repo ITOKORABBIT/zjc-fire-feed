@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-03T03:40:01.474Z",
- "count": 9,
+ "fetchedAt": "2026-09-03T03:50:01.521Z",
+ "count": 8,
  "items": [
   {
    "seq": 1,
@@ -19,7 +19,7 @@
    "category": "緊急救護",
    "place": "新竹市香山區延平路二段",
    "unit": "竹光分隊",
-   "status": "送醫中",
+   "status": "已到院",
    "state": "unknown"
   },
   {
@@ -42,15 +42,6 @@
   },
   {
    "seq": 5,
-   "receivedAt": "2026-09-03T03:08:55.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區浸水南街",
-   "unit": "香山分隊",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 6,
    "receivedAt": "2026-09-03T02:59:13.000Z",
    "category": "其他",
    "place": "新竹市東區工業東四路",
@@ -59,7 +50,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 7,
+   "seq": 6,
    "receivedAt": "2026-09-03T02:39:15.000Z",
    "category": "其他",
    "place": "新竹市東區工業東一路",
@@ -68,7 +59,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 8,
+   "seq": 7,
    "receivedAt": "2026-09-03T01:54:50.000Z",
    "category": "其他",
    "place": "新竹市東區力行六路",
@@ -77,7 +68,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 9,
+   "seq": 8,
    "receivedAt": "2026-09-02T12:01:08.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路486巷",
