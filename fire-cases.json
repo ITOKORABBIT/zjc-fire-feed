@@ -1,7 +1,7 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-03T12:10:01.943Z",
+ "fetchedAt": "2026-09-03T12:20:01.957Z",
  "count": 16,
  "items": [
   {
@@ -28,7 +28,7 @@
    "category": "緊急救護",
    "place": "新竹市東區力行路",
    "unit": "金山分隊",
-   "status": "送醫中",
+   "status": "已到院",
    "state": "unknown"
   },
   {
