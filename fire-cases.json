@@ -1,20 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-03T05:00:01.527Z",
- "count": 7,
+ "fetchedAt": "2026-09-03T05:10:01.553Z",
+ "count": 8,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-03T05:06:45.000Z",
+   "category": "其他",
+   "place": "新竹市北區東大路三段403巷30弄",
+   "unit": "委外廠商",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-09-03T04:49:27.000Z",
    "category": "緊急救護",
    "place": "新竹市東區民族路",
    "unit": "中山分隊,光復分隊",
-   "status": "已到達",
+   "status": "已到院",
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-09-03T04:47:23.000Z",
    "category": "緊急救護",
    "place": "新竹市東區中華路一段",
@@ -23,7 +32,7 @@
    "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-09-03T04:20:55.000Z",
    "category": "緊急救護",
    "place": "新竹市東區光復路一段",
@@ -32,7 +41,7 @@
    "state": "unknown"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-09-03T02:59:13.000Z",
    "category": "其他",
    "place": "新竹市東區工業東四路",
@@ -41,7 +50,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-09-03T02:39:15.000Z",
    "category": "其他",
    "place": "新竹市東區工業東一路",
@@ -50,7 +59,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-09-03T01:54:50.000Z",
    "category": "其他",
    "place": "新竹市東區力行六路",
@@ -59,7 +68,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 7,
+   "seq": 8,
    "receivedAt": "2026-09-02T12:01:08.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路486巷",
