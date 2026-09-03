@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-03T02:50:01.434Z",
- "count": 4,
+ "fetchedAt": "2026-09-03T03:00:01.448Z",
+ "count": 5,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-03T02:59:13.000Z",
+   "category": "其他",
+   "place": "新竹市東區工業東四路",
+   "unit": "委外廠商",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-09-03T02:39:15.000Z",
    "category": "其他",
    "place": "新竹市東區工業東一路",
@@ -14,7 +23,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-09-03T02:03:59.000Z",
    "category": "火災",
    "place": "新竹市香山區中華路六段",
@@ -23,7 +32,7 @@
    "state": "closed"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-09-03T01:54:50.000Z",
    "category": "其他",
    "place": "新竹市東區力行六路",
@@ -32,7 +41,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-09-02T12:01:08.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路486巷",
