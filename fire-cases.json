@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-03T00:20:02.299Z",
+ "fetchedAt": "2026-09-03T00:30:02.303Z",
  "count": 5,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-03T00:25:47.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區延平路三段",
+   "unit": "南寮分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-09-02T23:58:00.000Z",
    "category": "緊急救護",
    "place": "新竹市東區龍山西路",
@@ -14,29 +23,20 @@
    "state": "closed"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-09-02T23:56:36.000Z",
    "category": "緊急救護",
    "place": "新竹市北區竹光路",
    "unit": "竹光分隊",
-   "status": "已到院",
-   "state": "unknown"
-  },
-  {
-   "seq": 3,
-   "receivedAt": "2026-09-02T23:44:13.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區經國路二段",
-   "unit": "中山分隊",
    "status": "已返隊",
    "state": "closed"
   },
   {
    "seq": 4,
-   "receivedAt": "2026-09-02T23:20:09.000Z",
+   "receivedAt": "2026-09-02T23:44:13.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區海濱路",
-   "unit": "南寮分隊",
+   "place": "新竹市北區經國路二段",
+   "unit": "中山分隊",
    "status": "已返隊",
    "state": "closed"
   },
