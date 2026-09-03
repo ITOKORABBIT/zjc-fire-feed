@@ -1,7 +1,7 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-03T15:50:02.079Z",
+ "fetchedAt": "2026-09-03T16:00:02.099Z",
  "count": 11,
  "items": [
   {
@@ -10,7 +10,7 @@
    "category": "緊急救護",
    "place": "新竹市東區新香街177巷",
    "unit": "明湖分隊",
-   "status": "送醫中",
+   "status": "已到院",
    "state": "unknown"
   },
   {
