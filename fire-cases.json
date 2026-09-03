@@ -1,7 +1,7 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-03T22:00:02.304Z",
+ "fetchedAt": "2026-09-03T22:10:02.307Z",
  "count": 4,
  "items": [
   {
@@ -10,8 +10,8 @@
    "category": "緊急救護",
    "place": "新竹市北區東大路三段",
    "unit": "南寮分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 2,
