@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-03T02:40:01.418Z",
- "count": 5,
+ "fetchedAt": "2026-09-03T02:50:01.434Z",
+ "count": 4,
  "items": [
   {
    "seq": 1,
@@ -33,15 +33,6 @@
   },
   {
    "seq": 4,
-   "receivedAt": "2026-09-03T01:33:25.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區東大路四段115巷",
-   "unit": "南寮分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 5,
    "receivedAt": "2026-09-02T12:01:08.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路486巷",
