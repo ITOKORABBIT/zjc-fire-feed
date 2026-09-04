@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-04T01:10:01.520Z",
- "count": 10,
+ "fetchedAt": "2026-09-04T01:20:01.519Z",
+ "count": 9,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-04T01:18:52.000Z",
+   "category": "緊急救護",
+   "place": "新竹市香山區內湖路86巷",
+   "unit": "朝山分隊",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-09-04T01:03:25.000Z",
    "category": "緊急救護",
    "place": "新竹市東區花園街",
@@ -14,7 +23,7 @@
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-09-04T01:02:22.000Z",
    "category": "其他",
    "place": "新竹市北區延平路三段",
@@ -23,7 +32,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-09-04T00:44:12.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路1200巷8弄",
@@ -32,7 +41,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-09-04T00:31:54.000Z",
    "category": "其他",
    "place": "新竹市東區力行路",
@@ -41,7 +50,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-09-04T00:28:09.000Z",
    "category": "緊急救護",
    "place": "新竹市東區光復路二段155巷",
@@ -50,25 +59,7 @@
    "state": "unknown"
   },
   {
-   "seq": 6,
-   "receivedAt": "2026-09-04T00:26:57.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區中華路二段",
-   "unit": "三民分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
    "seq": 7,
-   "receivedAt": "2026-09-04T00:02:08.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區中華路六段",
-   "unit": "朝山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 8,
    "receivedAt": "2026-09-03T23:15:40.000Z",
    "category": "火災",
    "place": "新竹市東區公園路",
@@ -77,7 +68,7 @@
    "state": "closed"
   },
   {
-   "seq": 9,
+   "seq": 8,
    "receivedAt": "2026-09-03T09:14:32.000Z",
    "category": "其他",
    "place": "新竹市東區食品路",
@@ -86,7 +77,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 10,
+   "seq": 9,
    "receivedAt": "2026-09-02T12:01:08.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路486巷",
