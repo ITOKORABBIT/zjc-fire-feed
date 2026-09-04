@@ -1,7 +1,7 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-04T08:20:01.738Z",
+ "fetchedAt": "2026-09-04T08:30:01.843Z",
  "count": 10,
  "items": [
   {
@@ -19,8 +19,8 @@
    "category": "其他",
    "place": "新竹市東區明湖路",
    "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 3,
@@ -91,8 +91,8 @@
    "category": "其他",
    "place": "新竹市東區明湖路486巷",
    "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
+   "status": "返隊中",
+   "state": "returning"
   }
  ]
 }
