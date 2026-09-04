@@ -1,29 +1,38 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-04T22:40:02.363Z",
- "count": 6,
+ "fetchedAt": "2026-09-04T22:50:02.400Z",
+ "count": 7,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-09-04T22:38:01.000Z",
+   "receivedAt": "2026-09-04T22:48:41.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區東山街",
-   "unit": "光復分隊",
+   "place": "新竹市香山區西濱路六段",
+   "unit": "香山分隊",
    "status": "已出動",
    "state": "dispatched"
   },
   {
    "seq": 2,
+   "receivedAt": "2026-09-04T22:38:01.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區東山街",
+   "unit": "光復分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-09-04T22:37:41.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區麗山街200巷9弄",
    "unit": "朝山分隊",
-   "status": "已派遣",
+   "status": "已出動",
    "state": "dispatched"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-09-04T16:37:18.000Z",
    "category": "緊急救護",
    "place": "新竹市東區光復路一段354巷16弄",
@@ -32,7 +41,7 @@
    "state": "closed"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-09-04T15:49:20.000Z",
    "category": "其他",
    "place": "新竹市北區民富街",
@@ -41,7 +50,7 @@
    "state": "returning"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-09-04T14:57:54.000Z",
    "category": "緊急救護",
    "place": "新竹市東區北大路54巷",
@@ -50,7 +59,7 @@
    "state": "closed"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-09-04T09:56:48.000Z",
    "category": "其他",
    "place": "新竹市東區寶山路452巷18弄",
