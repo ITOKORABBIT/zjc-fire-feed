@@ -1,69 +1,69 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-04T11:30:01.934Z",
+ "fetchedAt": "2026-09-04T11:40:01.946Z",
  "count": 19,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-09-04T11:23:35.000Z",
+   "receivedAt": "2026-09-04T11:39:27.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區",
-   "unit": "埔頂分隊",
-   "status": "已出動",
+   "place": "新竹市北區東大路二段598巷",
+   "unit": "中山分隊",
+   "status": "已派遣",
    "state": "dispatched"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-09-04T11:19:41.000Z",
+   "receivedAt": "2026-09-04T11:37:14.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區成功路",
-   "unit": "香山分隊",
+   "place": "新竹市東區南大路",
+   "unit": "明湖分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 3,
+   "receivedAt": "2026-09-04T11:23:35.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區",
+   "unit": "埔頂分隊",
    "status": "已到達",
    "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 4,
+   "receivedAt": "2026-09-04T11:19:41.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區成功路",
+   "unit": "香山分隊",
+   "status": "已到院",
+   "state": "unknown"
+  },
+  {
+   "seq": 5,
    "receivedAt": "2026-09-04T11:11:08.000Z",
    "category": "緊急救護",
    "place": "新竹市北區竹光路",
    "unit": "光復分隊",
-   "status": "送醫中",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
-   "seq": 4,
+   "seq": 6,
    "receivedAt": "2026-09-04T11:05:33.000Z",
    "category": "火災",
-   "place": "新竹市北區金雅三街95巷",
+   "place": "新竹市北區東大路二段598巷",
    "unit": "三民分隊,中山分隊,南寮分隊,竹光分隊",
    "status": "已到達",
    "state": "unknown"
   },
   {
-   "seq": 5,
-   "receivedAt": "2026-09-04T10:48:39.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區經國路二段",
-   "unit": "香山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-09-04T10:35:35.000Z",
    "category": "緊急救護",
    "place": "新竹市北區西大路",
    "unit": "中山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 7,
-   "receivedAt": "2026-09-04T10:28:03.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區建功一路47巷",
-   "unit": "埔頂分隊",
    "status": "已返隊",
    "state": "closed"
   },
