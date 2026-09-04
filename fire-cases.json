@@ -1,20 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-04T01:00:01.468Z",
+ "fetchedAt": "2026-09-04T01:10:01.520Z",
  "count": 10,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-09-04T00:54:58.000Z",
+   "receivedAt": "2026-09-04T01:03:25.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區北大路",
+   "place": "新竹市東區花園街",
    "unit": "中山分隊",
    "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 2,
+   "receivedAt": "2026-09-04T01:02:22.000Z",
+   "category": "其他",
+   "place": "新竹市北區延平路三段",
+   "unit": "委外廠商",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-09-04T00:44:12.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路1200巷8弄",
@@ -23,7 +32,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-09-04T00:31:54.000Z",
    "category": "其他",
    "place": "新竹市東區力行路",
@@ -32,47 +41,38 @@
    "state": "dispatched"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-09-04T00:28:09.000Z",
    "category": "緊急救護",
    "place": "新竹市東區光復路二段155巷",
    "unit": "光復分隊",
-   "status": "送醫中",
-   "state": "unknown"
-  },
-  {
-   "seq": 5,
-   "receivedAt": "2026-09-04T00:26:57.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區中華路二段",
-   "unit": "三民分隊",
    "status": "已到院",
    "state": "unknown"
   },
   {
    "seq": 6,
+   "receivedAt": "2026-09-04T00:26:57.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區中華路二段",
+   "unit": "三民分隊",
+   "status": "已返隊",
+   "state": "closed"
+  },
+  {
+   "seq": 7,
    "receivedAt": "2026-09-04T00:02:08.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區中華路六段",
    "unit": "朝山分隊",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 7,
-   "receivedAt": "2026-09-03T23:15:40.000Z",
-   "category": "火災",
-   "place": "新竹市東區公園路",
-   "unit": "光復分隊",
    "status": "已返隊",
    "state": "closed"
   },
   {
    "seq": 8,
-   "receivedAt": "2026-09-03T23:03:40.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區元培街",
-   "unit": "明湖分隊",
+   "receivedAt": "2026-09-03T23:15:40.000Z",
+   "category": "火災",
+   "place": "新竹市東區公園路",
+   "unit": "光復分隊",
    "status": "已返隊",
    "state": "closed"
   },
