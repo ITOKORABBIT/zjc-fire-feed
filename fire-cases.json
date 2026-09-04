@@ -1,17 +1,17 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-04T15:50:02.044Z",
- "count": 4,
+ "fetchedAt": "2026-09-04T16:00:02.061Z",
+ "count": 3,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-09-04T15:22:39.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區中山路",
-   "unit": "竹光分隊",
-   "status": "已返隊",
-   "state": "closed"
+   "receivedAt": "2026-09-04T15:49:20.000Z",
+   "category": "其他",
+   "place": "新竹市北區民富街",
+   "unit": "委外廠商",
+   "status": "已派遣",
+   "state": "dispatched"
   },
   {
    "seq": 2,
@@ -24,15 +24,6 @@
   },
   {
    "seq": 3,
-   "receivedAt": "2026-09-04T11:46:06.000Z",
-   "category": "其他",
-   "place": "新竹市東區溪州路98巷2弄",
-   "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
-  },
-  {
-   "seq": 4,
    "receivedAt": "2026-09-04T09:56:48.000Z",
    "category": "其他",
    "place": "新竹市東區寶山路452巷18弄",
