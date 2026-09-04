@@ -1,20 +1,38 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-04T14:50:02.032Z",
- "count": 6,
+ "fetchedAt": "2026-09-04T15:00:02.027Z",
+ "count": 8,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-04T14:57:54.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區北大路54巷",
+   "unit": "三民分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
+   "receivedAt": "2026-09-04T14:50:25.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區明湖路775巷",
+   "unit": "明湖分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-09-04T14:25:22.000Z",
    "category": "緊急救護",
    "place": "新竹市東區光復路二段",
    "unit": "光復分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 2,
+   "seq": 4,
    "receivedAt": "2026-09-04T14:17:55.000Z",
    "category": "緊急救護",
    "place": "新竹市北區湳中街",
@@ -23,7 +41,7 @@
    "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 5,
    "receivedAt": "2026-09-04T13:28:08.000Z",
    "category": "緊急救護",
    "place": "新竹市西濱路六段",
@@ -32,7 +50,7 @@
    "state": "returning"
   },
   {
-   "seq": 4,
+   "seq": 6,
    "receivedAt": "2026-09-04T12:42:04.000Z",
    "category": "緊急救護",
    "place": "新竹市",
@@ -41,7 +59,7 @@
    "state": "closed"
   },
   {
-   "seq": 5,
+   "seq": 7,
    "receivedAt": "2026-09-04T11:46:06.000Z",
    "category": "其他",
    "place": "新竹市東區溪州路98巷2弄",
@@ -50,7 +68,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 6,
+   "seq": 8,
    "receivedAt": "2026-09-04T09:56:48.000Z",
    "category": "其他",
    "place": "新竹市東區寶山路452巷18弄",
