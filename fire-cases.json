@@ -1,38 +1,47 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-04T00:30:01.465Z",
- "count": 10,
+ "fetchedAt": "2026-09-04T00:40:01.670Z",
+ "count": 11,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-09-04T00:28:09.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區光復路二段155巷",
-   "unit": "光復分隊",
+   "receivedAt": "2026-09-04T00:31:54.000Z",
+   "category": "其他",
+   "place": "新竹市東區力行路",
+   "unit": "委外廠商",
    "status": "已派遣",
    "state": "dispatched"
   },
   {
    "seq": 2,
+   "receivedAt": "2026-09-04T00:28:09.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區光復路二段155巷",
+   "unit": "光復分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-09-04T00:26:57.000Z",
    "category": "緊急救護",
    "place": "新竹市東區中華路二段",
    "unit": "三民分隊",
-   "status": "已出動",
-   "state": "dispatched"
-  },
-  {
-   "seq": 3,
-   "receivedAt": "2026-09-04T00:20:50.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區",
-   "unit": "埔頂分隊",
    "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 4,
+   "receivedAt": "2026-09-04T00:20:50.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區",
+   "unit": "埔頂分隊",
+   "status": "返隊中",
+   "state": "returning"
+  },
+  {
+   "seq": 5,
    "receivedAt": "2026-09-04T00:02:08.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區中華路六段",
@@ -41,7 +50,7 @@
    "state": "unknown"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-09-03T23:33:53.000Z",
    "category": "緊急救護",
    "place": "新竹市東區光復路二段298巷9弄",
@@ -50,7 +59,7 @@
    "state": "closed"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-09-03T23:15:40.000Z",
    "category": "火災",
    "place": "新竹市東區公園路",
@@ -59,7 +68,7 @@
    "state": "closed"
   },
   {
-   "seq": 7,
+   "seq": 8,
    "receivedAt": "2026-09-03T23:03:40.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區元培街",
@@ -68,7 +77,7 @@
    "state": "closed"
   },
   {
-   "seq": 8,
+   "seq": 9,
    "receivedAt": "2026-09-03T22:17:14.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區中華路五段323巷24弄",
@@ -77,7 +86,7 @@
    "state": "closed"
   },
   {
-   "seq": 9,
+   "seq": 10,
    "receivedAt": "2026-09-03T09:14:32.000Z",
    "category": "其他",
    "place": "新竹市東區食品路",
@@ -86,7 +95,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 10,
+   "seq": 11,
    "receivedAt": "2026-09-02T12:01:08.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路486巷",
