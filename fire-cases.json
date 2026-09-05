@@ -1,29 +1,38 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-05T04:40:01.612Z",
- "count": 6,
+ "fetchedAt": "2026-09-05T04:50:01.636Z",
+ "count": 7,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-09-05T04:36:09.000Z",
+   "receivedAt": "2026-09-05T04:46:46.000Z",
    "category": "緊急救護",
-   "place": "新竹市光復路",
-   "unit": "光復分隊",
+   "place": "新竹市東區食品路",
+   "unit": "明湖分隊",
    "status": "已出動",
    "state": "dispatched"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-09-05T04:11:17.000Z",
+   "receivedAt": "2026-09-05T04:36:09.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區東南街",
-   "unit": "中山分隊",
-   "status": "已到院",
+   "place": "新竹市光復路",
+   "unit": "光復分隊",
+   "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 3,
+   "receivedAt": "2026-09-05T04:11:17.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區東南街",
+   "unit": "中山分隊",
+   "status": "已返隊",
+   "state": "closed"
+  },
+  {
+   "seq": 4,
    "receivedAt": "2026-09-05T03:58:12.000Z",
    "category": "緊急救護",
    "place": "新竹市東區公道五路三段",
@@ -32,7 +41,7 @@
    "state": "closed"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-09-05T03:17:36.000Z",
    "category": "緊急救護",
    "place": "新竹市北區湳雅街313巷18弄",
@@ -41,7 +50,7 @@
    "state": "closed"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-09-05T02:55:26.000Z",
    "category": "緊急救護",
    "place": "新竹市東區中華路一段",
@@ -50,7 +59,7 @@
    "state": "unknown"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-09-05T01:53:19.000Z",
    "category": "其他",
    "place": "新竹市玄奘路",
