@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-05T12:40:02.006Z",
- "count": 8,
+ "fetchedAt": "2026-09-05T12:50:01.996Z",
+ "count": 7,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-05T12:40:57.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區東大路三段357巷7弄",
+   "unit": "南寮分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-09-05T12:36:44.000Z",
    "category": "其他",
    "place": "新竹市香山區大湖路167巷",
@@ -14,22 +23,13 @@
    "state": "dispatched"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-09-05T12:12:15.000Z",
    "category": "緊急救護",
    "place": "新竹市北區",
    "unit": "南寮分隊",
    "status": "送醫中",
    "state": "unknown"
-  },
-  {
-   "seq": 3,
-   "receivedAt": "2026-09-05T11:38:53.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區建中一路23巷",
-   "unit": "埔頂分隊",
-   "status": "已返隊",
-   "state": "closed"
   },
   {
    "seq": 4,
@@ -42,15 +42,6 @@
   },
   {
    "seq": 5,
-   "receivedAt": "2026-09-05T10:56:53.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區牛埔東路",
-   "unit": "香山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 6,
    "receivedAt": "2026-09-05T10:53:21.000Z",
    "category": "緊急救護",
    "place": "新竹市北區中山路",
@@ -59,7 +50,7 @@
    "state": "closed"
   },
   {
-   "seq": 7,
+   "seq": 6,
    "receivedAt": "2026-09-05T08:37:14.000Z",
    "category": "其他",
    "place": "新竹市東區千甲路",
@@ -68,7 +59,7 @@
    "state": "returning"
   },
   {
-   "seq": 8,
+   "seq": 7,
    "receivedAt": "2026-09-05T08:28:06.000Z",
    "category": "其他",
    "place": "新竹市香山區海埔路74巷",
