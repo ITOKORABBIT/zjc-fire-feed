@@ -1,11 +1,38 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-05T08:30:01.778Z",
- "count": 6,
+ "fetchedAt": "2026-09-05T08:40:01.867Z",
+ "count": 7,
  "items": [
   {
+   "seq": 3,
+   "receivedAt": "2026-09-05T08:37:14.000Z",
+   "category": "其他",
+   "place": "新竹市東區千甲路",
+   "unit": "委外廠商",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
+   "receivedAt": "2026-09-05T08:36:35.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區民族路",
+   "unit": "中山分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
    "seq": 1,
+   "receivedAt": "2026-09-05T08:35:16.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區中華路一段",
+   "unit": "光復分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 4,
    "receivedAt": "2026-09-05T08:28:06.000Z",
    "category": "其他",
    "place": "新竹市香山區海埔路74巷",
@@ -14,43 +41,25 @@
    "state": "dispatched"
   },
   {
-   "seq": 2,
+   "seq": 5,
    "receivedAt": "2026-09-05T08:03:18.000Z",
    "category": "緊急救護",
    "place": "新竹市東區市立自由車場大門樓梯口(新竹市東區博愛街5巷",
    "unit": "三民分隊",
-   "status": "送醫中",
+   "status": "已到院",
    "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 6,
    "receivedAt": "2026-09-05T07:55:17.000Z",
    "category": "緊急救護",
    "place": "新竹市東區大同路",
    "unit": "光復分隊",
-   "status": "返隊中",
-   "state": "returning"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 4,
-   "receivedAt": "2026-09-05T07:36:48.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區民族路",
-   "unit": "中山分隊",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 5,
-   "receivedAt": "2026-09-05T07:23:27.000Z",
-   "category": "其他",
-   "place": "新竹市北區中和路15巷",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-09-05T07:02:23.000Z",
    "category": "緊急救護",
    "place": "新竹市東區東勢街",
