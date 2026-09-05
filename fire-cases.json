@@ -1,20 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-05T20:40:02.394Z",
- "count": 3,
+ "fetchedAt": "2026-09-05T20:50:02.411Z",
+ "count": 4,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-05T20:43:21.000Z",
+   "category": "緊急救護",
+   "place": "新竹市香山區玄奘路780巷",
+   "unit": "明湖分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-09-05T19:20:03.000Z",
    "category": "緊急救護",
    "place": "新竹市北區延平路一段214巷",
    "unit": "三民分隊,竹光分隊",
-   "status": "返隊中",
-   "state": "returning"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-09-05T15:38:50.000Z",
    "category": "緊急救護",
    "place": "新竹市東區東大路一段232巷",
@@ -23,7 +32,7 @@
    "state": "closed"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-09-05T12:36:44.000Z",
    "category": "其他",
    "place": "新竹市香山區大湖路167巷",
