@@ -1,29 +1,38 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-05T00:20:01.448Z",
+ "fetchedAt": "2026-09-05T00:30:01.468Z",
  "count": 10,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-09-05T00:18:53.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區食品路",
-   "unit": "三民分隊",
+   "receivedAt": "2026-09-05T00:27:55.000Z",
+   "category": "火災",
+   "place": "新竹市北區中清路一段",
+   "unit": "南寮分隊",
    "status": "已派遣",
    "state": "dispatched"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-09-05T00:10:59.000Z",
+   "receivedAt": "2026-09-05T00:18:53.000Z",
    "category": "緊急救護",
-   "place": "新竹市江山街23巷",
-   "unit": "中山分隊",
+   "place": "新竹市東區食品路",
+   "unit": "三民分隊",
    "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 3,
+   "receivedAt": "2026-09-05T00:10:59.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區江山街20巷",
+   "unit": "中山分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 4,
    "receivedAt": "2026-09-04T23:58:48.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區中華路五段69巷1弄",
@@ -32,16 +41,16 @@
    "state": "unknown"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-09-04T23:56:05.000Z",
    "category": "緊急救護",
    "place": "新竹市東區千甲路387巷",
    "unit": "光復分隊",
-   "status": "已到達",
+   "status": "已到院",
    "state": "unknown"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-09-04T23:27:34.000Z",
    "category": "緊急救護",
    "place": "新竹市建功一路104巷",
@@ -50,7 +59,7 @@
    "state": "returning"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-09-04T22:51:40.000Z",
    "category": "緊急救護",
    "place": "新竹市東區千甲路",
@@ -59,20 +68,11 @@
    "state": "closed"
   },
   {
-   "seq": 7,
+   "seq": 8,
    "receivedAt": "2026-09-04T22:38:01.000Z",
    "category": "緊急救護",
    "place": "新竹市東區東山街",
    "unit": "光復分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 8,
-   "receivedAt": "2026-09-04T22:37:41.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區麗山街200巷9弄",
-   "unit": "朝山分隊",
    "status": "已返隊",
    "state": "closed"
   },
