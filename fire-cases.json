@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-05T01:00:01.493Z",
- "count": 8,
+ "fetchedAt": "2026-09-05T01:10:01.475Z",
+ "count": 6,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-05T01:02:49.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區東大路三段",
+   "unit": "竹光分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-09-05T00:32:03.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區延平路二段811巷",
@@ -14,34 +23,16 @@
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-09-05T00:27:55.000Z",
    "category": "火災",
    "place": "新竹市北區中清路一段",
    "unit": "南寮分隊",
-   "status": "已出動",
-   "state": "dispatched"
-  },
-  {
-   "seq": 3,
-   "receivedAt": "2026-09-05T00:18:53.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區食品路",
-   "unit": "三民分隊",
-   "status": "已到院",
-   "state": "unknown"
-  },
-  {
-   "seq": 4,
-   "receivedAt": "2026-09-05T00:10:59.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區江山街20巷",
-   "unit": "中山分隊",
    "status": "已返隊",
    "state": "closed"
   },
   {
-   "seq": 5,
+   "seq": 4,
    "receivedAt": "2026-09-04T23:58:48.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區中華路五段69巷1弄",
@@ -50,16 +41,7 @@
    "state": "returning"
   },
   {
-   "seq": 6,
-   "receivedAt": "2026-09-04T22:38:01.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區東山街",
-   "unit": "光復分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 7,
+   "seq": 5,
    "receivedAt": "2026-09-04T15:49:20.000Z",
    "category": "其他",
    "place": "新竹市北區民富街",
@@ -68,13 +50,13 @@
    "state": "returning"
   },
   {
-   "seq": 8,
+   "seq": 6,
    "receivedAt": "2026-09-04T09:56:48.000Z",
    "category": "其他",
    "place": "新竹市東區寶山路452巷18弄",
    "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
+   "status": "返隊中",
+   "state": "returning"
   }
  ]
 }
