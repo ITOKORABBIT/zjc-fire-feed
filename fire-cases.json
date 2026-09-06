@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-06T21:00:02.020Z",
- "count": 5,
+ "fetchedAt": "2026-09-06T21:10:02.012Z",
+ "count": 6,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-06T21:02:36.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區光復路二段298巷5弄",
+   "unit": "光復分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-09-06T20:52:59.000Z",
    "category": "緊急救護",
    "place": "新竹市東區光復路一段576巷",
@@ -14,7 +23,7 @@
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-09-06T20:23:00.000Z",
    "category": "火災",
    "place": "新竹市東區經國路一段479巷",
@@ -23,7 +32,7 @@
    "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-09-06T18:11:10.000Z",
    "category": "緊急救護",
    "place": "新竹市北區延平路一段",
@@ -32,7 +41,7 @@
    "state": "closed"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-09-06T16:04:50.000Z",
    "category": "緊急救護",
    "place": "新竹市北區武陵路179巷",
@@ -41,7 +50,7 @@
    "state": "closed"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-09-06T07:18:16.000Z",
    "category": "其他",
    "place": "新竹市北區南勢二街27巷",
