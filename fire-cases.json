@@ -1,20 +1,38 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-06T07:10:02.322Z",
- "count": 5,
+ "fetchedAt": "2026-09-06T07:20:02.366Z",
+ "count": 7,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-09-06T07:05:34.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區頂埔路",
-   "unit": "竹光分隊",
-   "status": "已出動",
+   "receivedAt": "2026-09-06T07:18:16.000Z",
+   "category": "其他",
+   "place": "新竹市北區南勢二街27巷",
+   "unit": "委外廠商",
+   "status": "已派遣",
    "state": "dispatched"
   },
   {
    "seq": 2,
+   "receivedAt": "2026-09-06T07:10:01.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區中華路一段342巷",
+   "unit": "三民分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 3,
+   "receivedAt": "2026-09-06T07:05:34.000Z",
+   "category": "緊急救護",
+   "place": "新竹市香山區頂埔路",
+   "unit": "竹光分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 4,
    "receivedAt": "2026-09-06T06:41:21.000Z",
    "category": "其他",
    "place": "新竹市香山區麗山街200巷9弄",
@@ -23,7 +41,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 3,
+   "seq": 5,
    "receivedAt": "2026-09-06T06:20:53.000Z",
    "category": "緊急救護",
    "place": "新竹市北區南寮街",
@@ -32,7 +50,7 @@
    "state": "unknown"
   },
   {
-   "seq": 4,
+   "seq": 6,
    "receivedAt": "2026-09-06T05:41:17.000Z",
    "category": "緊急救護",
    "place": "新竹市北區中山路",
@@ -41,7 +59,7 @@
    "state": "unknown"
   },
   {
-   "seq": 5,
+   "seq": 7,
    "receivedAt": "2026-09-06T04:50:41.000Z",
    "category": "其他",
    "place": "新竹市東區高翠路162巷16弄",
