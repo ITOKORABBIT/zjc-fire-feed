@@ -1,35 +1,35 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-06T10:20:01.504Z",
+ "fetchedAt": "2026-09-06T10:30:01.518Z",
  "count": 8,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-09-06T10:16:00.000Z",
-   "category": "其他",
-   "place": "新竹市東區公園路",
-   "unit": "光復分隊",
+   "receivedAt": "2026-09-06T10:29:47.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區成功路",
+   "unit": "竹光分隊",
    "status": "已派遣",
    "state": "dispatched"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-09-06T09:32:10.000Z",
+   "receivedAt": "2026-09-06T10:24:24.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區光復地下道往中華路",
-   "unit": "光復分隊",
-   "status": "已返隊",
-   "state": "closed"
+   "place": "新竹市東區公園路",
+   "unit": "中山分隊",
+   "status": "已出動",
+   "state": "dispatched"
   },
   {
    "seq": 3,
-   "receivedAt": "2026-09-06T09:29:02.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區香北路",
-   "unit": "香山分隊",
-   "status": "已返隊",
-   "state": "closed"
+   "receivedAt": "2026-09-06T10:16:00.000Z",
+   "category": "其他",
+   "place": "新竹市東區公園路",
+   "unit": "光復分隊",
+   "status": "已到達",
+   "state": "unknown"
   },
   {
    "seq": 4,
