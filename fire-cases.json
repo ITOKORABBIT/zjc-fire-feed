@@ -1,20 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-07T04:50:02.377Z",
+ "fetchedAt": "2026-09-07T05:00:02.368Z",
  "count": 13,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-09-07T04:44:34.000Z",
+   "receivedAt": "2026-09-07T04:55:33.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區延平路一段452巷3弄",
-   "unit": "竹光分隊",
+   "place": "新竹市東區光復路一段354巷3弄",
+   "unit": "金山分隊",
    "status": "已出動",
    "state": "dispatched"
   },
   {
    "seq": 2,
+   "receivedAt": "2026-09-07T04:44:34.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區延平路一段452巷3弄",
+   "unit": "竹光分隊",
+   "status": "送醫中",
+   "state": "unknown"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-09-07T04:41:27.000Z",
    "category": "其他",
    "place": "新竹市北區民富街",
@@ -23,22 +32,13 @@
    "state": "dispatched"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-09-07T04:39:19.000Z",
    "category": "其他",
    "place": "新竹市香山區延平路二段865巷",
    "unit": "委外廠商",
    "status": "已派遣",
    "state": "dispatched"
-  },
-  {
-   "seq": 4,
-   "receivedAt": "2026-09-07T04:04:47.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區中華路一段",
-   "unit": "三民分隊",
-   "status": "已到院",
-   "state": "unknown"
   },
   {
    "seq": 5,
