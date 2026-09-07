@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-07T01:50:02.292Z",
- "count": 13,
+ "fetchedAt": "2026-09-07T02:00:02.260Z",
+ "count": 12,
  "items": [
   {
    "seq": 1,
@@ -55,29 +55,20 @@
    "category": "緊急救護",
    "place": "新竹市東區寶山路",
    "unit": "埔頂分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 7,
-   "receivedAt": "2026-09-07T00:56:54.000Z",
+   "receivedAt": "2026-09-07T00:42:06.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區成德路和成德一街",
-   "unit": "竹光分隊",
+   "place": "新竹市",
+   "unit": "金山分隊",
    "status": "已返隊",
    "state": "closed"
   },
   {
    "seq": 8,
-   "receivedAt": "2026-09-07T00:42:06.000Z",
-   "category": "緊急救護",
-   "place": "新竹市",
-   "unit": "金山分隊",
-   "status": "已到院",
-   "state": "unknown"
-  },
-  {
-   "seq": 9,
    "receivedAt": "2026-09-07T00:28:50.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路243巷",
@@ -86,7 +77,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 10,
+   "seq": 9,
    "receivedAt": "2026-09-07T00:16:52.000Z",
    "category": "緊急救護",
    "place": "新竹市東區力行三路",
@@ -95,7 +86,7 @@
    "state": "closed"
   },
   {
-   "seq": 11,
+   "seq": 10,
    "receivedAt": "2026-09-06T23:59:23.000Z",
    "category": "緊急救護",
    "place": "新竹市東區金山街",
@@ -104,7 +95,7 @@
    "state": "closed"
   },
   {
-   "seq": 12,
+   "seq": 11,
    "receivedAt": "2026-09-06T23:27:38.000Z",
    "category": "其他",
    "place": "新竹市東區新莊里關新路",
@@ -113,7 +104,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 13,
+   "seq": 12,
    "receivedAt": "2026-09-06T07:18:16.000Z",
    "category": "其他",
    "place": "新竹市北區南勢二街27巷",
