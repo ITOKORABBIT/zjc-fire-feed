@@ -1,7 +1,7 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-07T22:10:02.164Z",
+ "fetchedAt": "2026-09-07T22:20:02.170Z",
  "count": 4,
  "items": [
   {
@@ -19,7 +19,7 @@
    "category": "緊急救護",
    "place": "新竹市東區柴橋路132巷",
    "unit": "明湖分隊",
-   "status": "送醫中",
+   "status": "已到院",
    "state": "unknown"
   },
   {
