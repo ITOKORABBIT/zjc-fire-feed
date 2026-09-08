@@ -1,29 +1,38 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-08T03:00:02.426Z",
+ "fetchedAt": "2026-09-08T03:10:02.414Z",
  "count": 9,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-09-08T02:57:42.000Z",
+   "receivedAt": "2026-09-08T03:07:59.000Z",
    "category": "緊急救護",
-   "place": "新竹市香山區大庄路86巷",
-   "unit": "朝山分隊,香山分隊",
+   "place": "新竹市香山區長興街",
+   "unit": "竹光分隊",
    "status": "已出動",
    "state": "dispatched"
   },
   {
    "seq": 2,
+   "receivedAt": "2026-09-08T02:57:42.000Z",
+   "category": "緊急救護",
+   "place": "新竹市香山區大庄路86巷",
+   "unit": "朝山分隊,香山分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-09-08T02:56:59.000Z",
    "category": "緊急救護",
    "place": "新竹市北區成德路往南大路634巷",
    "unit": "明湖分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "已到達",
+   "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-09-08T02:55:30.000Z",
    "category": "其他",
    "place": "新竹市香山區元培街",
@@ -32,7 +41,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-09-08T02:52:10.000Z",
    "category": "緊急救護",
    "place": "新竹市北區東大路三段",
@@ -41,7 +50,7 @@
    "state": "unknown"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-09-08T02:24:25.000Z",
    "category": "其他",
    "place": "新竹市東區藝術路",
@@ -50,7 +59,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-09-08T01:40:39.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路648巷122弄",
@@ -59,22 +68,13 @@
    "state": "dispatched"
   },
   {
-   "seq": 7,
+   "seq": 8,
    "receivedAt": "2026-09-08T01:20:50.000Z",
    "category": "其他",
    "place": "新竹市北區西大路",
    "unit": "",
    "status": "已受理",
    "state": "unknown"
-  },
-  {
-   "seq": 8,
-   "receivedAt": "2026-09-08T00:00:44.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區關新路19巷",
-   "unit": "埔頂分隊,金山分隊",
-   "status": "已返隊",
-   "state": "closed"
   },
   {
    "seq": 9,
