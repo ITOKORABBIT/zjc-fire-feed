@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-08T04:20:01.469Z",
- "count": 12,
+ "fetchedAt": "2026-09-08T04:30:01.454Z",
+ "count": 10,
  "items": [
   {
    "seq": 1,
@@ -33,15 +33,6 @@
   },
   {
    "seq": 4,
-   "receivedAt": "2026-09-08T03:44:26.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區竹蓮街",
-   "unit": "光復分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 5,
    "receivedAt": "2026-09-08T03:35:56.000Z",
    "category": "緊急救護",
    "place": "新竹市東區介壽路",
@@ -50,16 +41,7 @@
    "state": "unknown"
   },
   {
-   "seq": 6,
-   "receivedAt": "2026-09-08T03:27:20.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區四維路89巷",
-   "unit": "中山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 7,
+   "seq": 5,
    "receivedAt": "2026-09-08T02:57:42.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區大庄路86巷",
@@ -68,7 +50,7 @@
    "state": "closed"
   },
   {
-   "seq": 8,
+   "seq": 6,
    "receivedAt": "2026-09-08T02:55:30.000Z",
    "category": "其他",
    "place": "新竹市香山區元培街",
@@ -77,7 +59,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 9,
+   "seq": 7,
    "receivedAt": "2026-09-08T02:52:10.000Z",
    "category": "緊急救護",
    "place": "新竹市北區東大路三段",
@@ -86,7 +68,7 @@
    "state": "closed"
   },
   {
-   "seq": 10,
+   "seq": 8,
    "receivedAt": "2026-09-08T02:24:25.000Z",
    "category": "其他",
    "place": "新竹市東區藝術路",
@@ -95,7 +77,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 11,
+   "seq": 9,
    "receivedAt": "2026-09-08T01:40:39.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路648巷122弄",
@@ -104,7 +86,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 12,
+   "seq": 10,
    "receivedAt": "2026-09-06T07:18:16.000Z",
    "category": "其他",
    "place": "新竹市北區南勢二街27巷",
