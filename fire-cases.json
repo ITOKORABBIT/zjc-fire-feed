@@ -1,25 +1,25 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-08T02:20:02.414Z",
- "count": 9,
+ "fetchedAt": "2026-09-08T02:30:02.484Z",
+ "count": 7,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-08T02:24:25.000Z",
+   "category": "其他",
+   "place": "新竹市東區藝術路",
+   "unit": "委外廠商",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-09-08T01:59:53.000Z",
    "category": "緊急救護",
    "place": "新竹市東區中華路二段",
    "unit": "竹光分隊",
    "status": "已到達",
-   "state": "unknown"
-  },
-  {
-   "seq": 2,
-   "receivedAt": "2026-09-08T01:50:36.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區民族路",
-   "unit": "三民分隊",
-   "status": "已到院",
    "state": "unknown"
   },
   {
@@ -33,24 +33,6 @@
   },
   {
    "seq": 4,
-   "receivedAt": "2026-09-08T01:37:20.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區四維路",
-   "unit": "中山分隊",
-   "status": "已到院",
-   "state": "unknown"
-  },
-  {
-   "seq": 5,
-   "receivedAt": "2026-09-08T01:34:30.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區動物園正門往花市路",
-   "unit": "光復分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 6,
    "receivedAt": "2026-09-08T01:20:50.000Z",
    "category": "其他",
    "place": "新竹市北區西大路",
@@ -59,7 +41,7 @@
    "state": "unknown"
   },
   {
-   "seq": 7,
+   "seq": 5,
    "receivedAt": "2026-09-08T00:00:44.000Z",
    "category": "緊急救護",
    "place": "新竹市東區關新路19巷",
@@ -68,7 +50,7 @@
    "state": "closed"
   },
   {
-   "seq": 8,
+   "seq": 6,
    "receivedAt": "2026-09-06T23:27:38.000Z",
    "category": "其他",
    "place": "新竹市東區新莊里關新路",
@@ -77,7 +59,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 9,
+   "seq": 7,
    "receivedAt": "2026-09-06T07:18:16.000Z",
    "category": "其他",
    "place": "新竹市北區南勢二街27巷",
