@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-09T04:10:02.396Z",
- "count": 12,
+ "fetchedAt": "2026-09-09T04:20:02.398Z",
+ "count": 9,
  "items": [
   {
    "seq": 1,
@@ -10,8 +10,8 @@
    "category": "緊急救護",
    "place": "新竹市北區中華路三段",
    "unit": "香山分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 2,
@@ -19,8 +19,8 @@
    "category": "其他",
    "place": "新竹市香山區香山分隊新竹市香山區牛埔北路",
    "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 3,
@@ -28,8 +28,8 @@
    "category": "緊急救護",
    "place": "新竹市北區延平路三段470巷",
    "unit": "南寮分隊",
-   "status": "返隊中",
-   "state": "returning"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
    "seq": 4,
@@ -37,47 +37,20 @@
    "category": "其他",
    "place": "新竹市東區水利路46巷31弄",
    "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 5,
-   "receivedAt": "2026-09-09T02:35:45.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區中山路",
-   "unit": "香山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 6,
-   "receivedAt": "2026-09-09T02:14:42.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區東大路一段232巷",
-   "unit": "三民分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 7,
-   "receivedAt": "2026-09-09T01:42:51.000Z",
-   "category": "其他",
-   "place": "新竹市香山區中華路五段420巷",
-   "unit": "朝山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 8,
    "receivedAt": "2026-09-09T01:38:33.000Z",
    "category": "其他",
    "place": "新竹市東區高峰路412巷",
    "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
-   "seq": 9,
+   "seq": 6,
    "receivedAt": "2026-09-09T00:28:53.000Z",
    "category": "緊急救護",
    "place": "新竹市東區光復路二段",
@@ -86,25 +59,25 @@
    "state": "closed"
   },
   {
-   "seq": 10,
+   "seq": 7,
    "receivedAt": "2026-09-09T00:04:45.000Z",
    "category": "其他",
    "place": "新竹市東區明湖分隊[明湖路1075巷",
    "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
-   "seq": 11,
+   "seq": 8,
    "receivedAt": "2026-09-08T23:51:00.000Z",
    "category": "其他",
    "place": "三民國民中學[自由路95巷",
    "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
-   "seq": 12,
+   "seq": 9,
    "receivedAt": "2026-09-08T18:42:17.000Z",
    "category": "其他",
    "place": "新竹市東區寶山路310巷",
