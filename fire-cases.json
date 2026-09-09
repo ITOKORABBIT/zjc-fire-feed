@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-09T11:00:01.681Z",
- "count": 8,
+ "fetchedAt": "2026-09-09T11:10:01.716Z",
+ "count": 7,
  "items": [
   {
    "seq": 2,
@@ -10,8 +10,8 @@
    "category": "緊急救護",
    "place": "新竹市東區金山一街",
    "unit": "埔頂分隊,金山分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "已到達",
+   "state": "unknown"
   },
   {
    "seq": 1,
@@ -19,7 +19,7 @@
    "category": "緊急救護",
    "place": "新竹市香山區樹下街236巷1弄",
    "unit": "香山分隊",
-   "status": "已到達",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
@@ -42,15 +42,6 @@
   },
   {
    "seq": 5,
-   "receivedAt": "2026-09-09T10:11:27.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區食品路446巷",
-   "unit": "光復分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 6,
    "receivedAt": "2026-09-09T09:40:09.000Z",
    "category": "其他",
    "place": "新竹市東區千甲路",
@@ -59,7 +50,7 @@
    "state": "closed"
   },
   {
-   "seq": 7,
+   "seq": 6,
    "receivedAt": "2026-09-09T08:48:09.000Z",
    "category": "其他",
    "place": "新竹市中正武陵上68匝道約50公尺處(路",
@@ -68,7 +59,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 8,
+   "seq": 7,
    "receivedAt": "2026-09-09T07:39:25.000Z",
    "category": "其他",
    "place": "新竹市香山區五福路一段",
