@@ -1,35 +1,35 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-09T05:40:01.485Z",
+ "fetchedAt": "2026-09-09T05:50:01.495Z",
  "count": 8,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-09-09T05:34:34.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區香檳二街",
-   "unit": "明湖分隊,香山分隊",
-   "status": "已出動",
+   "receivedAt": "2026-09-09T05:47:25.000Z",
+   "category": "其他",
+   "place": "新竹市東區力行路",
+   "unit": "委外廠商",
+   "status": "已派遣",
    "state": "dispatched"
   },
   {
    "seq": 2,
+   "receivedAt": "2026-09-09T05:34:34.000Z",
+   "category": "緊急救護",
+   "place": "新竹市香山區香檳二街",
+   "unit": "明湖分隊,香山分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-09-09T03:30:10.000Z",
    "category": "其他",
    "place": "新竹市香山區香山分隊新竹市香山區牛埔北路",
    "unit": "委外廠商",
    "status": "返隊中",
    "state": "returning"
-  },
-  {
-   "seq": 3,
-   "receivedAt": "2026-09-09T03:21:34.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區延平路三段470巷",
-   "unit": "南寮分隊",
-   "status": "已返隊",
-   "state": "closed"
   },
   {
    "seq": 4,
