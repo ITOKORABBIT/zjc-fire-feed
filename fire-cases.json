@@ -1,60 +1,60 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-09T10:50:01.678Z",
+ "fetchedAt": "2026-09-09T11:00:01.681Z",
  "count": 8,
  "items": [
   {
-   "seq": 1,
-   "receivedAt": "2026-09-09T10:36:59.000Z",
+   "seq": 2,
+   "receivedAt": "2026-09-09T10:51:42.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區建新路",
-   "unit": "三民分隊",
-   "status": "已到達",
-   "state": "unknown"
+   "place": "新竹市東區金山一街",
+   "unit": "埔頂分隊,金山分隊",
+   "status": "已出動",
+   "state": "dispatched"
   },
   {
-   "seq": 2,
-   "receivedAt": "2026-09-09T10:33:33.000Z",
+   "seq": 1,
+   "receivedAt": "2026-09-09T10:51:41.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區建功路",
-   "unit": "金山分隊",
+   "place": "新竹市香山區樹下街236巷1弄",
+   "unit": "香山分隊",
    "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 3,
+   "receivedAt": "2026-09-09T10:36:59.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區建新路",
+   "unit": "三民分隊",
+   "status": "已到院",
+   "state": "unknown"
+  },
+  {
+   "seq": 4,
+   "receivedAt": "2026-09-09T10:33:33.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區建功路",
+   "unit": "金山分隊",
+   "status": "已到院",
+   "state": "unknown"
+  },
+  {
+   "seq": 5,
    "receivedAt": "2026-09-09T10:11:27.000Z",
    "category": "緊急救護",
    "place": "新竹市東區食品路446巷",
    "unit": "光復分隊",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 4,
-   "receivedAt": "2026-09-09T09:47:22.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區東大路二段239巷3弄",
-   "unit": "竹光分隊",
    "status": "已返隊",
    "state": "closed"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-09-09T09:40:09.000Z",
    "category": "其他",
    "place": "新竹市東區千甲路",
    "unit": "埔頂分隊",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 6,
-   "receivedAt": "2026-09-09T09:11:29.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區延平路一段",
-   "unit": "竹光分隊",
    "status": "已返隊",
    "state": "closed"
   },
