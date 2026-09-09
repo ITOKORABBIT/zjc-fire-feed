@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-09T00:10:02.392Z",
- "count": 10,
+ "fetchedAt": "2026-09-09T00:20:02.392Z",
+ "count": 11,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-09T00:13:51.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區",
+   "unit": "三民分隊,埔頂分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-09-09T00:04:45.000Z",
    "category": "其他",
    "place": "新竹市東區明湖分隊[明湖路1075巷",
@@ -14,7 +23,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-09-08T23:51:00.000Z",
    "category": "其他",
    "place": "三民國民中學[自由路95巷",
@@ -23,7 +32,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-09-08T23:41:29.000Z",
    "category": "緊急救護",
    "place": "新竹市北區光華一街",
@@ -32,7 +41,7 @@
    "state": "closed"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-09-08T23:40:40.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區中華路五段160巷",
@@ -41,7 +50,7 @@
    "state": "unknown"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-09-08T23:26:33.000Z",
    "category": "緊急救護",
    "place": "新竹市東區介壽路和光復路一段",
@@ -50,16 +59,16 @@
    "state": "returning"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-09-08T23:26:17.000Z",
    "category": "緊急救護",
    "place": "新竹市北區湳雅街126巷38弄",
    "unit": "中山分隊",
-   "status": "返隊中",
-   "state": "returning"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 7,
+   "seq": 8,
    "receivedAt": "2026-09-08T22:48:03.000Z",
    "category": "緊急救護",
    "place": "新竹市東區錦華街",
@@ -68,7 +77,7 @@
    "state": "closed"
   },
   {
-   "seq": 8,
+   "seq": 9,
    "receivedAt": "2026-09-08T21:45:48.000Z",
    "category": "緊急救護",
    "place": "新竹市東區光復路二段",
@@ -77,7 +86,7 @@
    "state": "closed"
   },
   {
-   "seq": 9,
+   "seq": 10,
    "receivedAt": "2026-09-08T19:14:08.000Z",
    "category": "緊急救護",
    "place": "新竹市大庄路",
@@ -86,7 +95,7 @@
    "state": "closed"
   },
   {
-   "seq": 10,
+   "seq": 11,
    "receivedAt": "2026-09-08T18:42:17.000Z",
    "category": "其他",
    "place": "新竹市東區寶山路310巷",
