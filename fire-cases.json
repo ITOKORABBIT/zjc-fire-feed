@@ -1,20 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-09T00:20:02.392Z",
- "count": 11,
+ "fetchedAt": "2026-09-09T00:30:02.324Z",
+ "count": 9,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-09-09T00:13:51.000Z",
+   "receivedAt": "2026-09-09T00:28:53.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區",
-   "unit": "三民分隊,埔頂分隊",
+   "place": "新竹市東區光復路二段",
+   "unit": "光復分隊",
    "status": "已出動",
    "state": "dispatched"
   },
   {
    "seq": 2,
+   "receivedAt": "2026-09-09T00:13:51.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區",
+   "unit": "埔頂分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-09-09T00:04:45.000Z",
    "category": "其他",
    "place": "新竹市東區明湖分隊[明湖路1075巷",
@@ -23,22 +32,13 @@
    "state": "dispatched"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-09-08T23:51:00.000Z",
    "category": "其他",
    "place": "三民國民中學[自由路95巷",
    "unit": "委外廠商",
    "status": "已派遣",
    "state": "dispatched"
-  },
-  {
-   "seq": 4,
-   "receivedAt": "2026-09-08T23:41:29.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區光華一街",
-   "unit": "三民分隊",
-   "status": "已返隊",
-   "state": "closed"
   },
   {
    "seq": 5,
@@ -60,15 +60,6 @@
   },
   {
    "seq": 7,
-   "receivedAt": "2026-09-08T23:26:17.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區湳雅街126巷38弄",
-   "unit": "中山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 8,
    "receivedAt": "2026-09-08T22:48:03.000Z",
    "category": "緊急救護",
    "place": "新竹市東區錦華街",
@@ -77,7 +68,7 @@
    "state": "closed"
   },
   {
-   "seq": 9,
+   "seq": 8,
    "receivedAt": "2026-09-08T21:45:48.000Z",
    "category": "緊急救護",
    "place": "新竹市東區光復路二段",
@@ -86,16 +77,7 @@
    "state": "closed"
   },
   {
-   "seq": 10,
-   "receivedAt": "2026-09-08T19:14:08.000Z",
-   "category": "緊急救護",
-   "place": "新竹市大庄路",
-   "unit": "香山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 11,
+   "seq": 9,
    "receivedAt": "2026-09-08T18:42:17.000Z",
    "category": "其他",
    "place": "新竹市東區寶山路310巷",
