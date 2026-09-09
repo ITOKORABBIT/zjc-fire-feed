@@ -1,7 +1,7 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-09T04:00:02.425Z",
+ "fetchedAt": "2026-09-09T04:10:02.396Z",
  "count": 12,
  "items": [
   {
@@ -28,8 +28,8 @@
    "category": "緊急救護",
    "place": "新竹市北區延平路三段470巷",
    "unit": "南寮分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 4,
