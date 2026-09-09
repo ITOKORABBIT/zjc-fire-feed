@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-09T14:00:01.862Z",
+ "fetchedAt": "2026-09-09T14:10:01.870Z",
  "count": 6,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-09T14:08:21.000Z",
+   "category": "其他",
+   "place": "新竹市北區金竹路102巷",
+   "unit": "委外廠商",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-09-09T13:50:53.000Z",
    "category": "緊急救護",
    "place": "新竹市東區勝利路",
@@ -14,16 +23,16 @@
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-09-09T13:07:32.000Z",
    "category": "緊急救護",
    "place": "新竹市東區公道五路二段",
    "unit": "光復分隊,埔頂分隊,金山分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-09-09T12:43:20.000Z",
    "category": "緊急救護",
    "place": "新竹市東區光復路二段",
@@ -32,19 +41,10 @@
    "state": "closed"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-09-09T12:09:05.000Z",
    "category": "其他",
    "place": "新竹市東區水利路46巷",
-   "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
-  },
-  {
-   "seq": 5,
-   "receivedAt": "2026-09-09T08:48:09.000Z",
-   "category": "其他",
-   "place": "新竹市中正武陵上68匝道約50公尺處(路",
    "unit": "委外廠商",
    "status": "已派遣",
    "state": "dispatched"
