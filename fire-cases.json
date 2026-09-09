@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-09T07:50:01.593Z",
- "count": 14,
+ "fetchedAt": "2026-09-09T08:00:01.560Z",
+ "count": 13,
  "items": [
   {
    "seq": 1,
@@ -10,8 +10,8 @@
    "category": "緊急救護",
    "place": "新竹市北區延平路一段",
    "unit": "香山分隊",
-   "status": "已到達",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 2,
@@ -19,7 +19,7 @@
    "category": "緊急救護",
    "place": "新竹市香山區中華路六段",
    "unit": "朝山分隊",
-   "status": "已到達",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
@@ -37,20 +37,11 @@
    "category": "緊急救護",
    "place": "新竹市東區東門街",
    "unit": "中山分隊",
-   "status": "已到達",
+   "status": "已到院",
    "state": "unknown"
   },
   {
    "seq": 5,
-   "receivedAt": "2026-09-09T07:07:34.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區竹文街",
-   "unit": "竹光分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 6,
    "receivedAt": "2026-09-09T07:01:57.000Z",
    "category": "其他",
    "place": "新竹市東區東山街60巷",
@@ -59,7 +50,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 7,
+   "seq": 6,
    "receivedAt": "2026-09-09T06:17:55.000Z",
    "category": "其他",
    "place": "新竹市東區柴橋路100巷",
@@ -68,7 +59,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 8,
+   "seq": 7,
    "receivedAt": "2026-09-09T05:47:25.000Z",
    "category": "其他",
    "place": "新竹市東區力行路",
@@ -77,7 +68,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 9,
+   "seq": 8,
    "receivedAt": "2026-09-09T03:30:10.000Z",
    "category": "其他",
    "place": "新竹市香山區香山分隊新竹市香山區牛埔北路",
@@ -86,7 +77,7 @@
    "state": "returning"
   },
   {
-   "seq": 10,
+   "seq": 9,
    "receivedAt": "2026-09-09T03:01:22.000Z",
    "category": "其他",
    "place": "新竹市東區水利路46巷31弄",
@@ -95,7 +86,7 @@
    "state": "returning"
   },
   {
-   "seq": 11,
+   "seq": 10,
    "receivedAt": "2026-09-09T01:38:33.000Z",
    "category": "其他",
    "place": "新竹市東區高峰路412巷",
@@ -104,7 +95,7 @@
    "state": "returning"
   },
   {
-   "seq": 12,
+   "seq": 11,
    "receivedAt": "2026-09-09T00:04:45.000Z",
    "category": "其他",
    "place": "新竹市東區明湖分隊[明湖路1075巷",
@@ -113,7 +104,7 @@
    "state": "returning"
   },
   {
-   "seq": 13,
+   "seq": 12,
    "receivedAt": "2026-09-08T23:51:00.000Z",
    "category": "其他",
    "place": "三民國民中學[自由路95巷",
@@ -122,7 +113,7 @@
    "state": "returning"
   },
   {
-   "seq": 14,
+   "seq": 13,
    "receivedAt": "2026-09-08T18:42:17.000Z",
    "category": "其他",
    "place": "新竹市東區寶山路310巷",
