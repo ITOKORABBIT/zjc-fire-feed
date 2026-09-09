@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-09T03:10:02.462Z",
- "count": 11,
+ "fetchedAt": "2026-09-09T03:20:02.395Z",
+ "count": 10,
  "items": [
   {
    "seq": 1,
@@ -19,8 +19,8 @@
    "category": "緊急救護",
    "place": "新竹市北區中山路",
    "unit": "香山分隊",
-   "status": "返隊中",
-   "state": "returning"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
    "seq": 3,
@@ -87,15 +87,6 @@
   },
   {
    "seq": 10,
-   "receivedAt": "2026-09-08T22:48:03.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區錦華街",
-   "unit": "三民分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 11,
    "receivedAt": "2026-09-08T18:42:17.000Z",
    "category": "其他",
    "place": "新竹市東區寶山路310巷",
