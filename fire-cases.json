@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-10T03:00:02.039Z",
- "count": 5,
+ "fetchedAt": "2026-09-10T03:10:02.030Z",
+ "count": 3,
  "items": [
   {
    "seq": 1,
@@ -24,30 +24,12 @@
   },
   {
    "seq": 3,
-   "receivedAt": "2026-09-10T02:32:40.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區復興里自由路95巷18弄",
-   "unit": "三民分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 4,
    "receivedAt": "2026-09-10T01:48:45.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路393巷",
    "unit": "委外廠商",
    "status": "已派遣",
    "state": "dispatched"
-  },
-  {
-   "seq": 5,
-   "receivedAt": "2026-09-10T01:39:18.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區大湖路167巷",
-   "unit": "明湖分隊",
-   "status": "已返隊",
-   "state": "closed"
   }
  ]
 }
