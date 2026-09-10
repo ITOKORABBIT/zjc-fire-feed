@@ -1,20 +1,47 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-10T08:10:02.250Z",
- "count": 2,
+ "fetchedAt": "2026-09-10T08:20:02.366Z",
+ "count": 5,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-09-10T07:29:55.000Z",
+   "receivedAt": "2026-09-10T08:18:34.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區中正路",
+   "place": "新竹市東區東大路二段598巷105弄",
    "unit": "中山分隊",
-   "status": "已返隊",
-   "state": "closed"
+   "status": "已出動",
+   "state": "dispatched"
   },
   {
    "seq": 2,
+   "receivedAt": "2026-09-10T08:16:46.000Z",
+   "category": "其他",
+   "place": "新竹市東區明湖路243巷",
+   "unit": "委外廠商",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 3,
+   "receivedAt": "2026-09-10T08:15:45.000Z",
+   "category": "其他",
+   "place": "新竹市東區民享街159巷",
+   "unit": "委外廠商",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 4,
+   "receivedAt": "2026-09-10T08:14:52.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區民生路",
+   "unit": "三民分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 5,
    "receivedAt": "2026-09-10T07:03:44.000Z",
    "category": "緊急救護",
    "place": "新竹市東區高峰路386巷71弄",
