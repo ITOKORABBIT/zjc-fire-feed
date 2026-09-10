@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-10T06:10:02.218Z",
- "count": 7,
+ "fetchedAt": "2026-09-10T06:20:02.278Z",
+ "count": 6,
  "items": [
   {
    "seq": 1,
@@ -10,8 +10,8 @@
    "category": "緊急救護",
    "place": "新竹市北區中央路",
    "unit": "中山分隊,竹光分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 2,
@@ -19,20 +19,11 @@
    "category": "緊急救護",
    "place": "新竹市東區東竹路",
    "unit": "光復分隊",
-   "status": "已到達",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
    "seq": 3,
-   "receivedAt": "2026-09-10T05:37:29.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區太原路130巷",
-   "unit": "三民分隊",
-   "status": "已到院",
-   "state": "unknown"
-  },
-  {
-   "seq": 4,
    "receivedAt": "2026-09-10T05:26:02.000Z",
    "category": "緊急救護",
    "place": "新竹市東區千甲路360巷",
@@ -41,31 +32,31 @@
    "state": "closed"
   },
   {
-   "seq": 5,
+   "seq": 4,
    "receivedAt": "2026-09-10T02:51:03.000Z",
    "category": "其他",
    "place": "新竹市東區原興路",
    "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
-   "seq": 6,
+   "seq": 5,
    "receivedAt": "2026-09-10T02:43:20.000Z",
    "category": "其他",
    "place": "新竹市北區鐵道路三段",
    "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
-   "seq": 7,
+   "seq": 6,
    "receivedAt": "2026-09-10T01:48:45.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路393巷",
    "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
+   "status": "返隊中",
+   "state": "returning"
   }
  ]
 }
