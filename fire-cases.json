@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-10T01:00:01.934Z",
- "count": 1,
+ "fetchedAt": "2026-09-10T01:10:01.979Z",
+ "count": 2,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-10T01:07:05.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區學府路",
+   "unit": "光復分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-09-10T00:28:20.000Z",
    "category": "緊急救護",
    "place": "新竹市北區延平路一段",
