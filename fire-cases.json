@@ -1,20 +1,11 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-10T02:20:02.000Z",
- "count": 5,
+ "fetchedAt": "2026-09-10T02:30:02.001Z",
+ "count": 4,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-09-10T01:51:47.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區寶山路",
-   "unit": "埔頂分隊",
-   "status": "已到達",
-   "state": "unknown"
-  },
-  {
-   "seq": 2,
    "receivedAt": "2026-09-10T01:48:45.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路393巷",
@@ -23,7 +14,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 3,
+   "seq": 2,
    "receivedAt": "2026-09-10T01:44:30.000Z",
    "category": "緊急救護",
    "place": "新竹市東區東光路",
@@ -32,7 +23,7 @@
    "state": "unknown"
   },
   {
-   "seq": 4,
+   "seq": 3,
    "receivedAt": "2026-09-10T01:39:18.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區大湖路167巷",
@@ -41,7 +32,7 @@
    "state": "unknown"
   },
   {
-   "seq": 5,
+   "seq": 4,
    "receivedAt": "2026-09-10T01:07:05.000Z",
    "category": "緊急救護",
    "place": "新竹市東區學府路",
