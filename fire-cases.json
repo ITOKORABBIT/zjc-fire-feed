@@ -1,29 +1,38 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-10T18:40:01.774Z",
- "count": 5,
+ "fetchedAt": "2026-09-10T18:50:01.799Z",
+ "count": 6,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-10T18:47:02.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區東光路188巷",
+   "unit": "光復分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-09-10T18:29:05.000Z",
    "category": "其他",
    "place": "新竹市東區南大路550巷19弄",
    "unit": "明湖分隊",
-   "status": "返隊中",
-   "state": "returning"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-09-10T18:18:24.000Z",
    "category": "緊急救護",
    "place": "南寮派出所(魚鱗天梯)",
    "unit": "南寮分隊",
-   "status": "送醫中",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-09-10T17:10:04.000Z",
    "category": "緊急救護",
    "place": "南寮派出所(魚鱗天梯)",
@@ -32,7 +41,7 @@
    "state": "closed"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-09-10T16:50:19.000Z",
    "category": "緊急救護",
    "place": "新竹市北區延平路三段",
@@ -41,7 +50,7 @@
    "state": "closed"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-09-10T12:54:15.000Z",
    "category": "火災",
    "place": "新竹市東區民主路",
