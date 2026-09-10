@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-10T13:50:01.508Z",
- "count": 6,
+ "fetchedAt": "2026-09-10T14:00:01.562Z",
+ "count": 5,
  "items": [
   {
    "seq": 1,
@@ -10,8 +10,8 @@
    "category": "緊急救護",
    "place": "新竹市北區中山路",
    "unit": "香山分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 2,
@@ -19,20 +19,11 @@
    "category": "火災",
    "place": "新竹市東區民主路",
    "unit": "三民分隊,中山分隊,光復分隊,南寮分隊,竹光分隊,第二大隊",
-   "status": "火已滅",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 3,
-   "receivedAt": "2026-09-10T12:16:00.000Z",
-   "category": "火災",
-   "place": "新竹市北區北大路166巷",
-   "unit": "中山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 4,
    "receivedAt": "2026-09-10T11:52:25.000Z",
    "category": "緊急救護",
    "place": "新竹市北區港北三街",
@@ -41,7 +32,7 @@
    "state": "closed"
   },
   {
-   "seq": 5,
+   "seq": 4,
    "receivedAt": "2026-09-10T08:16:46.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路243巷",
@@ -50,7 +41,7 @@
    "state": "returning"
   },
   {
-   "seq": 6,
+   "seq": 5,
    "receivedAt": "2026-09-10T08:15:45.000Z",
    "category": "其他",
    "place": "新竹市東區民享街159巷",
