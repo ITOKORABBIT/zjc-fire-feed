@@ -1,20 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-11T14:50:02.223Z",
- "count": 12,
+ "fetchedAt": "2026-09-11T15:00:01.707Z",
+ "count": 5,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-09-11T14:46:36.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區西大路",
-   "unit": "中山分隊",
-   "status": "已出動",
+   "receivedAt": "2026-09-11T14:57:47.000Z",
+   "category": "其他",
+   "place": "新竹市北區金雅二街",
+   "unit": "委外廠商",
+   "status": "已派遣",
    "state": "dispatched"
   },
   {
    "seq": 2,
+   "receivedAt": "2026-09-11T14:46:36.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區西大路",
+   "unit": "中山分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-09-11T14:44:01.000Z",
    "category": "緊急救護",
    "place": "新竹市東區民生路",
@@ -23,22 +32,13 @@
    "state": "unknown"
   },
   {
-   "seq": 3,
-   "receivedAt": "2026-09-11T14:18:48.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區園後街",
-   "unit": "光復分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
    "seq": 4,
    "receivedAt": "2026-09-11T14:06:13.000Z",
    "category": "緊急救護",
    "place": "新竹市東區大學路和光復路二段",
    "unit": "埔頂分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
    "seq": 5,
@@ -48,69 +48,6 @@
    "unit": "委外廠商",
    "status": "已派遣",
    "state": "dispatched"
-  },
-  {
-   "seq": 6,
-   "receivedAt": "2026-09-11T12:03:11.000Z",
-   "category": "其他",
-   "place": "新竹市香山區海埔路74巷",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 7,
-   "receivedAt": "2026-09-11T10:17:58.000Z",
-   "category": "其他",
-   "place": "新竹市東區明湖路400巷45弄",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 8,
-   "receivedAt": "2026-09-11T09:46:31.000Z",
-   "category": "其他",
-   "place": "新竹市北區湳雅街176巷6弄",
-   "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
-  },
-  {
-   "seq": 9,
-   "receivedAt": "2026-09-11T09:06:39.000Z",
-   "category": "其他",
-   "place": "新竹市香山區中華路四段",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 10,
-   "receivedAt": "2026-09-11T08:51:45.000Z",
-   "category": "其他",
-   "place": "新竹市北區湳雅街176巷",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 11,
-   "receivedAt": "2026-09-11T08:17:27.000Z",
-   "category": "其他",
-   "place": "新竹市東區光復路一段",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 12,
-   "receivedAt": "2026-09-11T07:42:42.000Z",
-   "category": "其他",
-   "place": "新竹市東區光復路二段",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
   }
  ]
 }
