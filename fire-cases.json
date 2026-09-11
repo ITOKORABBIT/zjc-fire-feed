@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-11T07:10:02.362Z",
- "count": 15,
+ "fetchedAt": "2026-09-11T07:20:02.409Z",
+ "count": 14,
  "items": [
   {
    "seq": 1,
@@ -10,8 +10,8 @@
    "category": "緊急救護",
    "place": "新竹市北區南大路706巷35弄",
    "unit": "明湖分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "已到達",
+   "state": "unknown"
   },
   {
    "seq": 2,
@@ -28,8 +28,8 @@
    "category": "緊急救護",
    "place": "新竹市東區中華路二段",
    "unit": "光復分隊",
-   "status": "已到達",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 4,
@@ -46,8 +46,8 @@
    "category": "緊急救護",
    "place": "新竹市北區中山路",
    "unit": "香山分隊",
-   "status": "已到達",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 6,
@@ -64,20 +64,11 @@
    "category": "緊急救護",
    "place": "新竹市北區中央路",
    "unit": "中山分隊",
-   "status": "已到院",
-   "state": "unknown"
-  },
-  {
-   "seq": 8,
-   "receivedAt": "2026-09-11T06:18:25.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區慈濟路",
-   "unit": "金山分隊",
    "status": "已返隊",
    "state": "closed"
   },
   {
-   "seq": 9,
+   "seq": 8,
    "receivedAt": "2026-09-11T04:54:02.000Z",
    "category": "其他",
    "place": "新竹市北區成功路172巷",
@@ -86,7 +77,7 @@
    "state": "returning"
   },
   {
-   "seq": 10,
+   "seq": 9,
    "receivedAt": "2026-09-11T04:45:34.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路393巷71弄",
@@ -95,7 +86,7 @@
    "state": "returning"
   },
   {
-   "seq": 11,
+   "seq": 10,
    "receivedAt": "2026-09-11T03:02:50.000Z",
    "category": "其他",
    "place": "新竹市北區AED(007空軍基地內)醫務中隊01[新竹市北區吉羊路",
@@ -104,7 +95,7 @@
    "state": "returning"
   },
   {
-   "seq": 12,
+   "seq": 11,
    "receivedAt": "2026-09-11T02:21:10.000Z",
    "category": "其他",
    "place": "新竹市東區高翠路277巷2弄",
@@ -113,7 +104,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 13,
+   "seq": 12,
    "receivedAt": "2026-09-11T01:24:07.000Z",
    "category": "其他",
    "place": "新竹市香山區延平路二段",
@@ -122,7 +113,7 @@
    "state": "returning"
   },
   {
-   "seq": 14,
+   "seq": 13,
    "receivedAt": "2026-09-11T01:15:04.000Z",
    "category": "其他",
    "place": "新竹市香山區竹香北路",
@@ -131,7 +122,7 @@
    "state": "returning"
   },
   {
-   "seq": 15,
+   "seq": 14,
    "receivedAt": "2026-09-11T00:56:39.000Z",
    "category": "其他",
    "place": "新竹市北區中正路",
