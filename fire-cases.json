@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-11T13:00:01.613Z",
- "count": 10,
+ "fetchedAt": "2026-09-11T13:10:01.657Z",
+ "count": 9,
  "items": [
   {
    "seq": 1,
@@ -10,20 +10,11 @@
    "category": "緊急救護",
    "place": "新竹市東區南大路",
    "unit": "光復分隊",
-   "status": "送醫中",
+   "status": "已到院",
    "state": "unknown"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-09-11T12:06:05.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區新光路",
-   "unit": "三民分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 3,
    "receivedAt": "2026-09-11T12:03:11.000Z",
    "category": "其他",
    "place": "新竹市香山區海埔路74巷",
@@ -32,7 +23,7 @@
    "state": "returning"
   },
   {
-   "seq": 4,
+   "seq": 3,
    "receivedAt": "2026-09-11T11:14:44.000Z",
    "category": "緊急救護",
    "place": "新竹市東區立鵬路",
@@ -41,7 +32,7 @@
    "state": "returning"
   },
   {
-   "seq": 5,
+   "seq": 4,
    "receivedAt": "2026-09-11T10:17:58.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路400巷45弄",
@@ -50,7 +41,7 @@
    "state": "returning"
   },
   {
-   "seq": 6,
+   "seq": 5,
    "receivedAt": "2026-09-11T09:46:31.000Z",
    "category": "其他",
    "place": "新竹市北區湳雅街176巷6弄",
@@ -59,7 +50,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 7,
+   "seq": 6,
    "receivedAt": "2026-09-11T09:06:39.000Z",
    "category": "其他",
    "place": "新竹市香山區中華路四段",
@@ -68,7 +59,7 @@
    "state": "returning"
   },
   {
-   "seq": 8,
+   "seq": 7,
    "receivedAt": "2026-09-11T08:51:45.000Z",
    "category": "其他",
    "place": "新竹市北區湳雅街176巷",
@@ -77,7 +68,7 @@
    "state": "returning"
   },
   {
-   "seq": 9,
+   "seq": 8,
    "receivedAt": "2026-09-11T08:17:27.000Z",
    "category": "其他",
    "place": "新竹市東區光復路一段",
@@ -86,7 +77,7 @@
    "state": "returning"
   },
   {
-   "seq": 10,
+   "seq": 9,
    "receivedAt": "2026-09-11T07:42:42.000Z",
    "category": "其他",
    "place": "新竹市東區光復路二段",
