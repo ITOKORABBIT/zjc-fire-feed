@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-11T04:50:02.259Z",
- "count": 9,
+ "fetchedAt": "2026-09-11T05:00:02.280Z",
+ "count": 10,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-11T04:54:02.000Z",
+   "category": "其他",
+   "place": "新竹市北區成功路172巷",
+   "unit": "委外廠商",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-09-11T04:45:34.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路393巷71弄",
@@ -14,16 +23,16 @@
    "state": "dispatched"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-09-11T04:35:13.000Z",
    "category": "緊急救護",
    "place": "新竹市北區經國路二段320巷17弄",
    "unit": "竹光分隊",
-   "status": "送醫中",
+   "status": "已到院",
    "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-09-11T03:38:20.000Z",
    "category": "緊急救護",
    "place": "新竹市北區延平路一段261巷12弄",
@@ -32,16 +41,16 @@
    "state": "closed"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-09-11T03:02:50.000Z",
    "category": "其他",
    "place": "新竹市北區AED(007空軍基地內)醫務中隊01[新竹市北區吉羊路",
    "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-09-11T02:40:48.000Z",
    "category": "緊急救護",
    "place": "新竹市北區延平路三段",
@@ -50,7 +59,7 @@
    "state": "closed"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-09-11T02:21:10.000Z",
    "category": "其他",
    "place": "新竹市東區高翠路277巷2弄",
@@ -59,7 +68,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 7,
+   "seq": 8,
    "receivedAt": "2026-09-11T01:24:07.000Z",
    "category": "其他",
    "place": "新竹市香山區延平路二段",
@@ -68,7 +77,7 @@
    "state": "returning"
   },
   {
-   "seq": 8,
+   "seq": 9,
    "receivedAt": "2026-09-11T01:15:04.000Z",
    "category": "其他",
    "place": "新竹市香山區竹香北路",
@@ -77,7 +86,7 @@
    "state": "returning"
   },
   {
-   "seq": 9,
+   "seq": 10,
    "receivedAt": "2026-09-11T00:56:39.000Z",
    "category": "其他",
    "place": "新竹市北區中正路",
