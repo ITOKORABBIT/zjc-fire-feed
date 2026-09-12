@@ -1,29 +1,38 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-12T12:50:02.413Z",
- "count": 6,
+ "fetchedAt": "2026-09-12T13:00:01.407Z",
+ "count": 7,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-12T12:58:13.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區中正路284巷24弄",
+   "unit": "竹光分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-09-12T12:42:35.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區中華路六段",
    "unit": "朝山分隊",
-   "status": "已到達",
-   "state": "unknown"
-  },
-  {
-   "seq": 2,
-   "receivedAt": "2026-09-12T12:02:18.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區東大路三段",
-   "unit": "南寮分隊",
-   "status": "已到院",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
    "seq": 3,
+   "receivedAt": "2026-09-12T12:02:18.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區東大路三段",
+   "unit": "南寮分隊",
+   "status": "返隊中",
+   "state": "returning"
+  },
+  {
+   "seq": 4,
    "receivedAt": "2026-09-12T07:34:29.000Z",
    "category": "其他",
    "place": "新竹市香山區美山路",
@@ -32,7 +41,7 @@
    "state": "returning"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-09-12T07:11:22.000Z",
    "category": "其他",
    "place": "新竹市北區東大路三段",
@@ -41,7 +50,7 @@
    "state": "returning"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-09-12T07:10:16.000Z",
    "category": "其他",
    "place": "新竹市香山區牛埔北路38巷10弄",
@@ -50,7 +59,7 @@
    "state": "returning"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-09-12T04:02:05.000Z",
    "category": "其他",
    "place": "新竹市香山區浸水北街",
