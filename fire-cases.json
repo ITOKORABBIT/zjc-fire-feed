@@ -1,20 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-12T05:40:02.100Z",
- "count": 11,
+ "fetchedAt": "2026-09-12T05:50:02.103Z",
+ "count": 9,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-12T05:42:26.000Z",
+   "category": "緊急救護",
+   "place": "新竹市香山區牛埔路160巷",
+   "unit": "香山分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-09-12T05:32:59.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區香北一路",
    "unit": "朝山分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "已到達",
+   "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-09-12T05:31:21.000Z",
    "category": "其他",
    "place": "新竹市東區經國路一段",
@@ -23,7 +32,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-09-12T05:29:54.000Z",
    "category": "其他",
    "place": "新竹市東區東門街",
@@ -32,7 +41,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-09-12T05:19:08.000Z",
    "category": "緊急救護",
    "place": "新竹市北區南寮街",
@@ -41,34 +50,7 @@
    "state": "unknown"
   },
   {
-   "seq": 5,
-   "receivedAt": "2026-09-12T05:17:39.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區境福街",
-   "unit": "竹光分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
    "seq": 6,
-   "receivedAt": "2026-09-12T04:51:33.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區慈雲路和公道五路一段",
-   "unit": "光復分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 7,
-   "receivedAt": "2026-09-12T04:26:22.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區經國路一段",
-   "unit": "埔頂分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 8,
    "receivedAt": "2026-09-12T04:02:05.000Z",
    "category": "其他",
    "place": "新竹市香山區浸水北街",
@@ -77,7 +59,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 9,
+   "seq": 7,
    "receivedAt": "2026-09-12T03:02:26.000Z",
    "category": "其他",
    "place": "新竹市東區高峰里高翠路292巷",
@@ -86,7 +68,7 @@
    "state": "returning"
   },
   {
-   "seq": 10,
+   "seq": 8,
    "receivedAt": "2026-09-12T01:58:24.000Z",
    "category": "緊急救護",
    "place": "新竹市東區軍功里建功二路",
@@ -95,7 +77,7 @@
    "state": "closed"
   },
   {
-   "seq": 11,
+   "seq": 9,
    "receivedAt": "2026-09-11T13:26:56.000Z",
    "category": "其他",
    "place": "新竹市東區寶山路145巷",
