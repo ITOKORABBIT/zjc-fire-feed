@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-12T19:30:01.676Z",
- "count": 3,
+ "fetchedAt": "2026-09-12T19:40:01.687Z",
+ "count": 4,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-12T19:30:43.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區延平路一段356巷",
+   "unit": "竹光分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-09-12T18:51:58.000Z",
    "category": "其他",
    "place": "新竹市東區太原路",
@@ -14,7 +23,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-09-12T17:05:06.000Z",
    "category": "緊急救護",
    "place": "魚鱗天梯上去右側",
@@ -23,7 +32,7 @@
    "state": "closed"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-09-12T15:37:18.000Z",
    "category": "緊急救護",
    "place": "新竹市",
