@@ -1,20 +1,47 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-12T01:50:02.048Z",
- "count": 3,
+ "fetchedAt": "2026-09-12T02:00:01.937Z",
+ "count": 6,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-09-12T01:30:14.000Z",
+   "receivedAt": "2026-09-12T01:58:46.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區高峰路386巷100弄",
-   "unit": "明湖分隊",
+   "place": "新竹市北區東大路二段",
+   "unit": "竹光分隊",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
+   "receivedAt": "2026-09-12T01:58:24.000Z",
+   "category": "緊急救護",
+   "place": "新竹市軍功里建功二路",
+   "unit": "光復分隊",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 3,
+   "receivedAt": "2026-09-12T01:49:22.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區",
+   "unit": "三民分隊",
    "status": "已到達",
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 4,
+   "receivedAt": "2026-09-12T01:30:14.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區高峰路386巷100弄",
+   "unit": "明湖分隊",
+   "status": "送醫中",
+   "state": "unknown"
+  },
+  {
+   "seq": 5,
    "receivedAt": "2026-09-11T23:28:36.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區延平路二段1544巷2弄",
@@ -23,7 +50,7 @@
    "state": "closed"
   },
   {
-   "seq": 3,
+   "seq": 6,
    "receivedAt": "2026-09-11T13:26:56.000Z",
    "category": "其他",
    "place": "新竹市東區寶山路145巷",
