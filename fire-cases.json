@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-12T06:30:02.145Z",
- "count": 12,
+ "fetchedAt": "2026-09-12T06:40:02.164Z",
+ "count": 10,
  "items": [
   {
    "seq": 1,
@@ -10,8 +10,8 @@
    "category": "緊急救護",
    "place": "新竹市香山區海埔路和延平路二段",
    "unit": "南寮分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "已到達",
+   "state": "unknown"
   },
   {
    "seq": 2,
@@ -87,30 +87,12 @@
   },
   {
    "seq": 10,
-   "receivedAt": "2026-09-12T03:02:26.000Z",
-   "category": "其他",
-   "place": "新竹市東區高峰里高翠路292巷",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 11,
    "receivedAt": "2026-09-12T01:58:24.000Z",
    "category": "緊急救護",
    "place": "新竹市東區軍功里建功二路",
    "unit": "光復分隊",
    "status": "已返隊",
    "state": "closed"
-  },
-  {
-   "seq": 12,
-   "receivedAt": "2026-09-11T13:26:56.000Z",
-   "category": "其他",
-   "place": "新竹市東區寶山路145巷",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
   }
  ]
 }
