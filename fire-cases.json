@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-12T14:10:01.475Z",
- "count": 8,
+ "fetchedAt": "2026-09-12T14:20:01.487Z",
+ "count": 6,
  "items": [
   {
    "seq": 1,
@@ -24,24 +24,6 @@
   },
   {
    "seq": 3,
-   "receivedAt": "2026-09-12T13:34:53.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區建功一路53巷",
-   "unit": "埔頂分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 4,
-   "receivedAt": "2026-09-12T13:33:15.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區金山十三街",
-   "unit": "金山分隊",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 5,
    "receivedAt": "2026-09-12T07:34:29.000Z",
    "category": "其他",
    "place": "新竹市香山區美山路",
@@ -50,7 +32,7 @@
    "state": "returning"
   },
   {
-   "seq": 6,
+   "seq": 4,
    "receivedAt": "2026-09-12T07:11:22.000Z",
    "category": "其他",
    "place": "新竹市北區東大路三段",
@@ -59,7 +41,7 @@
    "state": "returning"
   },
   {
-   "seq": 7,
+   "seq": 5,
    "receivedAt": "2026-09-12T07:10:16.000Z",
    "category": "其他",
    "place": "新竹市香山區牛埔北路38巷10弄",
@@ -68,7 +50,7 @@
    "state": "returning"
   },
   {
-   "seq": 8,
+   "seq": 6,
    "receivedAt": "2026-09-12T04:02:05.000Z",
    "category": "其他",
    "place": "新竹市香山區浸水北街",
