@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-12T07:40:02.175Z",
- "count": 8,
+ "fetchedAt": "2026-09-12T07:50:02.163Z",
+ "count": 7,
  "items": [
   {
    "seq": 1,
@@ -37,7 +37,7 @@
    "category": "緊急救護",
    "place": "新竹市北區西濱路一段1巷",
    "unit": "南寮分隊",
-   "status": "送醫中",
+   "status": "已到院",
    "state": "unknown"
   },
   {
@@ -46,20 +46,11 @@
    "category": "緊急救護",
    "place": "新竹市香山區五福路二段",
    "unit": "朝山分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 6,
-   "receivedAt": "2026-09-12T06:43:57.000Z",
-   "category": "其他",
-   "place": "新竹市香山區茄苳路",
-   "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
-  },
-  {
-   "seq": 7,
    "receivedAt": "2026-09-12T05:42:26.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區牛埔路160巷",
@@ -68,7 +59,7 @@
    "state": "closed"
   },
   {
-   "seq": 8,
+   "seq": 7,
    "receivedAt": "2026-09-12T04:02:05.000Z",
    "category": "其他",
    "place": "新竹市香山區浸水北街",
