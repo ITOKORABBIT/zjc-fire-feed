@@ -1,7 +1,7 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-12T04:40:02.062Z",
+ "fetchedAt": "2026-09-12T04:50:02.073Z",
  "count": 11,
  "items": [
   {
@@ -10,8 +10,8 @@
    "category": "緊急救護",
    "place": "新竹市北區中央路",
    "unit": "中山分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "已到達",
+   "state": "unknown"
   },
   {
    "seq": 2,
@@ -19,8 +19,8 @@
    "category": "緊急救護",
    "place": "新竹市東區經國路一段",
    "unit": "埔頂分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "已到達",
+   "state": "unknown"
   },
   {
    "seq": 3,
@@ -28,7 +28,7 @@
    "category": "緊急救護",
    "place": "新竹市東區光復路一段268巷41弄",
    "unit": "金山分隊",
-   "status": "已到達",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
@@ -64,8 +64,8 @@
    "category": "緊急救護",
    "place": "新竹市北區境福街",
    "unit": "光復分隊",
-   "status": "返隊中",
-   "state": "returning"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
    "seq": 8,
@@ -73,8 +73,8 @@
    "category": "緊急救護",
    "place": "新竹市北區AED(105磐石國中健康中心外)[新竹市北區磐石路",
    "unit": "竹光分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
    "seq": 9,
