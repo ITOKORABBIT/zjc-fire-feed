@@ -1,20 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-13T07:20:01.469Z",
- "count": 6,
+ "fetchedAt": "2026-09-13T07:30:01.457Z",
+ "count": 7,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-13T07:22:24.000Z",
+   "category": "火災",
+   "place": "新竹市東區新香街",
+   "unit": "光復分隊,明湖分隊,竹光分隊,香山分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-09-13T07:07:55.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區",
    "unit": "朝山分隊",
-   "status": "已到達",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-09-13T06:47:13.000Z",
    "category": "緊急救護",
    "place": "新竹市東區新莊街220巷",
@@ -23,7 +32,7 @@
    "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-09-13T06:46:15.000Z",
    "category": "緊急救護",
    "place": "新竹市東區竹蓮街",
@@ -32,7 +41,7 @@
    "state": "closed"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-09-13T06:30:44.000Z",
    "category": "緊急救護",
    "place": "新竹市北區東大路二段173巷2弄",
@@ -41,7 +50,7 @@
    "state": "closed"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-09-13T05:46:42.000Z",
    "category": "其他",
    "place": "新竹市香山區中華路四段411巷3弄",
@@ -50,7 +59,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-09-13T05:35:43.000Z",
    "category": "其他",
    "place": "新竹市東區光明新村",
