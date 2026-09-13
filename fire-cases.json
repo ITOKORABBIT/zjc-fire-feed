@@ -1,7 +1,7 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-13T00:10:02.166Z",
+ "fetchedAt": "2026-09-13T00:20:02.150Z",
  "count": 2,
  "items": [
   {
@@ -10,7 +10,7 @@
    "category": "緊急救護",
    "place": "新竹市東區明湖路650巷",
    "unit": "明湖分隊",
-   "status": "已到達",
+   "status": "已到院",
    "state": "unknown"
   },
   {
@@ -19,8 +19,8 @@
    "category": "緊急救護",
    "place": "新竹市竹光路",
    "unit": "竹光分隊",
-   "status": "返隊中",
-   "state": "returning"
+   "status": "已返隊",
+   "state": "closed"
   }
  ]
 }
