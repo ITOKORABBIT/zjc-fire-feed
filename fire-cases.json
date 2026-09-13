@@ -1,11 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-13T11:10:01.665Z",
- "count": 8,
+ "fetchedAt": "2026-09-13T11:20:01.670Z",
+ "count": 10,
  "items": [
   {
+   "seq": 1,
+   "receivedAt": "2026-09-13T11:14:48.000Z",
+   "category": "其他",
+   "place": "新竹市香山區牛埔路120巷",
+   "unit": "香山分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
    "seq": 2,
+   "receivedAt": "2026-09-13T11:12:30.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區西大路625巷",
+   "unit": "三民分隊,竹光分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 4,
    "receivedAt": "2026-09-13T11:03:27.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區新香街",
@@ -14,16 +32,16 @@
    "state": "dispatched"
   },
   {
-   "seq": 1,
+   "seq": 3,
    "receivedAt": "2026-09-13T11:01:32.000Z",
    "category": "緊急救護",
    "place": "新竹市東區中華路二段",
    "unit": "中山分隊",
-   "status": "已到達",
+   "status": "已到院",
    "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 5,
    "receivedAt": "2026-09-13T10:45:47.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區育德街",
@@ -32,16 +50,16 @@
    "state": "unknown"
   },
   {
-   "seq": 4,
+   "seq": 6,
    "receivedAt": "2026-09-13T10:37:43.000Z",
    "category": "緊急救護",
    "place": "新竹市東區文昌街",
    "unit": "光復分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 5,
+   "seq": 7,
    "receivedAt": "2026-09-13T10:29:42.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區中華路四段181巷",
@@ -50,7 +68,7 @@
    "state": "closed"
   },
   {
-   "seq": 6,
+   "seq": 8,
    "receivedAt": "2026-09-13T10:12:08.000Z",
    "category": "其他",
    "place": "新竹市美之城236巷",
@@ -59,7 +77,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 7,
+   "seq": 9,
    "receivedAt": "2026-09-13T10:05:17.000Z",
    "category": "其他",
    "place": "新竹市東區大學路",
@@ -68,7 +86,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 8,
+   "seq": 10,
    "receivedAt": "2026-09-13T08:28:04.000Z",
    "category": "其他",
    "place": "新竹市香山區海埔路518巷75弄",
