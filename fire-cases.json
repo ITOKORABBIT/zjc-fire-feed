@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-13T05:00:02.378Z",
- "count": 8,
+ "fetchedAt": "2026-09-13T05:10:02.383Z",
+ "count": 6,
  "items": [
   {
    "seq": 1,
@@ -15,15 +15,6 @@
   },
   {
    "seq": 2,
-   "receivedAt": "2026-09-13T04:29:41.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區江山街",
-   "unit": "竹光分隊",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 3,
    "receivedAt": "2026-09-13T04:27:33.000Z",
    "category": "其他",
    "place": "新竹市香山區玄奘路",
@@ -32,16 +23,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 4,
-   "receivedAt": "2026-09-13T04:24:58.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區延平路三段",
-   "unit": "南寮分隊",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 5,
+   "seq": 3,
    "receivedAt": "2026-09-13T03:17:20.000Z",
    "category": "其他",
    "place": "新竹市香山區中華路六段",
@@ -50,7 +32,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 6,
+   "seq": 4,
    "receivedAt": "2026-09-13T03:00:40.000Z",
    "category": "其他",
    "place": "新竹市東區中華路一段2巷",
@@ -59,7 +41,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 7,
+   "seq": 5,
    "receivedAt": "2026-09-13T01:40:36.000Z",
    "category": "其他",
    "place": "新竹市北區成功路",
@@ -68,7 +50,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 8,
+   "seq": 6,
    "receivedAt": "2026-09-13T01:35:39.000Z",
    "category": "其他",
    "place": "新竹市北區吉羊路124巷",
