@@ -1,71 +1,71 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-13T17:00:01.873Z",
+ "fetchedAt": "2026-09-13T23:50:05.256Z",
  "count": 8,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-09-13T16:54:01.000Z",
+   "receivedAt": "2026-09-13T23:47:19.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區光復路一段",
-   "unit": "金山分隊",
-   "status": "已到達",
-   "state": "unknown"
+   "place": "新竹市東區北大路",
+   "unit": "三民分隊",
+   "status": "已出動",
+   "state": "dispatched"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-09-13T16:50:27.000Z",
+   "receivedAt": "2026-09-13T23:29:16.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區煙波麗池館[新竹市東區明湖路",
-   "unit": "明湖分隊",
+   "place": "新竹市北區竹光路和延平路一段",
+   "unit": "光復分隊",
    "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 3,
-   "receivedAt": "2026-09-13T16:46:08.000Z",
+   "receivedAt": "2026-09-13T23:23:34.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區孝賢路",
-   "unit": "南寮分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "place": "新竹市北區延平路三段",
+   "unit": "竹光分隊",
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 4,
+   "receivedAt": "2026-09-13T23:20:50.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區海濱路",
+   "unit": "香山分隊",
+   "status": "送醫中",
+   "state": "unknown"
+  },
+  {
+   "seq": 5,
+   "receivedAt": "2026-09-13T23:13:52.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區東大路三段556巷",
+   "unit": "南寮分隊",
+   "status": "已到院",
+   "state": "unknown"
+  },
+  {
+   "seq": 6,
+   "receivedAt": "2026-09-13T22:31:08.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區西大路",
+   "unit": "中山分隊,竹光分隊",
+   "status": "已返隊",
+   "state": "closed"
+  },
+  {
+   "seq": 7,
    "receivedAt": "2026-09-13T15:36:38.000Z",
    "category": "緊急救護",
    "place": "新竹市東區中華路二段",
    "unit": "中山分隊",
    "status": "已返隊",
    "state": "closed"
-  },
-  {
-   "seq": 5,
-   "receivedAt": "2026-09-13T11:21:16.000Z",
-   "category": "其他",
-   "place": "新竹市北區天府路一段",
-   "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
-  },
-  {
-   "seq": 6,
-   "receivedAt": "2026-09-13T10:12:08.000Z",
-   "category": "其他",
-   "place": "新竹市美之城236巷",
-   "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
-  },
-  {
-   "seq": 7,
-   "receivedAt": "2026-09-13T10:05:17.000Z",
-   "category": "其他",
-   "place": "新竹市東區大學路",
-   "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
   },
   {
    "seq": 8,
