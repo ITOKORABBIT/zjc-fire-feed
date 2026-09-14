@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-14T12:40:02.196Z",
- "count": 6,
+ "fetchedAt": "2026-09-14T12:50:02.220Z",
+ "count": 5,
  "items": [
   {
    "seq": 1,
@@ -10,7 +10,7 @@
    "category": "緊急救護",
    "place": "新竹市東區明湖路72巷2弄",
    "unit": "明湖分隊",
-   "status": "送醫中",
+   "status": "已到院",
    "state": "unknown"
   },
   {
@@ -33,15 +33,6 @@
   },
   {
    "seq": 4,
-   "receivedAt": "2026-09-14T10:06:40.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區舊港里8鄰",
-   "unit": "南寮分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 5,
    "receivedAt": "2026-09-14T08:50:03.000Z",
    "category": "其他",
    "place": "新竹市東區藝術路",
@@ -50,7 +41,7 @@
    "state": "returning"
   },
   {
-   "seq": 6,
+   "seq": 5,
    "receivedAt": "2026-09-14T07:23:08.000Z",
    "category": "其他",
    "place": "新竹市北區西濱路一段",
