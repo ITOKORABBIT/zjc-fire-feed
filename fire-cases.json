@@ -1,20 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-13T23:50:05.256Z",
- "count": 8,
+ "fetchedAt": "2026-09-14T00:00:01.762Z",
+ "count": 9,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-09-13T23:47:19.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區北大路",
-   "unit": "三民分隊",
+   "receivedAt": "2026-09-13T23:54:51.000Z",
+   "category": "火災",
+   "place": "新竹市香山區",
+   "unit": "明湖分隊",
    "status": "已出動",
    "state": "dispatched"
   },
   {
    "seq": 2,
+   "receivedAt": "2026-09-13T23:47:19.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區北大路",
+   "unit": "三民分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-09-13T23:29:16.000Z",
    "category": "緊急救護",
    "place": "新竹市北區竹光路和延平路一段",
@@ -23,7 +32,7 @@
    "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-09-13T23:23:34.000Z",
    "category": "緊急救護",
    "place": "新竹市北區延平路三段",
@@ -32,25 +41,25 @@
    "state": "returning"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-09-13T23:20:50.000Z",
    "category": "緊急救護",
    "place": "新竹市北區海濱路",
    "unit": "香山分隊",
-   "status": "送醫中",
-   "state": "unknown"
-  },
-  {
-   "seq": 5,
-   "receivedAt": "2026-09-13T23:13:52.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區東大路三段556巷",
-   "unit": "南寮分隊",
    "status": "已到院",
    "state": "unknown"
   },
   {
    "seq": 6,
+   "receivedAt": "2026-09-13T23:13:52.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區東大路三段556巷",
+   "unit": "南寮分隊",
+   "status": "返隊中",
+   "state": "returning"
+  },
+  {
+   "seq": 7,
    "receivedAt": "2026-09-13T22:31:08.000Z",
    "category": "緊急救護",
    "place": "新竹市北區西大路",
@@ -59,7 +68,7 @@
    "state": "closed"
   },
   {
-   "seq": 7,
+   "seq": 8,
    "receivedAt": "2026-09-13T15:36:38.000Z",
    "category": "緊急救護",
    "place": "新竹市東區中華路二段",
@@ -68,7 +77,7 @@
    "state": "closed"
   },
   {
-   "seq": 8,
+   "seq": 9,
    "receivedAt": "2026-09-13T08:28:04.000Z",
    "category": "其他",
    "place": "新竹市香山區海埔路518巷75弄",
