@@ -1,44 +1,35 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-15T12:00:01.468Z",
- "count": 4,
+ "fetchedAt": "2026-09-15T12:10:01.464Z",
+ "count": 3,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-09-15T11:50:57.000Z",
+   "receivedAt": "2026-09-15T12:00:38.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區明湖路",
-   "unit": "明湖分隊",
+   "place": "新竹市北區成功路",
+   "unit": "竹光分隊",
    "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 2,
+   "receivedAt": "2026-09-15T11:50:57.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區明湖路",
+   "unit": "明湖分隊",
+   "status": "送醫中",
+   "state": "unknown"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-09-15T10:18:05.000Z",
    "category": "其他",
    "place": "新竹市茄苳交流道往景觀大道機車慢車道(路",
    "unit": "明湖分隊",
    "status": "已返隊",
    "state": "closed"
-  },
-  {
-   "seq": 3,
-   "receivedAt": "2026-09-15T09:12:22.000Z",
-   "category": "其他",
-   "place": "新竹市北區竹光路",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 4,
-   "receivedAt": "2026-09-15T08:29:22.000Z",
-   "category": "其他",
-   "place": "新竹市東區高翠路",
-   "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
   }
  ]
 }
