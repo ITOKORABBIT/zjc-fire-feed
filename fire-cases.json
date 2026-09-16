@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-16T06:40:02.311Z",
- "count": 5,
+ "fetchedAt": "2026-09-16T06:50:02.308Z",
+ "count": 6,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-16T06:39:07.000Z",
+   "category": "緊急救護",
+   "place": "新竹市",
+   "unit": "",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-09-16T05:44:44.000Z",
    "category": "緊急救護",
    "place": "新竹市東區中央路",
@@ -14,7 +23,7 @@
    "state": "closed"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-09-16T05:37:52.000Z",
    "category": "火災",
    "place": "新竹市北區和平路",
@@ -23,7 +32,7 @@
    "state": "closed"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-09-16T05:24:20.000Z",
    "category": "其他",
    "place": "新竹市香山區中華路五段",
@@ -32,7 +41,7 @@
    "state": "returning"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-09-16T05:03:44.000Z",
    "category": "其他",
    "place": "新竹市香山區中華路四段",
@@ -41,7 +50,7 @@
    "state": "returning"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-09-16T04:09:08.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路",
