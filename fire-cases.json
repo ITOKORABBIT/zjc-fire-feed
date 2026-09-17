@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-17T00:20:02.507Z",
- "count": 4,
+ "fetchedAt": "2026-09-17T00:30:02.415Z",
+ "count": 2,
  "items": [
   {
    "seq": 1,
@@ -15,24 +15,6 @@
   },
   {
    "seq": 2,
-   "receivedAt": "2026-09-16T23:00:54.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區樹下街",
-   "unit": "香山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 3,
-   "receivedAt": "2026-09-16T22:54:38.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區關新路",
-   "unit": "金山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 4,
    "receivedAt": "2026-09-16T08:26:52.000Z",
    "category": "其他",
    "place": "新竹市東區工業東三路",
