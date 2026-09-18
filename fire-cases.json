@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-18T13:30:02.570Z",
- "count": 11,
+ "fetchedAt": "2026-09-18T13:40:02.042Z",
+ "count": 7,
  "items": [
   {
    "seq": 1,
@@ -10,7 +10,7 @@
    "category": "緊急救護",
    "place": "新竹市北區竹光路",
    "unit": "竹光分隊",
-   "status": "已到達",
+   "status": "已到院",
    "state": "unknown"
   },
   {
@@ -33,15 +33,6 @@
   },
   {
    "seq": 4,
-   "receivedAt": "2026-09-18T12:02:14.000Z",
-   "category": "其他",
-   "place": "新竹市東區寶山路",
-   "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
-  },
-  {
-   "seq": 5,
    "receivedAt": "2026-09-18T11:12:30.000Z",
    "category": "緊急救護",
    "place": "新竹市東區學府路",
@@ -50,34 +41,7 @@
    "state": "closed"
   },
   {
-   "seq": 6,
-   "receivedAt": "2026-09-18T10:21:11.000Z",
-   "category": "其他",
-   "place": "新竹市東區明湖路",
-   "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
-  },
-  {
-   "seq": 7,
-   "receivedAt": "2026-09-18T07:57:51.000Z",
-   "category": "其他",
-   "place": "新竹市東區柴橋路",
-   "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
-  },
-  {
-   "seq": 8,
-   "receivedAt": "2026-09-18T01:07:59.000Z",
-   "category": "其他",
-   "place": "新竹市北區西濱路一段",
-   "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
-  },
-  {
-   "seq": 9,
+   "seq": 5,
    "receivedAt": "2026-09-17T14:00:53.000Z",
    "category": "其他",
    "place": "新竹市香山區芝柏一街",
@@ -86,7 +50,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 10,
+   "seq": 6,
    "receivedAt": "2026-09-17T06:15:22.000Z",
    "category": "其他",
    "place": "新竹市香山區海埔路",
@@ -95,7 +59,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 11,
+   "seq": 7,
    "receivedAt": "2026-09-17T05:35:07.000Z",
    "category": "其他",
    "place": "新竹市東區高峰路",
