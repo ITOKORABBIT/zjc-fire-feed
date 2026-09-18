@@ -1,51 +1,51 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-18T02:50:01.545Z",
+ "fetchedAt": "2026-09-18T03:00:01.591Z",
  "count": 20,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-09-18T02:37:43.000Z",
+   "receivedAt": "2026-09-18T02:54:22.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區大學路",
-   "unit": "埔頂分隊",
+   "place": "新竹市東區明湖路",
+   "unit": "明湖分隊",
    "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-09-18T02:33:44.000Z",
+   "receivedAt": "2026-09-18T02:51:11.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區延平路一段",
-   "unit": "竹光分隊",
-   "status": "送醫中",
+   "place": "新竹市北區凌雲街",
+   "unit": "香山分隊",
+   "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 3,
+   "receivedAt": "2026-09-18T02:37:43.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區大學路",
+   "unit": "埔頂分隊",
+   "status": "送醫中",
+   "state": "unknown"
+  },
+  {
+   "seq": 4,
+   "receivedAt": "2026-09-18T02:33:44.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區延平路一段",
+   "unit": "竹光分隊",
+   "status": "已到院",
+   "state": "unknown"
+  },
+  {
+   "seq": 5,
    "receivedAt": "2026-09-18T02:10:52.000Z",
    "category": "緊急救護",
    "place": "新竹市東區光復路一段",
    "unit": "金山分隊",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 4,
-   "receivedAt": "2026-09-18T02:04:38.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區東南街",
-   "unit": "光復分隊",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 5,
-   "receivedAt": "2026-09-18T01:57:56.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區中華路二段",
-   "unit": "中山分隊",
    "status": "已返隊",
    "state": "closed"
   },
