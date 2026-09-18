@@ -1,29 +1,38 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-18T11:40:02.085Z",
+ "fetchedAt": "2026-09-18T11:50:02.042Z",
  "count": 25,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-18T11:45:15.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區中華路一段",
+   "unit": "竹光分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-09-18T11:21:08.000Z",
    "category": "緊急救護",
    "place": "新竹市東區光復路二段",
    "unit": "埔頂分隊",
-   "status": "已到達",
-   "state": "unknown"
-  },
-  {
-   "seq": 2,
-   "receivedAt": "2026-09-18T11:12:30.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區學府路",
-   "unit": "三民分隊,中山分隊,光復分隊",
-   "status": "已到達",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
    "seq": 3,
+   "receivedAt": "2026-09-18T11:12:30.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區學府路",
+   "unit": "三民分隊,中山分隊,光復分隊",
+   "status": "返隊中",
+   "state": "returning"
+  },
+  {
+   "seq": 4,
    "receivedAt": "2026-09-18T11:04:20.000Z",
    "category": "緊急救護",
    "place": "新竹市東區金城一路",
@@ -32,7 +41,7 @@
    "state": "returning"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-09-18T10:40:31.000Z",
    "category": "緊急救護",
    "place": "新竹市東區光復路一段",
@@ -41,7 +50,7 @@
    "state": "closed"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-09-18T10:25:37.000Z",
    "category": "緊急救護",
    "place": "新竹市東區水源街",
@@ -50,7 +59,7 @@
    "state": "closed"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-09-18T10:21:11.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路",
@@ -59,20 +68,11 @@
    "state": "dispatched"
   },
   {
-   "seq": 7,
+   "seq": 8,
    "receivedAt": "2026-09-18T09:31:54.000Z",
    "category": "緊急救護",
    "place": "新竹市東區食品路和光復路二段",
    "unit": "光復分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 8,
-   "receivedAt": "2026-09-18T09:25:49.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區崧嶺路",
-   "unit": "香山分隊",
    "status": "已返隊",
    "state": "closed"
   },
