@@ -1,20 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-19T14:50:02.161Z",
- "count": 3,
+ "fetchedAt": "2026-09-19T15:00:02.177Z",
+ "count": 4,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-09-19T14:22:00.000Z",
+   "receivedAt": "2026-09-19T14:54:07.000Z",
    "category": "緊急救護",
-   "place": "新竹市香山區新香街",
-   "unit": "光復分隊",
-   "status": "送醫中",
+   "place": "新竹市北區延平路三段",
+   "unit": "南寮分隊",
+   "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 2,
+   "receivedAt": "2026-09-19T14:22:00.000Z",
+   "category": "緊急救護",
+   "place": "新竹市香山區新香街",
+   "unit": "光復分隊",
+   "status": "已到院",
+   "state": "unknown"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-09-19T13:58:15.000Z",
    "category": "火災",
    "place": "新竹市香山區新香街",
@@ -23,7 +32,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-09-19T11:40:52.000Z",
    "category": "其他",
    "place": "新竹市北區中山路",
