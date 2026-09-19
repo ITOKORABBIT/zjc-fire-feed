@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-19T00:10:01.519Z",
- "count": 3,
+ "fetchedAt": "2026-09-19T00:20:01.762Z",
+ "count": 4,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-19T00:16:26.000Z",
+   "category": "緊急救護",
+   "place": "新竹市香山區中華路五段",
+   "unit": "朝山分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-09-19T00:07:18.000Z",
    "category": "其他",
    "place": "新竹市東區藝術路",
@@ -14,16 +23,16 @@
    "state": "dispatched"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-09-19T00:00:56.000Z",
    "category": "緊急救護",
    "place": "新竹市東區學府路",
    "unit": "光復分隊",
-   "status": "已到達",
+   "status": "已到院",
    "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-09-18T14:26:30.000Z",
    "category": "緊急救護",
    "place": "新竹市東區林森路",
