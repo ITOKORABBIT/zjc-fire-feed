@@ -1,11 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-19T02:50:01.683Z",
- "count": 12,
+ "fetchedAt": "2026-09-19T03:00:02.122Z",
+ "count": 11,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-19T02:56:27.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區高峰路",
+   "unit": "中山分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
+   "receivedAt": "2026-09-19T02:54:36.000Z",
+   "category": "緊急救護",
+   "place": "新竹市",
+   "unit": "光復分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-09-19T02:47:24.000Z",
    "category": "其他",
    "place": "新竹市北區西大路",
@@ -14,7 +32,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 2,
+   "seq": 4,
    "receivedAt": "2026-09-19T02:36:43.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區南隘路二段",
@@ -23,43 +41,25 @@
    "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 5,
    "receivedAt": "2026-09-19T02:25:04.000Z",
    "category": "緊急救護",
    "place": "新竹市東區科學園路",
    "unit": "明湖分隊",
-   "status": "送醫中",
+   "status": "已到院",
    "state": "unknown"
   },
   {
-   "seq": 4,
-   "receivedAt": "2026-09-19T02:14:04.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區中山路",
-   "unit": "中山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-09-19T02:10:09.000Z",
    "category": "緊急救護",
    "place": "新竹縣竹北市",
    "unit": "埔頂分隊,金山分隊",
-   "status": "送醫中",
+   "status": "已到院",
    "state": "unknown"
   },
   {
    "seq": 7,
-   "receivedAt": "2026-09-19T02:05:09.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區南大路",
-   "unit": "光復分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 6,
    "receivedAt": "2026-09-19T02:04:59.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路",
@@ -87,15 +87,6 @@
   },
   {
    "seq": 10,
-   "receivedAt": "2026-09-19T01:25:05.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區透過經緯度轉換GIS座標(中華路一段",
-   "unit": "三民分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 11,
    "receivedAt": "2026-09-19T01:11:54.000Z",
    "category": "其他",
    "place": "新竹市北區崧嶺路",
@@ -104,7 +95,7 @@
    "state": "returning"
   },
   {
-   "seq": 12,
+   "seq": 11,
    "receivedAt": "2026-09-19T00:07:18.000Z",
    "category": "其他",
    "place": "新竹市東區藝術路",
