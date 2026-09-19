@@ -1,20 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-19T09:50:03.423Z",
- "count": 7,
+ "fetchedAt": "2026-09-19T10:00:01.955Z",
+ "count": 6,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-19T09:55:54.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區光復路二段",
+   "unit": "光復分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-09-19T09:08:59.000Z",
    "category": "緊急救護",
    "place": "新竹市東區交大宿舍女二舍[新竹市東區大學路",
    "unit": "埔頂分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-09-19T08:56:59.000Z",
    "category": "其他",
    "place": "新竹市東區建新路",
@@ -23,7 +32,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-09-19T08:52:16.000Z",
    "category": "火災",
    "place": "新竹市東區文昌街",
@@ -32,7 +41,7 @@
    "state": "closed"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-09-19T08:45:53.000Z",
    "category": "火災",
    "place": "新竹市香山區遊樂街",
@@ -41,31 +50,13 @@
    "state": "closed"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-09-19T08:42:55.000Z",
    "category": "其他",
    "place": "新竹市北區和平路",
    "unit": "委外廠商",
    "status": "已派遣",
    "state": "dispatched"
-  },
-  {
-   "seq": 6,
-   "receivedAt": "2026-09-19T08:41:30.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區公道五路四段",
-   "unit": "中山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 7,
-   "receivedAt": "2026-09-19T08:36:48.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區中清路一段",
-   "unit": "南寮分隊",
-   "status": "已返隊",
-   "state": "closed"
   }
  ]
 }
