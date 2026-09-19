@@ -1,15 +1,15 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-19T14:00:02.158Z",
- "count": 7,
+ "fetchedAt": "2026-09-19T14:10:02.124Z",
+ "count": 5,
  "items": [
   {
    "seq": 1,
    "receivedAt": "2026-09-19T13:58:15.000Z",
    "category": "火災",
    "place": "新竹市香山區新香街",
-   "unit": "中山分隊,光復分隊,明湖分隊,香山分隊",
+   "unit": "中山分隊,光復分隊,明湖分隊,竹光分隊,香山分隊",
    "status": "已出動",
    "state": "dispatched"
   },
@@ -19,7 +19,7 @@
    "category": "緊急救護",
    "place": "新竹市香山區五福路一段",
    "unit": "朝山分隊",
-   "status": "已到達",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
@@ -28,8 +28,8 @@
    "category": "緊急救護",
    "place": "新竹市香山區",
    "unit": "明湖分隊",
-   "status": "返隊中",
-   "state": "returning"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
    "seq": 3,
@@ -48,24 +48,6 @@
    "unit": "中山分隊",
    "status": "已返隊",
    "state": "closed"
-  },
-  {
-   "seq": 6,
-   "receivedAt": "2026-09-19T08:56:59.000Z",
-   "category": "其他",
-   "place": "新竹市東區建新路",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 7,
-   "receivedAt": "2026-09-19T08:42:55.000Z",
-   "category": "其他",
-   "place": "新竹市北區和平路",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
   }
  ]
 }
