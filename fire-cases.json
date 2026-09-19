@@ -1,7 +1,7 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-19T03:10:01.690Z",
+ "fetchedAt": "2026-09-19T03:20:01.668Z",
  "count": 11,
  "items": [
   {
@@ -37,8 +37,8 @@
    "category": "其他",
    "place": "新竹市北區西大路",
    "unit": "中山分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
    "seq": 5,
@@ -46,7 +46,7 @@
    "category": "緊急救護",
    "place": "新竹市香山區南隘路二段",
    "unit": "朝山分隊",
-   "status": "送醫中",
+   "status": "已到院",
    "state": "unknown"
   },
   {
