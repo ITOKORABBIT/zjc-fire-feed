@@ -1,47 +1,56 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-21T02:50:02.804Z",
+ "fetchedAt": "2026-09-21T03:00:02.818Z",
  "count": 10,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-21T02:49:23.000Z",
+   "category": "其他",
+   "place": "新竹市香山區華德福街",
+   "unit": "委外廠商",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-09-21T02:45:57.000Z",
    "category": "緊急救護",
    "place": "新竹市東區食品路和博愛街",
    "unit": "光復分隊",
-   "status": "已到達",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-09-21T02:38:49.000Z",
    "category": "緊急救護",
    "place": "新竹市北區少年街",
    "unit": "中山分隊",
-   "status": "已到達",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-09-21T02:38:39.000Z",
    "category": "緊急救護",
    "place": "新竹市北區光華二街",
    "unit": "竹光分隊",
-   "status": "已到達",
-   "state": "unknown"
-  },
-  {
-   "seq": 4,
-   "receivedAt": "2026-09-21T02:25:40.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區中央路",
-   "unit": "三民分隊",
    "status": "送醫中",
    "state": "unknown"
   },
   {
    "seq": 5,
+   "receivedAt": "2026-09-21T02:25:40.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區中央路",
+   "unit": "三民分隊",
+   "status": "已到院",
+   "state": "unknown"
+  },
+  {
+   "seq": 6,
    "receivedAt": "2026-09-21T02:09:46.000Z",
    "category": "其他",
    "place": "新竹市北區海濱路",
@@ -50,20 +59,11 @@
    "state": "dispatched"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-09-21T01:40:02.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區中華路五段",
    "unit": "朝山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 7,
-   "receivedAt": "2026-09-21T01:31:12.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區集賢街",
-   "unit": "埔頂分隊",
    "status": "已返隊",
    "state": "closed"
   },
