@@ -1,17 +1,17 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-21T08:10:01.713Z",
+ "fetchedAt": "2026-09-21T08:20:01.734Z",
  "count": 17,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-09-21T08:08:03.000Z",
+   "receivedAt": "2026-09-21T08:09:03.000Z",
    "category": "緊急救護",
    "place": "新竹市東區東園街",
    "unit": "三民分隊",
-   "status": "已派遣",
-   "state": "dispatched"
+   "status": "已到達",
+   "state": "unknown"
   },
   {
    "seq": 2,
@@ -28,7 +28,7 @@
    "category": "緊急救護",
    "place": "新竹市香山區",
    "unit": "朝山分隊,香山分隊",
-   "status": "已到達",
+   "status": "已到院",
    "state": "unknown"
   },
   {
