@@ -1,17 +1,17 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-22T13:50:02.472Z",
+ "fetchedAt": "2026-09-22T14:00:02.535Z",
  "count": 4,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-09-22T13:48:15.000Z",
+   "receivedAt": "2026-09-22T13:48:50.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區牛埔南路",
    "unit": "香山分隊",
-   "status": "已派遣",
-   "state": "dispatched"
+   "status": "已到達",
+   "state": "unknown"
   },
   {
    "seq": 2,
