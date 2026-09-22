@@ -1,11 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-22T11:00:02.318Z",
- "count": 10,
+ "fetchedAt": "2026-09-22T11:10:02.276Z",
+ "count": 5,
  "items": [
   {
+   "seq": 2,
+   "receivedAt": "2026-09-22T11:01:25.000Z",
+   "category": "其他",
+   "place": "新竹市香山區五福路二段",
+   "unit": "委外廠商",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
    "seq": 1,
+   "receivedAt": "2026-09-22T11:00:11.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區高翠路",
+   "unit": "明湖分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-09-22T10:39:50.000Z",
    "category": "緊急救護",
    "place": "新竹市北區延平路一段",
@@ -14,16 +32,7 @@
    "state": "unknown"
   },
   {
-   "seq": 2,
-   "receivedAt": "2026-09-22T10:32:52.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區中華路四段",
-   "unit": "香山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-09-22T10:27:49.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區長興街",
@@ -32,67 +41,13 @@
    "state": "unknown"
   },
   {
-   "seq": 4,
-   "receivedAt": "2026-09-22T10:07:44.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區",
-   "unit": "中山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
    "seq": 5,
-   "receivedAt": "2026-09-22T08:10:14.000Z",
-   "category": "其他",
-   "place": "新竹市東區關新北路",
-   "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
-  },
-  {
-   "seq": 6,
    "receivedAt": "2026-09-22T06:34:46.000Z",
    "category": "其他",
    "place": "新竹市香山區",
    "unit": "委外廠商",
    "status": "已派遣",
    "state": "dispatched"
-  },
-  {
-   "seq": 7,
-   "receivedAt": "2026-09-22T05:56:44.000Z",
-   "category": "其他",
-   "place": "新竹市東區埔頂路",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 8,
-   "receivedAt": "2026-09-22T05:30:17.000Z",
-   "category": "其他",
-   "place": "新竹市東區力行五路",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 9,
-   "receivedAt": "2026-09-22T05:20:26.000Z",
-   "category": "其他",
-   "place": "新竹市香山區海埔路",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 10,
-   "receivedAt": "2026-09-22T02:45:42.000Z",
-   "category": "其他",
-   "place": "新竹市東區草湖街",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
   }
  ]
 }
