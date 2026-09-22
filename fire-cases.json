@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-22T09:30:02.236Z",
- "count": 13,
+ "fetchedAt": "2026-09-22T09:40:02.326Z",
+ "count": 14,
  "items": [
   {
-   "seq": 2,
+   "seq": 1,
+   "receivedAt": "2026-09-22T09:37:20.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區北大路",
+   "unit": "三民分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-09-22T09:27:05.000Z",
    "category": "緊急救護",
    "place": "新竹市東區大同路",
@@ -14,34 +23,34 @@
    "state": "unknown"
   },
   {
-   "seq": 1,
+   "seq": 2,
    "receivedAt": "2026-09-22T09:26:23.000Z",
    "category": "緊急救護",
    "place": "新竹市東區竹村三路",
    "unit": "埔頂分隊",
-   "status": "已出動",
-   "state": "dispatched"
-  },
-  {
-   "seq": 3,
-   "receivedAt": "2026-09-22T09:22:38.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區武陵路",
-   "unit": "竹光分隊",
-   "status": "已到達",
-   "state": "unknown"
-  },
-  {
-   "seq": 4,
-   "receivedAt": "2026-09-22T09:03:15.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區草湖街",
-   "unit": "明湖分隊",
    "status": "送醫中",
    "state": "unknown"
   },
   {
+   "seq": 4,
+   "receivedAt": "2026-09-22T09:22:38.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區武陵路",
+   "unit": "竹光分隊",
+   "status": "已到院",
+   "state": "unknown"
+  },
+  {
    "seq": 5,
+   "receivedAt": "2026-09-22T09:03:15.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區草湖街",
+   "unit": "明湖分隊",
+   "status": "已到院",
+   "state": "unknown"
+  },
+  {
+   "seq": 6,
    "receivedAt": "2026-09-22T08:53:00.000Z",
    "category": "緊急救護",
    "place": "新竹市北區西大路",
@@ -50,7 +59,7 @@
    "state": "closed"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-09-22T08:35:26.000Z",
    "category": "緊急救護",
    "place": "新竹市東區中華路二段",
@@ -59,7 +68,7 @@
    "state": "closed"
   },
   {
-   "seq": 7,
+   "seq": 8,
    "receivedAt": "2026-09-22T08:27:04.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區南隘路一段",
@@ -68,7 +77,7 @@
    "state": "closed"
   },
   {
-   "seq": 8,
+   "seq": 9,
    "receivedAt": "2026-09-22T08:10:14.000Z",
    "category": "其他",
    "place": "新竹市東區關新北路",
@@ -77,7 +86,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 9,
+   "seq": 10,
    "receivedAt": "2026-09-22T06:34:46.000Z",
    "category": "其他",
    "place": "新竹市香山區",
@@ -86,7 +95,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 10,
+   "seq": 11,
    "receivedAt": "2026-09-22T05:56:44.000Z",
    "category": "其他",
    "place": "新竹市東區埔頂路",
@@ -95,7 +104,7 @@
    "state": "returning"
   },
   {
-   "seq": 11,
+   "seq": 12,
    "receivedAt": "2026-09-22T05:30:17.000Z",
    "category": "其他",
    "place": "新竹市東區力行五路",
@@ -104,7 +113,7 @@
    "state": "returning"
   },
   {
-   "seq": 12,
+   "seq": 13,
    "receivedAt": "2026-09-22T05:20:26.000Z",
    "category": "其他",
    "place": "新竹市香山區海埔路",
@@ -113,7 +122,7 @@
    "state": "returning"
   },
   {
-   "seq": 13,
+   "seq": 14,
    "receivedAt": "2026-09-22T02:45:42.000Z",
    "category": "其他",
    "place": "新竹市東區草湖街",
