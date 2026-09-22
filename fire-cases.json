@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-22T08:00:03.270Z",
- "count": 16,
+ "fetchedAt": "2026-09-22T08:10:02.203Z",
+ "count": 15,
  "items": [
   {
    "seq": 1,
@@ -10,8 +10,8 @@
    "category": "緊急救護",
    "place": "新竹市東區",
    "unit": "三民分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "已到達",
+   "state": "unknown"
   },
   {
    "seq": 2,
@@ -19,8 +19,8 @@
    "category": "緊急救護",
    "place": "新竹市東區埔頂路",
    "unit": "金山分隊",
-   "status": "返隊中",
-   "state": "returning"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
    "seq": 3,
@@ -28,8 +28,8 @@
    "category": "緊急救護",
    "place": "新竹市北區經國路二段",
    "unit": "竹光分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
    "seq": 4,
@@ -46,8 +46,8 @@
    "category": "緊急救護",
    "place": "新竹市東區自由路",
    "unit": "中山分隊",
-   "status": "返隊中",
-   "state": "returning"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
    "seq": 6,
@@ -96,15 +96,6 @@
   },
   {
    "seq": 11,
-   "receivedAt": "2026-09-22T05:52:55.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區民族路",
-   "unit": "三民分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 12,
    "receivedAt": "2026-09-22T05:30:17.000Z",
    "category": "其他",
    "place": "新竹市東區力行五路",
@@ -113,7 +104,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 13,
+   "seq": 12,
    "receivedAt": "2026-09-22T05:20:26.000Z",
    "category": "其他",
    "place": "新竹市香山區海埔路",
@@ -122,7 +113,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 14,
+   "seq": 13,
    "receivedAt": "2026-09-22T04:36:05.000Z",
    "category": "緊急救護",
    "place": "新竹市北區四維路",
@@ -131,7 +122,7 @@
    "state": "closed"
   },
   {
-   "seq": 15,
+   "seq": 14,
    "receivedAt": "2026-09-22T02:45:42.000Z",
    "category": "其他",
    "place": "新竹市東區草湖街",
@@ -140,7 +131,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 16,
+   "seq": 15,
    "receivedAt": "2026-09-22T00:25:05.000Z",
    "category": "其他",
    "place": "新竹市東區中華路二段",
