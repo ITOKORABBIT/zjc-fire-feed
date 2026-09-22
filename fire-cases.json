@@ -1,20 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-22T13:30:23.266Z",
- "count": 2,
+ "fetchedAt": "2026-09-22T13:40:10.071Z",
+ "count": 3,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-09-22T13:23:59.000Z",
+   "receivedAt": "2026-09-22T13:38:30.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區交大網球場/籃球場(AED088-05)[新竹市東區大學路",
-   "unit": "埔頂分隊",
-   "status": "已出動",
+   "place": "新竹市東區南門街",
+   "unit": "中山分隊",
+   "status": "已派遣",
    "state": "dispatched"
   },
   {
    "seq": 2,
+   "receivedAt": "2026-09-22T13:23:59.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區交大網球場/籃球場(AED088-05)[新竹市東區大學路",
+   "unit": "埔頂分隊",
+   "status": "送醫中",
+   "state": "unknown"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-09-22T06:34:46.000Z",
    "category": "其他",
    "place": "新竹市香山區",
