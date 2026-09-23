@@ -1,20 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-23T15:00:01.620Z",
- "count": 3,
+ "fetchedAt": "2026-09-23T15:10:01.667Z",
+ "count": 4,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-09-23T14:58:34.000Z",
+   "receivedAt": "2026-09-23T15:01:54.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區光復路一段",
-   "unit": "金山分隊",
-   "status": "已派遣",
+   "place": "新竹市東區新莊街",
+   "unit": "光復分隊",
+   "status": "已出動",
    "state": "dispatched"
   },
   {
    "seq": 2,
+   "receivedAt": "2026-09-23T14:58:34.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區光復路一段",
+   "unit": "金山分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-09-23T14:30:35.000Z",
    "category": "緊急救護",
    "place": "新竹市東區大學路",
@@ -23,7 +32,7 @@
    "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-09-23T10:49:40.000Z",
    "category": "其他",
    "place": "新竹市香山區延平路二段",
