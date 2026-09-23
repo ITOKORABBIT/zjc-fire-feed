@@ -1,20 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-23T12:00:01.723Z",
- "count": 6,
+ "fetchedAt": "2026-09-23T12:10:01.492Z",
+ "count": 7,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-09-23T11:46:20.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區明湖路",
-   "unit": "埔頂分隊",
+   "receivedAt": "2026-09-23T12:02:37.000Z",
+   "category": "火災",
+   "place": "新竹市北區西大路",
+   "unit": "三民分隊,中山分隊,光復分隊,竹光分隊",
    "status": "已出動",
    "state": "dispatched"
   },
   {
    "seq": 2,
+   "receivedAt": "2026-09-23T11:46:20.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區明湖路",
+   "unit": "埔頂分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-09-23T11:36:21.000Z",
    "category": "火災",
    "place": "新竹市東區關新路",
@@ -23,7 +32,7 @@
    "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-09-23T11:18:10.000Z",
    "category": "緊急救護",
    "place": "新竹市東區明湖路",
@@ -32,7 +41,7 @@
    "state": "returning"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-09-23T10:49:40.000Z",
    "category": "其他",
    "place": "新竹市香山區延平路二段",
@@ -41,7 +50,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-09-23T10:16:36.000Z",
    "category": "緊急救護",
    "place": "新竹市北區中正路",
@@ -50,7 +59,7 @@
    "state": "closed"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-09-23T05:41:25.000Z",
    "category": "其他",
    "place": "新竹市香山區海埔路",
