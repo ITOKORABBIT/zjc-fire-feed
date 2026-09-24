@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-24T12:30:02.349Z",
- "count": 8,
+ "fetchedAt": "2026-09-24T12:40:02.352Z",
+ "count": 7,
  "items": [
   {
    "seq": 1,
@@ -19,7 +19,7 @@
    "category": "緊急救護",
    "place": "新竹市香山區牛埔東路",
    "unit": "竹光分隊",
-   "status": "已到達",
+   "status": "已到院",
    "state": "unknown"
   },
   {
@@ -51,15 +51,6 @@
   },
   {
    "seq": 6,
-   "receivedAt": "2026-09-24T11:49:54.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區光復路二段",
-   "unit": "光復分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 7,
    "receivedAt": "2026-09-24T11:40:42.000Z",
    "category": "其他",
    "place": "新竹市東區展業一路",
@@ -68,7 +59,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 8,
+   "seq": 7,
    "receivedAt": "2026-09-24T09:24:00.000Z",
    "category": "其他",
    "place": "新竹市北區成德二街",
