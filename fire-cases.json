@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-24T18:30:01.588Z",
- "count": 2,
+ "fetchedAt": "2026-09-24T18:40:01.613Z",
+ "count": 3,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-24T18:32:56.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區東南街",
+   "unit": "光復分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-09-24T16:19:56.000Z",
    "category": "緊急救護",
    "place": "新竹市東區埔頂路",
@@ -14,7 +23,7 @@
    "state": "closed"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-09-24T09:24:00.000Z",
    "category": "其他",
    "place": "新竹市北區成德二街",
