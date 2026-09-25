@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-25T18:40:01.780Z",
- "count": 3,
+ "fetchedAt": "2026-09-25T18:50:02.341Z",
+ "count": 4,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-25T18:48:56.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區世界街",
+   "unit": "中山分隊",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-09-25T17:12:27.000Z",
    "category": "緊急救護",
    "place": "新竹市北區經國路二段",
@@ -14,7 +23,7 @@
    "state": "closed"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-09-25T16:32:22.000Z",
    "category": "緊急救護",
    "place": "新竹市北區延平路三段",
@@ -23,7 +32,7 @@
    "state": "closed"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-09-25T16:20:52.000Z",
    "category": "緊急救護",
    "place": "新竹市東區光復路一段",
