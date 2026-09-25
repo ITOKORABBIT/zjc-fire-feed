@@ -1,7 +1,7 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-25T08:20:02.315Z",
+ "fetchedAt": "2026-09-25T08:30:02.312Z",
  "count": 11,
  "items": [
   {
@@ -9,9 +9,9 @@
    "receivedAt": "2026-09-25T08:17:10.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區宮口街",
-   "unit": "香山分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "unit": "朝山分隊,香山分隊",
+   "status": "已到達",
+   "state": "unknown"
   },
   {
    "seq": 2,
@@ -37,7 +37,7 @@
    "category": "緊急救護",
    "place": "新竹市香山區南隘路二段",
    "unit": "朝山分隊",
-   "status": "送醫中",
+   "status": "已到院",
    "state": "unknown"
   },
   {
