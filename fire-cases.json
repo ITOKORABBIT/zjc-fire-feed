@@ -1,11 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-25T00:20:01.885Z",
- "count": 5,
+ "fetchedAt": "2026-09-25T00:30:01.900Z",
+ "count": 7,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-25T00:28:47.000Z",
+   "category": "其他",
+   "place": "新竹市東區明湖路",
+   "unit": "委外廠商",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
+   "receivedAt": "2026-09-25T00:21:01.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區建美路",
+   "unit": "埔頂分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-09-25T00:16:00.000Z",
    "category": "緊急救護",
    "place": "新竹市北區竹光路",
@@ -14,7 +32,7 @@
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 4,
    "receivedAt": "2026-09-24T22:28:51.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區茄苳東街",
@@ -23,7 +41,7 @@
    "state": "closed"
   },
   {
-   "seq": 3,
+   "seq": 5,
    "receivedAt": "2026-09-24T20:41:58.000Z",
    "category": "其他",
    "place": "新竹市北區西濱路一段",
@@ -32,7 +50,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 4,
+   "seq": 6,
    "receivedAt": "2026-09-24T20:38:53.000Z",
    "category": "緊急救護",
    "place": "新竹市北區竹光路",
@@ -41,7 +59,7 @@
    "state": "closed"
   },
   {
-   "seq": 5,
+   "seq": 7,
    "receivedAt": "2026-09-24T09:24:00.000Z",
    "category": "其他",
    "place": "新竹市北區成德二街",
