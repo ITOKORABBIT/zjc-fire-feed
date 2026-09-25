@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-25T11:20:01.459Z",
- "count": 11,
+ "fetchedAt": "2026-09-25T11:30:01.471Z",
+ "count": 12,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-25T11:27:06.000Z",
+   "category": "其他",
+   "place": "新竹市北區中山路",
+   "unit": "委外廠商",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-09-25T11:07:19.000Z",
    "category": "緊急救護",
    "place": "新竹市北區經國大橋往竹北方向高架橋剛下平面道路",
@@ -14,16 +23,16 @@
    "state": "returning"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-09-25T10:22:30.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區南港街",
    "unit": "朝山分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-09-25T09:05:53.000Z",
    "category": "其他",
    "place": "新竹市香山區長興街",
@@ -32,7 +41,7 @@
    "state": "returning"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-09-25T09:05:03.000Z",
    "category": "其他",
    "place": "新竹市北區成功路",
@@ -41,7 +50,7 @@
    "state": "returning"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-09-25T08:09:04.000Z",
    "category": "其他",
    "place": "新竹市東區大學路",
@@ -50,7 +59,7 @@
    "state": "returning"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-09-25T05:07:05.000Z",
    "category": "其他",
    "place": "新竹市東區愛民街",
@@ -59,7 +68,7 @@
    "state": "returning"
   },
   {
-   "seq": 7,
+   "seq": 8,
    "receivedAt": "2026-09-25T03:25:37.000Z",
    "category": "其他",
    "place": "新竹市北區東大路三段",
@@ -68,7 +77,7 @@
    "state": "returning"
   },
   {
-   "seq": 8,
+   "seq": 9,
    "receivedAt": "2026-09-25T01:16:21.000Z",
    "category": "其他",
    "place": "新竹市北區武陵路",
@@ -77,7 +86,7 @@
    "state": "returning"
   },
   {
-   "seq": 9,
+   "seq": 10,
    "receivedAt": "2026-09-25T00:29:37.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路",
@@ -86,7 +95,7 @@
    "state": "returning"
   },
   {
-   "seq": 10,
+   "seq": 11,
    "receivedAt": "2026-09-24T20:41:58.000Z",
    "category": "其他",
    "place": "新竹市北區西濱路一段",
@@ -95,7 +104,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 11,
+   "seq": 12,
    "receivedAt": "2026-09-24T09:24:00.000Z",
    "category": "其他",
    "place": "新竹市北區成德二街",
