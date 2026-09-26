@@ -1,29 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-26T11:10:02.326Z",
- "count": 4,
+ "fetchedAt": "2026-09-26T11:20:02.329Z",
+ "count": 3,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-09-26T10:30:03.000Z",
+   "receivedAt": "2026-09-26T11:12:24.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區凌雲街",
-   "unit": "香山分隊",
-   "status": "返隊中",
-   "state": "returning"
+   "place": "新竹市東區長春街",
+   "unit": "埔頂分隊",
+   "status": "已到達",
+   "state": "unknown"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-09-26T09:20:53.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區至善街",
-   "unit": "朝山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 3,
    "receivedAt": "2026-09-26T08:31:02.000Z",
    "category": "其他",
    "place": "新竹市香山區香村路",
@@ -32,7 +23,7 @@
    "state": "returning"
   },
   {
-   "seq": 4,
+   "seq": 3,
    "receivedAt": "2026-09-26T08:04:50.000Z",
    "category": "其他",
    "place": "新竹市東區高峰路",
