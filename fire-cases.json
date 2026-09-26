@@ -1,35 +1,35 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-26T15:00:01.499Z",
+ "fetchedAt": "2026-09-26T15:10:01.503Z",
  "count": 5,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-09-26T14:56:55.000Z",
-   "category": "火災",
-   "place": "新竹市香山區香檳三街",
-   "unit": "明湖分隊",
-   "status": "已派遣",
+   "receivedAt": "2026-09-26T15:07:39.000Z",
+   "category": "緊急救護",
+   "place": "新竹市香山區中華路三段",
+   "unit": "香山分隊",
+   "status": "已出動",
    "state": "dispatched"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-09-26T14:39:32.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區武陵路",
-   "unit": "竹光分隊",
+   "receivedAt": "2026-09-26T14:58:00.000Z",
+   "category": "火災",
+   "place": "新竹市香山區香檳三街",
+   "unit": "明湖分隊",
    "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 3,
-   "receivedAt": "2026-09-26T14:08:34.000Z",
+   "receivedAt": "2026-09-26T14:39:32.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區成德路",
-   "unit": "香山分隊",
-   "status": "已返隊",
-   "state": "closed"
+   "place": "新竹市北區武陵路",
+   "unit": "竹光分隊",
+   "status": "已到院",
+   "state": "unknown"
   },
   {
    "seq": 4,
