@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-27T05:00:02.221Z",
+ "fetchedAt": "2026-09-27T05:10:02.208Z",
  "count": 6,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-27T05:07:05.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區東大路四段",
+   "unit": "南寮分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-09-27T04:26:55.000Z",
    "category": "緊急救護",
    "place": "新竹市東區高峰路",
@@ -14,20 +23,11 @@
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-09-27T04:16:14.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區大庄路",
    "unit": "朝山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 3,
-   "receivedAt": "2026-09-27T03:54:18.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區南寮街",
-   "unit": "南寮分隊",
    "status": "已返隊",
    "state": "closed"
   },
