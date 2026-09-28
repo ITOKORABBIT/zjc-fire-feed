@@ -1,20 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-28T10:00:01.900Z",
- "count": 5,
+ "fetchedAt": "2026-09-28T10:10:01.537Z",
+ "count": 6,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-28T10:06:28.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區北大路",
+   "unit": "中山分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-09-28T09:55:41.000Z",
    "category": "緊急救護",
    "place": "新竹市東區明湖路",
-   "unit": "明湖分隊",
+   "unit": "光復分隊,明湖分隊",
    "status": "已到達",
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-09-28T09:37:52.000Z",
    "category": "緊急救護",
    "place": "新竹市北區竹光路",
@@ -23,7 +32,7 @@
    "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-09-28T09:04:30.000Z",
    "category": "其他",
    "place": "新竹市東區金山五街",
@@ -32,7 +41,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-09-28T09:02:35.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區香村路",
@@ -41,7 +50,7 @@
    "state": "unknown"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-09-28T07:43:00.000Z",
    "category": "其他",
    "place": "新竹市香山區景觀大道和五福路二段",
