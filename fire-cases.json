@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-28T10:20:01.536Z",
- "count": 6,
+ "fetchedAt": "2026-09-28T10:30:01.550Z",
+ "count": 5,
  "items": [
   {
    "seq": 1,
@@ -10,8 +10,8 @@
    "category": "緊急救護",
    "place": "新竹市北區北大路",
    "unit": "中山分隊",
-   "status": "返隊中",
-   "state": "returning"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
    "seq": 2,
@@ -24,15 +24,6 @@
   },
   {
    "seq": 3,
-   "receivedAt": "2026-09-28T09:37:52.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區竹光路",
-   "unit": "竹光分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 4,
    "receivedAt": "2026-09-28T09:04:30.000Z",
    "category": "其他",
    "place": "新竹市東區金山五街",
@@ -41,7 +32,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 5,
+   "seq": 4,
    "receivedAt": "2026-09-28T09:02:35.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區香村路",
@@ -50,7 +41,7 @@
    "state": "unknown"
   },
   {
-   "seq": 6,
+   "seq": 5,
    "receivedAt": "2026-09-28T07:43:00.000Z",
    "category": "其他",
    "place": "新竹市香山區景觀大道和五福路二段",
