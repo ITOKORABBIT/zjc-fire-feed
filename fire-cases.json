@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-28T02:30:02.229Z",
- "count": 6,
+ "fetchedAt": "2026-09-28T02:40:02.230Z",
+ "count": 4,
  "items": [
   {
    "seq": 1,
@@ -17,31 +17,13 @@
    "seq": 2,
    "receivedAt": "2026-09-28T02:09:09.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區光復路二段",
+   "place": "新竹市東區清大風雲樓(餐廳4樓)[新竹市東區光復路二段",
    "unit": "埔頂分隊",
-   "status": "已到達",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
    "seq": 3,
-   "receivedAt": "2026-09-28T01:55:46.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區牛埔路",
-   "unit": "香山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 4,
-   "receivedAt": "2026-09-28T01:51:29.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區西大路",
-   "unit": "竹光分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 5,
    "receivedAt": "2026-09-28T01:37:20.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區中華路五段",
@@ -50,7 +32,7 @@
    "state": "unknown"
   },
   {
-   "seq": 6,
+   "seq": 4,
    "receivedAt": "2026-09-28T00:47:05.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區長興街",
