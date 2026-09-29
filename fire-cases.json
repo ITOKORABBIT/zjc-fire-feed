@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-29T06:20:01.562Z",
- "count": 13,
+ "fetchedAt": "2026-09-29T06:30:01.550Z",
+ "count": 14,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-29T06:19:32.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區明湖路",
+   "unit": "明湖分隊",
+   "status": "送醫中",
+   "state": "unknown"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-09-29T06:12:06.000Z",
    "category": "其他",
    "place": "新竹市東區高峰路",
@@ -14,34 +23,34 @@
    "state": "dispatched"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-09-29T05:58:11.000Z",
    "category": "緊急救護",
    "place": "新竹市北區東大路三段",
    "unit": "南寮分隊",
-   "status": "送醫中",
-   "state": "unknown"
-  },
-  {
-   "seq": 4,
-   "receivedAt": "2026-09-29T05:48:59.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區境福街",
-   "unit": "竹光分隊",
-   "status": "已到達",
-   "state": "unknown"
-  },
-  {
-   "seq": 3,
-   "receivedAt": "2026-09-29T05:48:24.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區AED(054中央市場)二樓樓梯口[新竹市北區西安街",
-   "unit": "中山分隊",
    "status": "已到院",
    "state": "unknown"
   },
   {
    "seq": 5,
+   "receivedAt": "2026-09-29T05:48:59.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區境福街",
+   "unit": "竹光分隊",
+   "status": "已到院",
+   "state": "unknown"
+  },
+  {
+   "seq": 4,
+   "receivedAt": "2026-09-29T05:48:24.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區AED(054中央市場)二樓樓梯口[新竹市北區西安街",
+   "unit": "中山分隊",
+   "status": "已返隊",
+   "state": "closed"
+  },
+  {
+   "seq": 6,
    "receivedAt": "2026-09-29T05:38:18.000Z",
    "category": "緊急救護",
    "place": "新竹市北區武陵路",
@@ -50,7 +59,7 @@
    "state": "closed"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-09-29T05:17:21.000Z",
    "category": "緊急救護",
    "place": "新竹市北區延平路一段",
@@ -59,7 +68,7 @@
    "state": "closed"
   },
   {
-   "seq": 7,
+   "seq": 8,
    "receivedAt": "2026-09-29T04:49:09.000Z",
    "category": "緊急救護",
    "place": "新竹市東區光復路一段",
@@ -68,7 +77,7 @@
    "state": "closed"
   },
   {
-   "seq": 8,
+   "seq": 9,
    "receivedAt": "2026-09-29T04:42:11.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區香山分隊[新竹市香山區牛埔北路",
@@ -77,7 +86,7 @@
    "state": "closed"
   },
   {
-   "seq": 9,
+   "seq": 10,
    "receivedAt": "2026-09-29T03:59:26.000Z",
    "category": "其他",
    "place": "新竹市東區東新路",
@@ -86,7 +95,7 @@
    "state": "returning"
   },
   {
-   "seq": 10,
+   "seq": 11,
    "receivedAt": "2026-09-29T03:47:07.000Z",
    "category": "緊急救護",
    "place": "新竹市北區延平路一段",
@@ -95,7 +104,7 @@
    "state": "closed"
   },
   {
-   "seq": 11,
+   "seq": 12,
    "receivedAt": "2026-09-29T03:10:58.000Z",
    "category": "其他",
    "place": "新竹市東區田美三街",
@@ -104,7 +113,7 @@
    "state": "returning"
   },
   {
-   "seq": 12,
+   "seq": 13,
    "receivedAt": "2026-09-29T01:05:57.000Z",
    "category": "其他",
    "place": "新竹市東區太原路",
@@ -113,7 +122,7 @@
    "state": "returning"
   },
   {
-   "seq": 13,
+   "seq": 14,
    "receivedAt": "2026-09-29T00:11:31.000Z",
    "category": "其他",
    "place": "新竹市香山區新竹市消防局香山分隊[牛埔路",
