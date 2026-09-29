@@ -1,20 +1,38 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-29T07:00:01.548Z",
- "count": 11,
+ "fetchedAt": "2026-09-29T07:10:01.942Z",
+ "count": 12,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-09-29T07:06:55.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區境福街",
+   "unit": "光復分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
+   "receivedAt": "2026-09-29T07:05:28.000Z",
+   "category": "其他",
+   "place": "新竹市東區關新路",
+   "unit": "委外廠商",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-09-29T06:50:03.000Z",
    "category": "火災",
    "place": "新竹市北區公道五路5段",
    "unit": "三民分隊,中山分隊,南寮分隊,竹光分隊",
-   "status": "已到達",
+   "status": "火已滅",
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 4,
    "receivedAt": "2026-09-29T06:46:42.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路",
@@ -23,16 +41,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 3,
-   "receivedAt": "2026-09-29T06:19:32.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區明湖路",
-   "unit": "明湖分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-09-29T06:12:06.000Z",
    "category": "其他",
    "place": "新竹市東區高峰路",
@@ -41,7 +50,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-09-29T05:58:11.000Z",
    "category": "緊急救護",
    "place": "新竹市北區東大路三段",
@@ -50,7 +59,7 @@
    "state": "unknown"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-09-29T05:48:59.000Z",
    "category": "緊急救護",
    "place": "新竹市北區境福街",
@@ -59,7 +68,7 @@
    "state": "unknown"
   },
   {
-   "seq": 7,
+   "seq": 8,
    "receivedAt": "2026-09-29T04:42:11.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區香山分隊[新竹市香山區牛埔北路",
@@ -68,7 +77,7 @@
    "state": "closed"
   },
   {
-   "seq": 8,
+   "seq": 9,
    "receivedAt": "2026-09-29T03:59:26.000Z",
    "category": "其他",
    "place": "新竹市東區東新路",
@@ -77,7 +86,7 @@
    "state": "returning"
   },
   {
-   "seq": 9,
+   "seq": 10,
    "receivedAt": "2026-09-29T03:10:58.000Z",
    "category": "其他",
    "place": "新竹市東區田美三街",
@@ -86,7 +95,7 @@
    "state": "returning"
   },
   {
-   "seq": 10,
+   "seq": 11,
    "receivedAt": "2026-09-29T01:05:57.000Z",
    "category": "其他",
    "place": "新竹市東區太原路",
@@ -95,7 +104,7 @@
    "state": "returning"
   },
   {
-   "seq": 11,
+   "seq": 12,
    "receivedAt": "2026-09-29T00:11:31.000Z",
    "category": "其他",
    "place": "新竹市香山區新竹市消防局香山分隊[牛埔路",
