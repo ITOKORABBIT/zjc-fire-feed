@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-30T05:20:01.634Z",
- "count": 8,
+ "fetchedAt": "2026-09-30T05:30:01.592Z",
+ "count": 6,
  "items": [
   {
    "seq": 1,
@@ -10,7 +10,7 @@
    "category": "緊急救護",
    "place": "新竹市香山區芝柏五街",
    "unit": "明湖分隊",
-   "status": "已到達",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
@@ -19,20 +19,11 @@
    "category": "緊急救護",
    "place": "新竹市北區東大路二段",
    "unit": "竹光分隊",
-   "status": "已到達",
+   "status": "已到院",
    "state": "unknown"
   },
   {
    "seq": 3,
-   "receivedAt": "2026-09-30T04:52:00.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區東大路三段",
-   "unit": "南寮分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 4,
    "receivedAt": "2026-09-30T04:43:55.000Z",
    "category": "緊急救護",
    "place": "新竹市東區新源街",
@@ -41,16 +32,7 @@
    "state": "unknown"
   },
   {
-   "seq": 5,
-   "receivedAt": "2026-09-30T04:31:20.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區北大路",
-   "unit": "三民分隊",
-   "status": "已到院",
-   "state": "unknown"
-  },
-  {
-   "seq": 6,
+   "seq": 4,
    "receivedAt": "2026-09-30T02:39:13.000Z",
    "category": "其他",
    "place": "新竹市香山區AED(091元培東側門警衛室)02[新竹市香山區元培街",
@@ -59,7 +41,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 7,
+   "seq": 5,
    "receivedAt": "2026-09-29T23:46:48.000Z",
    "category": "其他",
    "place": "新竹市東區學府路",
@@ -68,7 +50,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 8,
+   "seq": 6,
    "receivedAt": "2026-09-29T07:27:30.000Z",
    "category": "其他",
    "place": "新竹市北區成功路",
