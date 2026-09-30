@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-30T02:50:01.568Z",
- "count": 6,
+ "fetchedAt": "2026-09-30T03:00:01.553Z",
+ "count": 4,
  "items": [
   {
    "seq": 1,
@@ -15,33 +15,15 @@
   },
   {
    "seq": 2,
-   "receivedAt": "2026-09-30T02:16:40.000Z",
-   "category": "緊急救護",
-   "place": "交大博愛校區宿舍學生六舍[博愛街",
-   "unit": "三民分隊",
-   "status": "已到院",
-   "state": "unknown"
-  },
-  {
-   "seq": 3,
-   "receivedAt": "2026-09-30T02:01:17.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區中山路",
-   "unit": "明湖分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 4,
    "receivedAt": "2026-09-30T01:52:30.000Z",
    "category": "緊急救護",
    "place": "五福路一段",
    "unit": "朝山分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 5,
+   "seq": 3,
    "receivedAt": "2026-09-29T23:46:48.000Z",
    "category": "其他",
    "place": "新竹市東區學府路",
@@ -50,7 +32,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 6,
+   "seq": 4,
    "receivedAt": "2026-09-29T07:27:30.000Z",
    "category": "其他",
    "place": "新竹市北區成功路",
