@@ -1,44 +1,62 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-30T14:50:02.052Z",
- "count": 4,
+ "fetchedAt": "2026-09-30T15:00:02.098Z",
+ "count": 6,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-09-30T14:39:58.000Z",
+   "receivedAt": "2026-09-30T14:52:13.000Z",
    "category": "緊急救護",
-   "place": "新竹市大學路和光復路二段",
-   "unit": "埔頂分隊",
+   "place": "新竹市北區中正路",
+   "unit": "竹光分隊",
    "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-09-30T14:34:18.000Z",
+   "receivedAt": "2026-09-30T14:49:41.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區西大路",
-   "unit": "中山分隊",
+   "place": "新竹市東區光復分隊[新竹市東區公園路",
+   "unit": "光復分隊",
    "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 3,
+   "receivedAt": "2026-09-30T14:39:58.000Z",
+   "category": "緊急救護",
+   "place": "新竹市大學路和光復路二段",
+   "unit": "埔頂分隊",
+   "status": "已返隊",
+   "state": "closed"
+  },
+  {
+   "seq": 4,
+   "receivedAt": "2026-09-30T14:34:18.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區西大路",
+   "unit": "中山分隊",
+   "status": "已到院",
+   "state": "unknown"
+  },
+  {
+   "seq": 5,
    "receivedAt": "2026-09-30T14:32:45.000Z",
    "category": "緊急救護",
    "place": "新竹市明湖路",
    "unit": "明湖分隊",
-   "status": "送醫中",
+   "status": "已到院",
    "state": "unknown"
   },
   {
-   "seq": 4,
+   "seq": 6,
    "receivedAt": "2026-09-30T14:12:09.000Z",
    "category": "其他",
    "place": "新竹市北區尚濱路",
    "unit": "委外廠商",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "返隊中",
+   "state": "returning"
   }
  ]
 }
