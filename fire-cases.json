@@ -1,20 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-09-30T08:30:01.800Z",
+ "fetchedAt": "2026-09-30T08:40:01.782Z",
  "count": 5,
  "items": [
   {
-   "seq": 2,
+   "seq": 1,
+   "receivedAt": "2026-09-30T08:35:05.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區金竹路",
+   "unit": "竹光分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-09-30T08:22:58.000Z",
    "category": "緊急救護",
    "place": "新竹市北區武陵路",
    "unit": "三民分隊",
-   "status": "已到達",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
-   "seq": 1,
+   "seq": 2,
    "receivedAt": "2026-09-30T08:22:55.000Z",
    "category": "其他",
    "place": "交大校區(從新安路",
@@ -23,20 +32,11 @@
    "state": "dispatched"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-09-30T08:12:52.000Z",
    "category": "火災",
    "place": "新竹市北區中央路",
    "unit": "中山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 4,
-   "receivedAt": "2026-09-30T07:53:09.000Z",
-   "category": "火災",
-   "place": "新竹市北區中興路",
-   "unit": "南寮分隊",
    "status": "已返隊",
    "state": "closed"
   },
