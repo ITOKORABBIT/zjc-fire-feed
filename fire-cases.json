@@ -1,7 +1,7 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-01T04:30:01.720Z",
+ "fetchedAt": "2026-10-01T04:40:01.747Z",
  "count": 10,
  "items": [
   {
@@ -10,8 +10,8 @@
    "category": "緊急救護",
    "place": "新竹市東區孔廟[食品路",
    "unit": "三民分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "已到達",
+   "state": "unknown"
   },
   {
    "seq": 2,
@@ -19,8 +19,8 @@
    "category": "緊急救護",
    "place": "新竹市東區慈濟路",
    "unit": "光復分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "已到達",
+   "state": "unknown"
   },
   {
    "seq": 3,
@@ -64,8 +64,8 @@
    "category": "緊急救護",
    "place": "新竹市東區關東路",
    "unit": "埔頂分隊,金山分隊",
-   "status": "送醫中",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 8,
@@ -73,8 +73,8 @@
    "category": "緊急救護",
    "place": "新竹市東區經國路一段",
    "unit": "中山分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
    "seq": 9,
