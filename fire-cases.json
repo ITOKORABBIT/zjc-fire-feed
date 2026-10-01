@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-01T05:10:01.789Z",
- "count": 11,
+ "fetchedAt": "2026-10-01T05:20:02.455Z",
+ "count": 10,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-10-01T05:13:33.000Z",
+   "category": "緊急救護",
+   "place": "新竹市香山區中華路五段",
+   "unit": "朝山分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-10-01T05:08:22.000Z",
    "category": "其他",
    "place": "新竹市北區海濱路",
@@ -14,7 +23,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-10-01T05:03:29.000Z",
    "category": "緊急救護",
    "place": "新竹市北區中正路",
@@ -23,25 +32,7 @@
    "state": "unknown"
   },
   {
-   "seq": 3,
-   "receivedAt": "2026-10-01T04:26:29.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區孔廟[食品路",
-   "unit": "三民分隊",
-   "status": "已到院",
-   "state": "unknown"
-  },
-  {
    "seq": 4,
-   "receivedAt": "2026-10-01T04:24:05.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區慈濟路",
-   "unit": "光復分隊",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 5,
    "receivedAt": "2026-10-01T04:20:51.000Z",
    "category": "其他",
    "place": "新竹市北區中山分隊[中山路",
@@ -50,7 +41,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 6,
+   "seq": 5,
    "receivedAt": "2026-10-01T03:51:33.000Z",
    "category": "其他",
    "place": "新竹市北區集福街",
@@ -59,16 +50,16 @@
    "state": "dispatched"
   },
   {
-   "seq": 7,
+   "seq": 6,
    "receivedAt": "2026-10-01T03:48:05.000Z",
    "category": "緊急救護",
    "place": "新竹市東區光復路一段",
    "unit": "金山分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 8,
+   "seq": 7,
    "receivedAt": "2026-10-01T03:45:59.000Z",
    "category": "其他",
    "place": "新竹市香山區AED(114富禮國中)門口警衛室[新竹市香山區富禮街",
@@ -77,16 +68,16 @@
    "state": "dispatched"
   },
   {
-   "seq": 9,
+   "seq": 8,
    "receivedAt": "2026-10-01T03:42:41.000Z",
    "category": "緊急救護",
    "place": "新竹市東區關東路",
    "unit": "埔頂分隊,金山分隊",
-   "status": "返隊中",
-   "state": "returning"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 10,
+   "seq": 9,
    "receivedAt": "2026-10-01T01:52:19.000Z",
    "category": "火災",
    "place": "新竹市國三南下115K路",
@@ -95,7 +86,7 @@
    "state": "closed"
   },
   {
-   "seq": 11,
+   "seq": 10,
    "receivedAt": "2026-10-01T00:06:42.000Z",
    "category": "其他",
    "place": "新竹市東區光復路一段",
