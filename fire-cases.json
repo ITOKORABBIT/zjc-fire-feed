@@ -1,29 +1,38 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-01T08:50:03.045Z",
+ "fetchedAt": "2026-10-01T09:00:01.907Z",
  "count": 7,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-10-01T08:37:31.000Z",
+   "receivedAt": "2026-10-01T08:56:45.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區光復路二段",
-   "unit": "埔頂分隊",
+   "place": "新竹市東區東寧宮[東門街",
+   "unit": "中山分隊",
    "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 2,
+   "receivedAt": "2026-10-01T08:37:31.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區光復路二段",
+   "unit": "埔頂分隊",
+   "status": "送醫中",
+   "state": "unknown"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-10-01T08:32:28.000Z",
    "category": "其他",
    "place": "新竹市北區西濱路一段",
    "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-10-01T08:25:50.000Z",
    "category": "其他",
    "place": "新竹市香山區大湖路",
@@ -32,7 +41,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-10-01T08:20:17.000Z",
    "category": "其他",
    "place": "新竹市北區西濱路一段",
@@ -41,7 +50,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-10-01T08:01:38.000Z",
    "category": "其他",
    "place": "新竹市東區埔頂三路",
@@ -50,19 +59,10 @@
    "state": "dispatched"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-10-01T06:03:28.000Z",
    "category": "其他",
    "place": "新竹市東區千甲路",
-   "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
-  },
-  {
-   "seq": 7,
-   "receivedAt": "2026-10-01T05:08:22.000Z",
-   "category": "其他",
-   "place": "新竹市北區海濱路",
    "unit": "委外廠商",
    "status": "已派遣",
    "state": "dispatched"
