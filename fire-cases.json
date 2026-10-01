@@ -1,29 +1,38 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-01T08:00:01.902Z",
- "count": 13,
+ "fetchedAt": "2026-10-01T08:10:01.960Z",
+ "count": 14,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-10-01T07:57:57.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區錦華街",
-   "unit": "三民分隊",
+   "receivedAt": "2026-10-01T08:01:38.000Z",
+   "category": "其他",
+   "place": "新竹市東區埔頂三路",
+   "unit": "委外廠商",
    "status": "已派遣",
    "state": "dispatched"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-10-01T07:52:30.000Z",
+   "receivedAt": "2026-10-01T07:57:57.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區武昌街",
-   "unit": "竹光分隊",
+   "place": "新竹市東區錦華街",
+   "unit": "三民分隊",
    "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 3,
+   "receivedAt": "2026-10-01T07:52:30.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區武昌街",
+   "unit": "竹光分隊",
+   "status": "送醫中",
+   "state": "unknown"
+  },
+  {
+   "seq": 4,
    "receivedAt": "2026-10-01T07:34:32.000Z",
    "category": "緊急救護",
    "place": "新竹市東區東南街",
@@ -32,16 +41,16 @@
    "state": "unknown"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-10-01T07:16:33.000Z",
    "category": "緊急救護",
    "place": "新竹市北區北大路",
    "unit": "光復分隊",
-   "status": "返隊中",
-   "state": "returning"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-10-01T06:56:31.000Z",
    "category": "緊急救護",
    "place": "新竹市北區北大路和北新街",
@@ -50,7 +59,7 @@
    "state": "closed"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-10-01T06:51:26.000Z",
    "category": "緊急救護",
    "place": "新竹市北區西門街",
@@ -59,7 +68,7 @@
    "state": "closed"
   },
   {
-   "seq": 7,
+   "seq": 8,
    "receivedAt": "2026-10-01T06:03:28.000Z",
    "category": "其他",
    "place": "新竹市東區千甲路",
@@ -68,7 +77,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 8,
+   "seq": 9,
    "receivedAt": "2026-10-01T05:08:22.000Z",
    "category": "其他",
    "place": "新竹市北區海濱路",
@@ -77,7 +86,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 9,
+   "seq": 10,
    "receivedAt": "2026-10-01T04:20:51.000Z",
    "category": "其他",
    "place": "新竹市北區中山分隊[中山路",
@@ -86,7 +95,7 @@
    "state": "returning"
   },
   {
-   "seq": 10,
+   "seq": 11,
    "receivedAt": "2026-10-01T03:51:33.000Z",
    "category": "其他",
    "place": "新竹市北區集福街",
@@ -95,7 +104,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 11,
+   "seq": 12,
    "receivedAt": "2026-10-01T03:45:59.000Z",
    "category": "其他",
    "place": "新竹市香山區AED(114富禮國中)門口警衛室[新竹市香山區富禮街",
@@ -104,7 +113,7 @@
    "state": "returning"
   },
   {
-   "seq": 12,
+   "seq": 13,
    "receivedAt": "2026-10-01T01:52:19.000Z",
    "category": "火災",
    "place": "新竹市國三南下115K路",
@@ -113,7 +122,7 @@
    "state": "closed"
   },
   {
-   "seq": 13,
+   "seq": 14,
    "receivedAt": "2026-10-01T00:06:42.000Z",
    "category": "其他",
    "place": "新竹市東區光復路一段",
