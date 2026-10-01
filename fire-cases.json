@@ -1,7 +1,7 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-01T04:00:01.696Z",
+ "fetchedAt": "2026-10-01T04:10:01.967Z",
  "count": 10,
  "items": [
   {
@@ -46,8 +46,8 @@
    "category": "緊急救護",
    "place": "新竹市北區海濱路",
    "unit": "南寮分隊",
-   "status": "已到達",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
    "seq": 6,
@@ -64,8 +64,8 @@
    "category": "緊急救護",
    "place": "新竹市北區光華東街",
    "unit": "三民分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
    "seq": 8,
