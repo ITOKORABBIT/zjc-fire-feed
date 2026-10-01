@@ -1,20 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-01T06:10:01.835Z",
+ "fetchedAt": "2026-10-01T06:20:01.838Z",
  "count": 13,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-10-01T06:12:39.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區境福街",
+   "unit": "竹光分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-10-01T06:06:19.000Z",
    "category": "緊急救護",
    "place": "新竹市東區東南街",
    "unit": "光復分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "已到達",
+   "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-10-01T06:03:28.000Z",
    "category": "其他",
    "place": "新竹市東區千甲路",
@@ -23,7 +32,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-10-01T06:02:45.000Z",
    "category": "緊急救護",
    "place": "新竹市東區花園新城街",
@@ -32,25 +41,25 @@
    "state": "unknown"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-10-01T05:51:39.000Z",
    "category": "緊急救護",
    "place": "新竹市東區中央路",
    "unit": "中山分隊",
-   "status": "已到達",
-   "state": "unknown"
-  },
-  {
-   "seq": 5,
-   "receivedAt": "2026-10-01T05:13:33.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區中華路五段",
-   "unit": "朝山分隊",
-   "status": "已離院",
+   "status": "已到院",
    "state": "unknown"
   },
   {
    "seq": 6,
+   "receivedAt": "2026-10-01T05:13:33.000Z",
+   "category": "緊急救護",
+   "place": "新竹市香山區中華路五段",
+   "unit": "朝山分隊",
+   "status": "已返隊",
+   "state": "closed"
+  },
+  {
+   "seq": 7,
    "receivedAt": "2026-10-01T05:08:22.000Z",
    "category": "其他",
    "place": "新竹市北區海濱路",
@@ -59,7 +68,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 7,
+   "seq": 8,
    "receivedAt": "2026-10-01T05:03:29.000Z",
    "category": "緊急救護",
    "place": "新竹市北區中正路",
@@ -68,16 +77,16 @@
    "state": "closed"
   },
   {
-   "seq": 8,
+   "seq": 9,
    "receivedAt": "2026-10-01T04:20:51.000Z",
    "category": "其他",
    "place": "新竹市北區中山分隊[中山路",
    "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
-   "seq": 9,
+   "seq": 10,
    "receivedAt": "2026-10-01T03:51:33.000Z",
    "category": "其他",
    "place": "新竹市北區集福街",
@@ -86,22 +95,13 @@
    "state": "dispatched"
   },
   {
-   "seq": 10,
+   "seq": 11,
    "receivedAt": "2026-10-01T03:45:59.000Z",
    "category": "其他",
    "place": "新竹市香山區AED(114富禮國中)門口警衛室[新竹市香山區富禮街",
    "unit": "委外廠商",
    "status": "已派遣",
    "state": "dispatched"
-  },
-  {
-   "seq": 11,
-   "receivedAt": "2026-10-01T03:42:41.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區關東路",
-   "unit": "埔頂分隊,金山分隊",
-   "status": "已返隊",
-   "state": "closed"
   },
   {
    "seq": 12,
