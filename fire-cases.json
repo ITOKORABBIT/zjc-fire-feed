@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-01T15:20:01.759Z",
- "count": 3,
+ "fetchedAt": "2026-10-01T15:30:01.705Z",
+ "count": 2,
  "items": [
   {
    "seq": 1,
@@ -15,15 +15,6 @@
   },
   {
    "seq": 2,
-   "receivedAt": "2026-10-01T13:57:41.000Z",
-   "category": "其他",
-   "place": "新竹市北區港北一街",
-   "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
-  },
-  {
-   "seq": 3,
    "receivedAt": "2026-10-01T08:01:38.000Z",
    "category": "其他",
    "place": "新竹市東區埔頂三路",
