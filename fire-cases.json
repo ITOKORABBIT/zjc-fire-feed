@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-02T13:50:01.761Z",
- "count": 7,
+ "fetchedAt": "2026-10-02T14:00:01.821Z",
+ "count": 5,
  "items": [
   {
    "seq": 1,
@@ -24,24 +24,6 @@
   },
   {
    "seq": 3,
-   "receivedAt": "2026-10-02T13:22:25.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區西門街",
-   "unit": "中山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 4,
-   "receivedAt": "2026-10-02T12:58:33.000Z",
-   "category": "其他",
-   "place": "新竹市香山區香北一路",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 5,
    "receivedAt": "2026-10-02T12:48:11.000Z",
    "category": "其他",
    "place": "新竹市東區光復路二段",
@@ -50,7 +32,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 6,
+   "seq": 4,
    "receivedAt": "2026-10-02T11:46:53.000Z",
    "category": "其他",
    "place": "新竹市香山區香村路",
@@ -59,7 +41,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 7,
+   "seq": 5,
    "receivedAt": "2026-10-02T10:13:35.000Z",
    "category": "其他",
    "place": "新竹市香山區大湖路",
