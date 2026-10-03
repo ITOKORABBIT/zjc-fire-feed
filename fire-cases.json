@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-03T14:00:02.051Z",
- "count": 10,
+ "fetchedAt": "2026-10-03T14:10:03.299Z",
+ "count": 11,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-10-03T14:06:53.000Z",
+   "category": "緊急救護",
+   "place": "新竹市香山區經國路三段",
+   "unit": "香山分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-10-03T13:07:58.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區浸水南街",
@@ -14,7 +23,7 @@
    "state": "closed"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-10-03T12:37:41.000Z",
    "category": "緊急救護",
    "place": "新竹市北區中正路",
@@ -23,7 +32,7 @@
    "state": "closed"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-10-03T12:07:28.000Z",
    "category": "其他",
    "place": "新竹市東區千甲路",
@@ -32,7 +41,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-10-03T12:06:11.000Z",
    "category": "緊急救護",
    "place": "新竹市東區",
@@ -41,7 +50,7 @@
    "state": "closed"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-10-03T11:36:33.000Z",
    "category": "緊急救護",
    "place": "新竹市北區北門街",
@@ -50,7 +59,7 @@
    "state": "closed"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-10-03T11:02:31.000Z",
    "category": "緊急救護",
    "place": "新竹市東區交大健身房/游泳館(AED088-06)[新竹市東區大學路",
@@ -59,7 +68,7 @@
    "state": "closed"
   },
   {
-   "seq": 7,
+   "seq": 8,
    "receivedAt": "2026-10-03T07:14:02.000Z",
    "category": "其他",
    "place": "新竹市東區光復路一段",
@@ -68,7 +77,7 @@
    "state": "returning"
   },
   {
-   "seq": 8,
+   "seq": 9,
    "receivedAt": "2026-10-03T05:52:40.000Z",
    "category": "其他",
    "place": "新竹市北區金竹路",
@@ -77,7 +86,7 @@
    "state": "returning"
   },
   {
-   "seq": 9,
+   "seq": 10,
    "receivedAt": "2026-10-03T04:09:42.000Z",
    "category": "其他",
    "place": "新竹市香山區牛埔北路",
@@ -86,7 +95,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 10,
+   "seq": 11,
    "receivedAt": "2026-10-03T02:57:15.000Z",
    "category": "其他",
    "place": "新竹市新港一路",
