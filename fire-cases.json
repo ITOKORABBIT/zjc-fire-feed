@@ -1,7 +1,7 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-03T09:10:01.837Z",
+ "fetchedAt": "2026-10-03T09:20:01.833Z",
  "count": 9,
  "items": [
   {
@@ -37,7 +37,7 @@
    "category": "緊急救護",
    "place": "新竹市香山區浸水南街",
    "unit": "朝山分隊",
-   "status": "送醫中",
+   "status": "已到院",
    "state": "unknown"
   },
   {
