@@ -1,11 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-03T07:10:01.720Z",
- "count": 10,
+ "fetchedAt": "2026-10-03T07:20:01.738Z",
+ "count": 11,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-10-03T07:14:02.000Z",
+   "category": "其他",
+   "place": "新竹市東區光復路一段",
+   "unit": "委外廠商",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
+   "receivedAt": "2026-10-03T07:13:47.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區學府路",
+   "unit": "中山分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-10-03T07:01:43.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區大庄路",
@@ -14,16 +32,16 @@
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 4,
    "receivedAt": "2026-10-03T06:42:24.000Z",
    "category": "緊急救護",
    "place": "新竹市東區武昌街",
    "unit": "中山分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 3,
+   "seq": 5,
    "receivedAt": "2026-10-03T06:31:09.000Z",
    "category": "緊急救護",
    "place": "新竹市東區食品路",
@@ -32,7 +50,7 @@
    "state": "unknown"
   },
   {
-   "seq": 4,
+   "seq": 6,
    "receivedAt": "2026-10-03T06:27:31.000Z",
    "category": "緊急救護",
    "place": "新竹市北區中正路",
@@ -41,7 +59,7 @@
    "state": "closed"
   },
   {
-   "seq": 5,
+   "seq": 7,
    "receivedAt": "2026-10-03T05:52:40.000Z",
    "category": "其他",
    "place": "新竹市北區金竹路",
@@ -50,7 +68,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 6,
+   "seq": 8,
    "receivedAt": "2026-10-03T05:28:52.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區中華路五段",
@@ -59,16 +77,7 @@
    "state": "closed"
   },
   {
-   "seq": 7,
-   "receivedAt": "2026-10-03T04:20:01.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區建華街",
-   "unit": "明湖分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 8,
+   "seq": 9,
    "receivedAt": "2026-10-03T04:09:42.000Z",
    "category": "其他",
    "place": "新竹市香山區牛埔北路",
@@ -77,7 +86,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 9,
+   "seq": 10,
    "receivedAt": "2026-10-03T02:57:15.000Z",
    "category": "其他",
    "place": "新竹市新港一路",
@@ -86,7 +95,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 10,
+   "seq": 11,
    "receivedAt": "2026-10-03T01:37:00.000Z",
    "category": "其他",
    "place": "新竹市香山區玄奘路",
