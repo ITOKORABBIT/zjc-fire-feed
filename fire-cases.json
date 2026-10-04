@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-04T00:10:02.041Z",
- "count": 9,
+ "fetchedAt": "2026-10-04T00:20:02.034Z",
+ "count": 6,
  "items": [
   {
    "seq": 1,
@@ -10,8 +10,8 @@
    "category": "緊急救護",
    "place": "新竹市香山區延平路二段",
    "unit": "中山分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "已到達",
+   "state": "unknown"
   },
   {
    "seq": 2,
@@ -19,8 +19,8 @@
    "category": "緊急救護",
    "place": "新竹市東區千甲路",
    "unit": "三民分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "已到達",
+   "state": "unknown"
   },
   {
    "seq": 3,
@@ -51,39 +51,12 @@
   },
   {
    "seq": 6,
-   "receivedAt": "2026-10-03T23:29:08.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區北新街",
-   "unit": "香山分隊",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 7,
    "receivedAt": "2026-10-03T23:28:33.000Z",
    "category": "緊急救護",
    "place": "新竹市東區林森路",
    "unit": "光復分隊",
    "status": "已到院",
    "state": "unknown"
-  },
-  {
-   "seq": 8,
-   "receivedAt": "2026-10-03T20:36:41.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區集福街",
-   "unit": "中山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 9,
-   "receivedAt": "2026-10-03T17:45:10.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區海山港三街",
-   "unit": "朝山分隊",
-   "status": "已返隊",
-   "state": "closed"
   }
  ]
 }
