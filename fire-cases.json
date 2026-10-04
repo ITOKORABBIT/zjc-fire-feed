@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-04T03:50:03.447Z",
- "count": 6,
+ "fetchedAt": "2026-10-04T04:00:02.230Z",
+ "count": 5,
  "items": [
   {
    "seq": 1,
@@ -10,29 +10,20 @@
    "category": "緊急救護",
    "place": "新竹市北區和平路",
    "unit": "竹光分隊",
-   "status": "送醫中",
+   "status": "已到院",
    "state": "unknown"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-10-04T03:22:16.000Z",
+   "receivedAt": "2026-10-04T03:08:28.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區忠孝路",
-   "unit": "光復分隊",
+   "place": "新竹市東區關新東路",
+   "unit": "金山分隊",
    "status": "返隊中",
    "state": "returning"
   },
   {
    "seq": 3,
-   "receivedAt": "2026-10-04T03:08:28.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區關新東路",
-   "unit": "金山分隊",
-   "status": "已到院",
-   "state": "unknown"
-  },
-  {
-   "seq": 4,
    "receivedAt": "2026-10-04T02:02:51.000Z",
    "category": "其他",
    "place": "新竹市北區海濱路",
@@ -41,7 +32,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 5,
+   "seq": 4,
    "receivedAt": "2026-10-04T00:56:49.000Z",
    "category": "其他",
    "place": "新竹市香山區浸水街",
@@ -50,7 +41,7 @@
    "state": "returning"
   },
   {
-   "seq": 6,
+   "seq": 5,
    "receivedAt": "2026-10-03T23:44:54.000Z",
    "category": "其他",
    "place": "新竹市東區光復路二段",
