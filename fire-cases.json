@@ -1,11 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-05T16:50:02.125Z",
- "count": 2,
+ "fetchedAt": "2026-10-05T17:00:01.992Z",
+ "count": 4,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-10-05T16:55:24.000Z",
+   "category": "其他",
+   "place": "新竹市東區園區二路",
+   "unit": "埔頂分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
+   "receivedAt": "2026-10-05T16:49:23.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區千甲路",
+   "unit": "埔頂分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-10-05T16:10:51.000Z",
    "category": "緊急救護",
    "place": "新竹市東區經國路一段",
@@ -14,7 +32,7 @@
    "state": "closed"
   },
   {
-   "seq": 2,
+   "seq": 4,
    "receivedAt": "2026-10-05T10:55:50.000Z",
    "category": "其他",
    "place": "新竹市東區金山二十五街",
