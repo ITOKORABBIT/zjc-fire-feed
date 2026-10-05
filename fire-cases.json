@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-05T14:50:01.857Z",
- "count": 7,
+ "fetchedAt": "2026-10-05T15:00:02.267Z",
+ "count": 5,
  "items": [
   {
    "seq": 1,
@@ -10,7 +10,7 @@
    "category": "緊急救護",
    "place": "新竹市北區北大路",
    "unit": "中山分隊,竹光分隊",
-   "status": "送醫中",
+   "status": "已到院",
    "state": "unknown"
   },
   {
@@ -24,24 +24,6 @@
   },
   {
    "seq": 3,
-   "receivedAt": "2026-10-05T13:22:36.000Z",
-   "category": "其他",
-   "place": "新竹市北區新竹市北區民富國民小學門口[西大路",
-   "unit": "委外廠商",
-   "status": "已出動",
-   "state": "dispatched"
-  },
-  {
-   "seq": 4,
-   "receivedAt": "2026-10-05T13:22:05.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區中華路一段",
-   "unit": "三民分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 5,
    "receivedAt": "2026-10-05T12:52:57.000Z",
    "category": "其他",
    "place": "新竹市香山區香北一路",
@@ -50,7 +32,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 6,
+   "seq": 4,
    "receivedAt": "2026-10-05T10:55:50.000Z",
    "category": "其他",
    "place": "新竹市東區金山二十五街",
@@ -59,7 +41,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 7,
+   "seq": 5,
    "receivedAt": "2026-10-05T09:13:17.000Z",
    "category": "其他",
    "place": "新竹市東區南大路",
