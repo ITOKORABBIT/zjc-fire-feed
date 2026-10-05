@@ -1,7 +1,7 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-05T14:00:02.587Z",
+ "fetchedAt": "2026-10-05T14:10:01.848Z",
  "count": 10,
  "items": [
   {
@@ -10,8 +10,8 @@
    "category": "緊急救護",
    "place": "新竹市東區中華路二段",
    "unit": "光復分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "送醫中",
+   "state": "unknown"
   },
   {
    "seq": 2,
@@ -28,7 +28,7 @@
    "category": "緊急救護",
    "place": "新竹市北區石坊街",
    "unit": "香山分隊",
-   "status": "已到達",
+   "status": "已到院",
    "state": "unknown"
   },
   {
@@ -37,8 +37,8 @@
    "category": "緊急救護",
    "place": "新竹市北區延平路三段",
    "unit": "南寮分隊",
-   "status": "已到達",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
    "seq": 5,
@@ -46,8 +46,8 @@
    "category": "緊急救護",
    "place": "新竹市東區民族路",
    "unit": "中山分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
    "seq": 6,
@@ -55,7 +55,7 @@
    "category": "其他",
    "place": "新竹市北區新竹市北區民富國民小學門口[西大路",
    "unit": "委外廠商",
-   "status": "已派遣",
+   "status": "已出動",
    "state": "dispatched"
   },
   {
