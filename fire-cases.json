@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-06T09:30:01.903Z",
- "count": 13,
+ "fetchedAt": "2026-10-06T09:40:01.855Z",
+ "count": 11,
  "items": [
   {
    "seq": 1,
@@ -10,8 +10,8 @@
    "category": "緊急救護",
    "place": "新竹市東區光復路一段",
    "unit": "埔頂分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
    "seq": 2,
@@ -19,8 +19,8 @@
    "category": "緊急救護",
    "place": "新竹市北區光華東一街",
    "unit": "三民分隊",
-   "status": "已到達",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
    "seq": 3,
@@ -28,20 +28,11 @@
    "category": "火災",
    "place": "新竹市香山區芝柏五街",
    "unit": "明湖分隊,朝山分隊,竹光分隊,香山分隊",
-   "status": "已到達",
+   "status": "火已滅",
    "state": "unknown"
   },
   {
    "seq": 4,
-   "receivedAt": "2026-10-06T08:38:29.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區埔頂路",
-   "unit": "埔頂分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 5,
    "receivedAt": "2026-10-06T07:47:57.000Z",
    "category": "其他",
    "place": "新竹市香山區私立中華大學[五福路二段",
@@ -50,7 +41,7 @@
    "state": "returning"
   },
   {
-   "seq": 6,
+   "seq": 5,
    "receivedAt": "2026-10-06T06:37:58.000Z",
    "category": "其他",
    "place": "新竹市東區柴橋路",
@@ -59,16 +50,7 @@
    "state": "closed"
   },
   {
-   "seq": 7,
-   "receivedAt": "2026-10-06T05:58:28.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區民族路",
-   "unit": "三民分隊,光復分隊",
-   "status": "已出動",
-   "state": "dispatched"
-  },
-  {
-   "seq": 8,
+   "seq": 6,
    "receivedAt": "2026-10-06T04:42:34.000Z",
    "category": "其他",
    "place": "新竹高中 學府路",
@@ -77,7 +59,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 9,
+   "seq": 7,
    "receivedAt": "2026-10-06T04:22:12.000Z",
    "category": "其他",
    "place": "新竹市北區中清路一段",
@@ -86,7 +68,7 @@
    "state": "returning"
   },
   {
-   "seq": 10,
+   "seq": 8,
    "receivedAt": "2026-10-06T00:53:03.000Z",
    "category": "其他",
    "place": "新竹市東區高峰路",
@@ -95,7 +77,7 @@
    "state": "returning"
   },
   {
-   "seq": 11,
+   "seq": 9,
    "receivedAt": "2026-10-06T00:38:28.000Z",
    "category": "其他",
    "place": "新竹市",
@@ -104,7 +86,7 @@
    "state": "returning"
   },
   {
-   "seq": 12,
+   "seq": 10,
    "receivedAt": "2026-10-05T17:12:52.000Z",
    "category": "其他",
    "place": "新竹市香山區長興街",
@@ -113,7 +95,7 @@
    "state": "closed"
   },
   {
-   "seq": 13,
+   "seq": 11,
    "receivedAt": "2026-10-05T10:55:50.000Z",
    "category": "其他",
    "place": "新竹市東區金山二十五街",
