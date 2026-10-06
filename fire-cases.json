@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-06T09:50:01.854Z",
- "count": 9,
+ "fetchedAt": "2026-10-06T10:00:01.874Z",
+ "count": 4,
  "items": [
   {
    "seq": 1,
@@ -15,15 +15,6 @@
   },
   {
    "seq": 2,
-   "receivedAt": "2026-10-06T07:47:57.000Z",
-   "category": "其他",
-   "place": "新竹市香山區私立中華大學[五福路二段",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 3,
    "receivedAt": "2026-10-06T06:37:58.000Z",
    "category": "其他",
    "place": "新竹市東區柴橋路",
@@ -32,7 +23,7 @@
    "state": "closed"
   },
   {
-   "seq": 4,
+   "seq": 3,
    "receivedAt": "2026-10-06T04:42:34.000Z",
    "category": "其他",
    "place": "新竹高中 學府路",
@@ -41,43 +32,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 5,
-   "receivedAt": "2026-10-06T04:22:12.000Z",
-   "category": "其他",
-   "place": "新竹市北區中清路一段",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 6,
-   "receivedAt": "2026-10-06T00:53:03.000Z",
-   "category": "其他",
-   "place": "新竹市東區高峰路",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 7,
-   "receivedAt": "2026-10-06T00:38:28.000Z",
-   "category": "其他",
-   "place": "新竹市",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 8,
-   "receivedAt": "2026-10-05T17:12:52.000Z",
-   "category": "其他",
-   "place": "新竹市香山區長興街",
-   "unit": "朝山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 9,
+   "seq": 4,
    "receivedAt": "2026-10-05T10:55:50.000Z",
    "category": "其他",
    "place": "新竹市東區金山二十五街",
