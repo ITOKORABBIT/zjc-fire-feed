@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-06T23:10:01.486Z",
- "count": 5,
+ "fetchedAt": "2026-10-06T23:20:01.533Z",
+ "count": 6,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-10-06T23:14:54.000Z",
+   "category": "緊急救護",
+   "place": "新竹市科學園路和光復路一段",
+   "unit": "埔頂分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-10-06T22:59:02.000Z",
    "category": "緊急救護",
    "place": "新竹市東區關新路",
@@ -14,16 +23,16 @@
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-10-06T22:48:31.000Z",
    "category": "緊急救護",
    "place": "新竹市東區食品路",
    "unit": "光復分隊",
-   "status": "已到達",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-10-06T22:11:50.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區華德福街",
@@ -32,7 +41,7 @@
    "state": "closed"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-10-06T21:21:39.000Z",
    "category": "緊急救護",
    "place": "新竹市東區寶山路",
@@ -41,7 +50,7 @@
    "state": "closed"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-10-06T19:25:58.000Z",
    "category": "緊急救護",
    "place": "新竹市東區交大宿舍女二舍[新竹市東區大學路",
