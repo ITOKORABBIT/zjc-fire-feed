@@ -1,20 +1,38 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-08T07:50:01.962Z",
- "count": 9,
+ "fetchedAt": "2026-10-08T08:00:02.079Z",
+ "count": 10,
  "items": [
   {
-   "seq": 2,
-   "receivedAt": "2026-10-08T07:42:32.000Z",
+   "seq": 1,
+   "receivedAt": "2026-10-08T07:57:06.000Z",
    "category": "緊急救護",
-   "place": "新竹市香山區香村路",
-   "unit": "朝山分隊",
+   "place": "新竹市北區境福街",
+   "unit": "中山分隊,光復分隊",
    "status": "已出動",
    "state": "dispatched"
   },
   {
-   "seq": 1,
+   "seq": 2,
+   "receivedAt": "2026-10-08T07:51:19.000Z",
+   "category": "火災",
+   "place": "新竹市北區東大路三段",
+   "unit": "竹光分隊,香山分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 4,
+   "receivedAt": "2026-10-08T07:42:32.000Z",
+   "category": "緊急救護",
+   "place": "新竹市香山區香村路",
+   "unit": "朝山分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-10-08T07:41:55.000Z",
    "category": "火災",
    "place": "新竹市北區東大路三段",
@@ -23,16 +41,16 @@
    "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 5,
    "receivedAt": "2026-10-08T07:19:55.000Z",
    "category": "緊急救護",
    "place": "新竹市東區中央路",
    "unit": "中山分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 4,
+   "seq": 6,
    "receivedAt": "2026-10-08T07:13:46.000Z",
    "category": "緊急救護",
    "place": "新竹市東區中華路一段",
@@ -41,16 +59,16 @@
    "state": "returning"
   },
   {
-   "seq": 5,
+   "seq": 7,
    "receivedAt": "2026-10-08T07:12:02.000Z",
    "category": "緊急救護",
    "place": "新竹市東區金山北一街",
    "unit": "金山分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
-   "seq": 6,
+   "seq": 8,
    "receivedAt": "2026-10-08T07:00:07.000Z",
    "category": "其他",
    "place": "新竹市北區天府路二段",
@@ -59,16 +77,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 7,
-   "receivedAt": "2026-10-08T05:25:53.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區清大醫輔大樓(AED086-04衛保組)[新竹市東區光復路二段",
-   "unit": "光復分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 8,
+   "seq": 9,
    "receivedAt": "2026-10-08T04:32:33.000Z",
    "category": "其他",
    "place": "新竹市香山區頂埔路",
@@ -77,7 +86,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 9,
+   "seq": 10,
    "receivedAt": "2026-10-08T03:44:30.000Z",
    "category": "其他",
    "place": "新竹市香山區中華路五段",
