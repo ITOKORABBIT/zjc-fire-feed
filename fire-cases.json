@@ -1,38 +1,47 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-09T04:00:02.246Z",
- "count": 4,
+ "fetchedAt": "2026-10-09T04:10:02.705Z",
+ "count": 5,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-10-09T03:53:47.000Z",
-   "category": "火災",
-   "place": "新竹市香山區",
-   "unit": "朝山分隊",
+   "receivedAt": "2026-10-09T04:07:07.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區光復路一段",
+   "unit": "金山分隊",
    "status": "已出動",
    "state": "dispatched"
   },
   {
    "seq": 2,
+   "receivedAt": "2026-10-09T03:53:47.000Z",
+   "category": "火災",
+   "place": "新竹市香山區浸水北街",
+   "unit": "朝山分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-10-09T03:37:56.000Z",
    "category": "緊急救護",
    "place": "新竹市舊社大橋往湳雅街",
    "unit": "中山分隊",
-   "status": "已到達",
-   "state": "unknown"
-  },
-  {
-   "seq": 3,
-   "receivedAt": "2026-10-09T02:52:47.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區成德二街",
-   "unit": "明湖分隊",
    "status": "已到院",
    "state": "unknown"
   },
   {
    "seq": 4,
+   "receivedAt": "2026-10-09T02:52:47.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區成德二街",
+   "unit": "明湖分隊",
+   "status": "已返隊",
+   "state": "closed"
+  },
+  {
+   "seq": 5,
    "receivedAt": "2026-10-08T09:50:41.000Z",
    "category": "其他",
    "place": "新竹市北區西濱路一段",
