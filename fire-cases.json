@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-09T05:10:02.279Z",
- "count": 6,
+ "fetchedAt": "2026-10-09T05:20:02.286Z",
+ "count": 4,
  "items": [
   {
    "seq": 1,
@@ -10,8 +10,8 @@
    "category": "緊急救護",
    "place": "新竹市東區埔頂分隊[光復路一段",
    "unit": "埔頂分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
    "seq": 2,
@@ -33,24 +33,6 @@
   },
   {
    "seq": 4,
-   "receivedAt": "2026-10-09T04:07:07.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區光復路一段",
-   "unit": "金山分隊",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 5,
-   "receivedAt": "2026-10-09T03:53:47.000Z",
-   "category": "火災",
-   "place": "新竹市香山區浸水北街",
-   "unit": "朝山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 6,
    "receivedAt": "2026-10-08T09:50:41.000Z",
    "category": "其他",
    "place": "新竹市北區西濱路一段",
