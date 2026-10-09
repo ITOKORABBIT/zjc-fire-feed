@@ -1,29 +1,38 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-09T18:30:01.934Z",
- "count": 6,
+ "fetchedAt": "2026-10-09T18:40:02.603Z",
+ "count": 7,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-10-09T18:26:36.000Z",
+   "receivedAt": "2026-10-09T18:35:19.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區勝利路",
-   "unit": "光復分隊",
+   "place": "新竹市北區延平路一段",
+   "unit": "三民分隊",
    "status": "已出動",
    "state": "dispatched"
   },
   {
    "seq": 2,
+   "receivedAt": "2026-10-09T18:26:36.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區勝利路",
+   "unit": "光復分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-10-09T18:25:32.000Z",
    "category": "緊急救護",
    "place": "新竹市北區延平路一段",
    "unit": "香山分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "已到達",
+   "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-10-09T18:24:37.000Z",
    "category": "其他",
    "place": "新竹市北區延平路一段",
@@ -32,16 +41,16 @@
    "state": "dispatched"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-10-09T18:15:33.000Z",
    "category": "緊急救護",
    "place": "新竹市北區延平路一段",
    "unit": "竹光分隊",
-   "status": "已到達",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-10-09T18:11:37.000Z",
    "category": "緊急救護",
    "place": "新竹市北區西大路",
@@ -50,7 +59,7 @@
    "state": "unknown"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-10-09T06:11:09.000Z",
    "category": "其他",
    "place": "新竹市東區力行路",
