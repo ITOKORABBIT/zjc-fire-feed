@@ -1,11 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-10T08:10:02.631Z",
- "count": 8,
+ "fetchedAt": "2026-10-10T08:20:01.650Z",
+ "count": 4,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-10-10T08:12:22.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區南大路",
+   "unit": "明湖分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
+   "receivedAt": "2026-10-10T08:09:56.000Z",
+   "category": "緊急救護",
+   "place": "新竹市香山區中華路六段",
+   "unit": "朝山分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-10-10T07:27:07.000Z",
    "category": "緊急救護",
    "place": "新竹市北區延平路一段",
@@ -14,61 +32,7 @@
    "state": "unknown"
   },
   {
-   "seq": 2,
-   "receivedAt": "2026-10-10T06:50:16.000Z",
-   "category": "其他",
-   "place": "新竹市北區湳雅街",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 3,
-   "receivedAt": "2026-10-10T04:37:24.000Z",
-   "category": "火災",
-   "place": "新竹市北區中正路",
-   "unit": "三民分隊,中山分隊,竹光分隊,香山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
    "seq": 4,
-   "receivedAt": "2026-10-10T03:20:50.000Z",
-   "category": "其他",
-   "place": "新竹市東區關新路",
-   "unit": "委外廠商",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 5,
-   "receivedAt": "2026-10-10T02:16:40.000Z",
-   "category": "其他",
-   "place": "新竹市東區明湖路",
-   "unit": "委外廠商",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 6,
-   "receivedAt": "2026-10-10T01:40:58.000Z",
-   "category": "其他",
-   "place": "新竹市東區明湖路",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 7,
-   "receivedAt": "2026-10-09T23:02:14.000Z",
-   "category": "其他",
-   "place": "新竹市東區花園新城街",
-   "unit": "委外廠商",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 8,
    "receivedAt": "2026-10-09T06:11:09.000Z",
    "category": "其他",
    "place": "新竹市東區力行路",
