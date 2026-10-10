@@ -1,47 +1,56 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-10T06:20:01.562Z",
- "count": 12,
+ "fetchedAt": "2026-10-10T06:30:01.575Z",
+ "count": 13,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-10-10T06:17:54.000Z",
+   "receivedAt": "2026-10-10T06:28:22.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區東大路二段",
-   "unit": "三民分隊",
-   "status": "已派遣",
+   "place": "新竹市北區田美三街",
+   "unit": "中山分隊",
+   "status": "已出動",
    "state": "dispatched"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-10-10T06:12:44.000Z",
+   "receivedAt": "2026-10-10T06:18:59.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區國光街",
-   "unit": "竹光分隊",
+   "place": "新竹市北區東大路二段",
+   "unit": "三民分隊",
    "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 3,
-   "receivedAt": "2026-10-10T06:10:39.000Z",
+   "receivedAt": "2026-10-10T06:12:44.000Z",
    "category": "緊急救護",
-   "place": "新竹市香山區柯湳一街",
-   "unit": "明湖分隊",
-   "status": "已到達",
+   "place": "新竹市北區國光街",
+   "unit": "竹光分隊",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
    "seq": 4,
-   "receivedAt": "2026-10-10T05:52:04.000Z",
+   "receivedAt": "2026-10-10T06:10:39.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區建功一路",
-   "unit": "埔頂分隊",
-   "status": "已到院",
+   "place": "新竹市香山區柯湳一街",
+   "unit": "明湖分隊",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
    "seq": 5,
+   "receivedAt": "2026-10-10T05:52:04.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區建功一路",
+   "unit": "埔頂分隊",
+   "status": "返隊中",
+   "state": "returning"
+  },
+  {
+   "seq": 6,
    "receivedAt": "2026-10-10T05:49:30.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區西濱路三段",
@@ -50,7 +59,7 @@
    "state": "unknown"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-10-10T04:37:24.000Z",
    "category": "火災",
    "place": "新竹市北區中正路",
@@ -59,7 +68,7 @@
    "state": "closed"
   },
   {
-   "seq": 7,
+   "seq": 8,
    "receivedAt": "2026-10-10T04:04:13.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區指澤宮後方 竹香南路",
@@ -68,7 +77,7 @@
    "state": "closed"
   },
   {
-   "seq": 8,
+   "seq": 9,
    "receivedAt": "2026-10-10T03:20:50.000Z",
    "category": "其他",
    "place": "新竹市東區關新路",
@@ -77,7 +86,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 9,
+   "seq": 10,
    "receivedAt": "2026-10-10T02:16:40.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路",
@@ -86,7 +95,7 @@
    "state": "closed"
   },
   {
-   "seq": 10,
+   "seq": 11,
    "receivedAt": "2026-10-10T01:40:58.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路",
@@ -95,7 +104,7 @@
    "state": "returning"
   },
   {
-   "seq": 11,
+   "seq": 12,
    "receivedAt": "2026-10-09T23:02:14.000Z",
    "category": "其他",
    "place": "新竹市東區花園新城街",
@@ -104,7 +113,7 @@
    "state": "closed"
   },
   {
-   "seq": 12,
+   "seq": 13,
    "receivedAt": "2026-10-09T06:11:09.000Z",
    "category": "其他",
    "place": "新竹市東區力行路",
