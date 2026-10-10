@@ -1,47 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-10T04:20:02.452Z",
- "count": 11,
+ "fetchedAt": "2026-10-10T04:30:01.448Z",
+ "count": 7,
  "items": [
   {
    "seq": 1,
    "receivedAt": "2026-10-10T04:04:13.000Z",
    "category": "緊急救護",
-   "place": "新竹市香山區浸水北街",
+   "place": "新竹市香山區指澤宮後方 竹香南路",
    "unit": "朝山分隊,香山分隊",
    "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-10-10T03:56:17.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區經國路二段",
-   "unit": "竹光分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 3,
-   "receivedAt": "2026-10-10T03:42:56.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區南大路",
-   "unit": "光復分隊",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 4,
    "receivedAt": "2026-10-10T03:30:45.000Z",
    "category": "緊急救護",
    "place": "新竹市東區慈雲路",
    "unit": "埔頂分隊",
-   "status": "已到達",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
-   "seq": 5,
+   "seq": 3,
    "receivedAt": "2026-10-10T03:20:50.000Z",
    "category": "其他",
    "place": "新竹市東區關新路",
@@ -50,25 +32,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 6,
-   "receivedAt": "2026-10-10T03:09:46.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區明湖路",
-   "unit": "明湖分隊",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 7,
-   "receivedAt": "2026-10-10T02:33:22.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區中華路五段",
-   "unit": "朝山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 8,
+   "seq": 4,
    "receivedAt": "2026-10-10T02:16:40.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路",
@@ -77,7 +41,7 @@
    "state": "closed"
   },
   {
-   "seq": 9,
+   "seq": 5,
    "receivedAt": "2026-10-10T01:40:58.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路",
@@ -86,7 +50,7 @@
    "state": "returning"
   },
   {
-   "seq": 10,
+   "seq": 6,
    "receivedAt": "2026-10-09T23:02:14.000Z",
    "category": "其他",
    "place": "新竹市東區花園新城街",
@@ -95,7 +59,7 @@
    "state": "closed"
   },
   {
-   "seq": 11,
+   "seq": 7,
    "receivedAt": "2026-10-09T06:11:09.000Z",
    "category": "其他",
    "place": "新竹市東區力行路",
