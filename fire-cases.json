@@ -1,7 +1,7 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-10T02:40:04.100Z",
+ "fetchedAt": "2026-10-10T02:50:02.430Z",
  "count": 8,
  "items": [
   {
@@ -10,7 +10,7 @@
    "category": "緊急救護",
    "place": "新竹市香山區中華路五段",
    "unit": "朝山分隊",
-   "status": "已到達",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
@@ -19,8 +19,8 @@
    "category": "緊急救護",
    "place": "新竹市北區中山路",
    "unit": "中山分隊",
-   "status": "已到達",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 3,
@@ -37,7 +37,7 @@
    "category": "緊急救護",
    "place": "新竹市17公里",
    "unit": "南寮分隊",
-   "status": "已到達",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
