@@ -1,29 +1,38 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-10T04:30:01.448Z",
- "count": 7,
+ "fetchedAt": "2026-10-10T04:40:01.470Z",
+ "count": 8,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-10-10T04:37:24.000Z",
+   "category": "火災",
+   "place": "新竹市北區中正路和鐵道路三段",
+   "unit": "三民分隊,中山分隊,竹光分隊,香山分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-10-10T04:04:13.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區指澤宮後方 竹香南路",
    "unit": "朝山分隊,香山分隊",
-   "status": "已到達",
-   "state": "unknown"
-  },
-  {
-   "seq": 2,
-   "receivedAt": "2026-10-10T03:30:45.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區慈雲路",
-   "unit": "埔頂分隊",
    "status": "返隊中",
    "state": "returning"
   },
   {
    "seq": 3,
+   "receivedAt": "2026-10-10T03:30:45.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區慈雲路",
+   "unit": "埔頂分隊",
+   "status": "已返隊",
+   "state": "closed"
+  },
+  {
+   "seq": 4,
    "receivedAt": "2026-10-10T03:20:50.000Z",
    "category": "其他",
    "place": "新竹市東區關新路",
@@ -32,7 +41,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-10-10T02:16:40.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路",
@@ -41,7 +50,7 @@
    "state": "closed"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-10-10T01:40:58.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路",
@@ -50,7 +59,7 @@
    "state": "returning"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-10-09T23:02:14.000Z",
    "category": "其他",
    "place": "新竹市東區花園新城街",
@@ -59,7 +68,7 @@
    "state": "closed"
   },
   {
-   "seq": 7,
+   "seq": 8,
    "receivedAt": "2026-10-09T06:11:09.000Z",
    "category": "其他",
    "place": "新竹市東區力行路",
