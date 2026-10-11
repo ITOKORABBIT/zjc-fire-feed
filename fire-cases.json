@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-11T06:30:02.048Z",
- "count": 4,
+ "fetchedAt": "2026-10-11T06:40:01.587Z",
+ "count": 3,
  "items": [
   {
    "seq": 1,
@@ -10,20 +10,11 @@
    "category": "緊急救護",
    "place": "新竹市北區北大路和延平路一段",
    "unit": "香山分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "送醫中",
+   "state": "unknown"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-10-11T05:03:19.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區光復路二段",
-   "unit": "光復分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 3,
    "receivedAt": "2026-10-11T03:33:53.000Z",
    "category": "緊急救護",
    "place": "新竹市北區古賢里",
@@ -32,7 +23,7 @@
    "state": "returning"
   },
   {
-   "seq": 4,
+   "seq": 3,
    "receivedAt": "2026-10-09T06:11:09.000Z",
    "category": "其他",
    "place": "新竹市東區力行路",
