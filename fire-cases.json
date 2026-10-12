@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-12T08:40:02.212Z",
- "count": 15,
+ "fetchedAt": "2026-10-12T08:50:01.873Z",
+ "count": 3,
  "items": [
   {
    "seq": 1,
@@ -10,8 +10,8 @@
    "category": "緊急救護",
    "place": "新竹市東區光復路二段",
    "unit": "埔頂分隊",
-   "status": "已到達",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 2,
@@ -19,125 +19,17 @@
    "category": "緊急救護",
    "place": "新竹市東區學府路",
    "unit": "光復分隊",
-   "status": "已到院",
-   "state": "unknown"
-  },
-  {
-   "seq": 3,
-   "receivedAt": "2026-10-12T07:57:03.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區關新北路",
-   "unit": "金山分隊",
    "status": "返隊中",
    "state": "returning"
   },
   {
-   "seq": 4,
+   "seq": 3,
    "receivedAt": "2026-10-12T06:45:27.000Z",
    "category": "緊急救護",
    "place": "新竹市東區光華街",
    "unit": "三民分隊",
    "status": "已到院",
    "state": "unknown"
-  },
-  {
-   "seq": 5,
-   "receivedAt": "2026-10-12T05:55:54.000Z",
-   "category": "其他",
-   "place": "新竹市香山區南港街",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 6,
-   "receivedAt": "2026-10-12T05:43:49.000Z",
-   "category": "其他",
-   "place": "新竹市東區力行路",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 7,
-   "receivedAt": "2026-10-12T04:56:09.000Z",
-   "category": "其他",
-   "place": "新竹市東區明湖路",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 8,
-   "receivedAt": "2026-10-12T04:30:46.000Z",
-   "category": "其他",
-   "place": "新竹市東區關新北路",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 9,
-   "receivedAt": "2026-10-12T03:51:46.000Z",
-   "category": "其他",
-   "place": "新竹市東區忠孝路",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 10,
-   "receivedAt": "2026-10-12T02:35:47.000Z",
-   "category": "其他",
-   "place": "新竹市東區明湖路",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 11,
-   "receivedAt": "2026-10-12T01:39:05.000Z",
-   "category": "其他",
-   "place": "新竹市香山區大庄路",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 12,
-   "receivedAt": "2026-10-12T01:15:24.000Z",
-   "category": "其他",
-   "place": "新竹市北區天府路二段",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 13,
-   "receivedAt": "2026-10-12T00:15:50.000Z",
-   "category": "其他",
-   "place": "新竹市東區金山十七街",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 14,
-   "receivedAt": "2026-10-11T09:44:22.000Z",
-   "category": "其他",
-   "place": "新竹市東區食品路",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 15,
-   "receivedAt": "2026-10-09T06:11:09.000Z",
-   "category": "其他",
-   "place": "新竹市東區力行路",
-   "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
   }
  ]
 }
