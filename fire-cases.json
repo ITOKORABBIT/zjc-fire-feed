@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-12T06:50:01.766Z",
+ "fetchedAt": "2026-10-12T07:00:01.791Z",
  "count": 15,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-10-12T06:52:55.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區光華街",
+   "unit": "中山分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-10-12T06:45:27.000Z",
    "category": "緊急救護",
    "place": "新竹市東區光華街",
@@ -14,16 +23,16 @@
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-10-12T06:03:52.000Z",
    "category": "緊急救護",
    "place": "新竹市北區崧嶺路",
    "unit": "明湖分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-10-12T05:55:54.000Z",
    "category": "其他",
    "place": "新竹市香山區南港街",
@@ -32,22 +41,13 @@
    "state": "dispatched"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-10-12T05:43:49.000Z",
    "category": "其他",
    "place": "新竹市東區力行路",
    "unit": "委外廠商",
    "status": "已派遣",
    "state": "dispatched"
-  },
-  {
-   "seq": 5,
-   "receivedAt": "2026-10-12T05:04:39.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區關東路",
-   "unit": "金山分隊",
-   "status": "已返隊",
-   "state": "closed"
   },
   {
    "seq": 6,
