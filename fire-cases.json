@@ -1,29 +1,47 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-13T05:10:01.863Z",
- "count": 11,
+ "fetchedAt": "2026-10-13T05:20:02.204Z",
+ "count": 13,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-10-13T05:02:20.000Z",
-   "category": "火災",
-   "place": "新竹市香山區中華路六段",
-   "unit": "光復分隊,明湖分隊,朝山分隊,竹光分隊,香山分隊",
+   "receivedAt": "2026-10-13T05:14:57.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區城北街",
+   "unit": "竹光分隊",
    "status": "已出動",
    "state": "dispatched"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-10-13T04:42:51.000Z",
+   "receivedAt": "2026-10-13T05:10:31.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區民享街",
-   "unit": "埔頂分隊",
-   "status": "已到院",
+   "place": "新竹市東區光復路一段",
+   "unit": "金山分隊",
+   "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 3,
+   "receivedAt": "2026-10-13T05:02:20.000Z",
+   "category": "火災",
+   "place": "新竹市香山區中華路六段",
+   "unit": "光復分隊,明湖分隊,朝山分隊,竹光分隊,香山分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 4,
+   "receivedAt": "2026-10-13T04:42:51.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區民享街",
+   "unit": "埔頂分隊",
+   "status": "返隊中",
+   "state": "returning"
+  },
+  {
+   "seq": 5,
    "receivedAt": "2026-10-13T04:04:39.000Z",
    "category": "緊急救護",
    "place": "新竹市東區",
@@ -32,7 +50,7 @@
    "state": "closed"
   },
   {
-   "seq": 4,
+   "seq": 6,
    "receivedAt": "2026-10-13T02:37:01.000Z",
    "category": "其他",
    "place": "新竹市東區中華路一段",
@@ -41,7 +59,7 @@
    "state": "returning"
   },
   {
-   "seq": 5,
+   "seq": 7,
    "receivedAt": "2026-10-13T01:48:55.000Z",
    "category": "其他",
    "place": "新竹市北區武陵路",
@@ -50,7 +68,7 @@
    "state": "returning"
   },
   {
-   "seq": 6,
+   "seq": 8,
    "receivedAt": "2026-10-13T01:24:37.000Z",
    "category": "其他",
    "place": "新竹市北區中山路",
@@ -59,7 +77,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 7,
+   "seq": 9,
    "receivedAt": "2026-10-13T01:15:49.000Z",
    "category": "其他",
    "place": "新竹市香山區新香街",
@@ -68,7 +86,7 @@
    "state": "returning"
   },
   {
-   "seq": 8,
+   "seq": 10,
    "receivedAt": "2026-10-13T00:56:33.000Z",
    "category": "其他",
    "place": "新竹市北區延平路三段",
@@ -77,7 +95,7 @@
    "state": "returning"
   },
   {
-   "seq": 9,
+   "seq": 11,
    "receivedAt": "2026-10-13T00:50:19.000Z",
    "category": "其他",
    "place": "新竹市東區高峰路",
@@ -86,7 +104,7 @@
    "state": "returning"
   },
   {
-   "seq": 10,
+   "seq": 12,
    "receivedAt": "2026-10-13T00:21:25.000Z",
    "category": "其他",
    "place": "新竹市北區延平路三段",
@@ -95,7 +113,7 @@
    "state": "returning"
   },
   {
-   "seq": 11,
+   "seq": 13,
    "receivedAt": "2026-10-12T23:34:04.000Z",
    "category": "其他",
    "place": "新竹市香山區五福路一段",
