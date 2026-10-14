@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-14T05:10:01.981Z",
- "count": 10,
+ "fetchedAt": "2026-10-14T05:20:02.209Z",
+ "count": 9,
  "items": [
   {
    "seq": 1,
@@ -33,15 +33,6 @@
   },
   {
    "seq": 4,
-   "receivedAt": "2026-10-14T02:44:02.000Z",
-   "category": "火災",
-   "place": "新竹市香山區宮口街",
-   "unit": "中山分隊,朝山分隊,竹光分隊,香山分隊",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 5,
    "receivedAt": "2026-10-14T02:31:36.000Z",
    "category": "其他",
    "place": "新竹市東區工業東一路",
@@ -50,7 +41,7 @@
    "state": "returning"
   },
   {
-   "seq": 6,
+   "seq": 5,
    "receivedAt": "2026-10-14T02:12:40.000Z",
    "category": "其他",
    "place": "新竹市東區中華路一段",
@@ -59,7 +50,7 @@
    "state": "returning"
   },
   {
-   "seq": 7,
+   "seq": 6,
    "receivedAt": "2026-10-14T02:09:38.000Z",
    "category": "其他",
    "place": "新竹市東區中華路",
@@ -68,7 +59,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 8,
+   "seq": 7,
    "receivedAt": "2026-10-14T01:35:47.000Z",
    "category": "其他",
    "place": "新竹市東區博愛街",
@@ -77,7 +68,7 @@
    "state": "returning"
   },
   {
-   "seq": 9,
+   "seq": 8,
    "receivedAt": "2026-10-14T00:20:03.000Z",
    "category": "其他",
    "place": "新竹市香山區",
@@ -86,7 +77,7 @@
    "state": "returning"
   },
   {
-   "seq": 10,
+   "seq": 9,
    "receivedAt": "2026-10-13T22:31:20.000Z",
    "category": "其他",
    "place": "新竹市香山區香北一路",
