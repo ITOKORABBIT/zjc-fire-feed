@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-14T05:20:02.209Z",
- "count": 9,
+ "fetchedAt": "2026-10-14T05:30:02.637Z",
+ "count": 10,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-10-14T05:26:12.000Z",
+   "category": "緊急救護",
+   "place": "新竹市香山區中華路四段",
+   "unit": "香山分隊",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-10-14T04:08:49.000Z",
    "category": "其他",
    "place": "新竹市明湖路",
@@ -14,7 +23,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-10-14T03:38:20.000Z",
    "category": "緊急救護",
    "place": "新竹市東區光復路一段",
@@ -23,7 +32,7 @@
    "state": "closed"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-10-14T02:44:45.000Z",
    "category": "其他",
    "place": "新竹市東區水利路",
@@ -32,7 +41,7 @@
    "state": "returning"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-10-14T02:31:36.000Z",
    "category": "其他",
    "place": "新竹市東區工業東一路",
@@ -41,7 +50,7 @@
    "state": "returning"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-10-14T02:12:40.000Z",
    "category": "其他",
    "place": "新竹市東區中華路一段",
@@ -50,7 +59,7 @@
    "state": "returning"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-10-14T02:09:38.000Z",
    "category": "其他",
    "place": "新竹市東區中華路",
@@ -59,7 +68,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 7,
+   "seq": 8,
    "receivedAt": "2026-10-14T01:35:47.000Z",
    "category": "其他",
    "place": "新竹市東區博愛街",
@@ -68,7 +77,7 @@
    "state": "returning"
   },
   {
-   "seq": 8,
+   "seq": 9,
    "receivedAt": "2026-10-14T00:20:03.000Z",
    "category": "其他",
    "place": "新竹市香山區",
@@ -77,7 +86,7 @@
    "state": "returning"
   },
   {
-   "seq": 9,
+   "seq": 10,
    "receivedAt": "2026-10-13T22:31:20.000Z",
    "category": "其他",
    "place": "新竹市香山區香北一路",
