@@ -1,17 +1,17 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-14T09:20:01.879Z",
- "count": 8,
+ "fetchedAt": "2026-10-14T09:30:01.886Z",
+ "count": 6,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-10-14T09:01:43.000Z",
+   "receivedAt": "2026-10-14T09:21:43.000Z",
    "category": "緊急救護",
-   "place": "新竹市香山區中華路五段",
-   "unit": "朝山分隊",
-   "status": "返隊中",
-   "state": "returning"
+   "place": "新竹市香山區芝柏一街",
+   "unit": "明湖分隊",
+   "status": "已出動",
+   "state": "dispatched"
   },
   {
    "seq": 2,
@@ -19,8 +19,8 @@
    "category": "緊急救護",
    "place": "新竹市北區港北二街",
    "unit": "南寮分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 3,
@@ -28,8 +28,8 @@
    "category": "緊急救護",
    "place": "新竹市北區武陵路",
    "unit": "竹光分隊",
-   "status": "已離院",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 4,
@@ -42,24 +42,6 @@
   },
   {
    "seq": 5,
-   "receivedAt": "2026-10-14T08:16:57.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區北新街",
-   "unit": "香山分隊",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 6,
-   "receivedAt": "2026-10-14T08:00:25.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區竹香南路",
-   "unit": "香山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 7,
    "receivedAt": "2026-10-14T07:12:03.000Z",
    "category": "其他",
    "place": "新竹市東區研新三路",
@@ -68,7 +50,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 8,
+   "seq": 6,
    "receivedAt": "2026-10-14T04:08:49.000Z",
    "category": "其他",
    "place": "新竹市明湖路",
