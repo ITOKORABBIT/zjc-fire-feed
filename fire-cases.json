@@ -1,7 +1,7 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-15T21:50:01.821Z",
+ "fetchedAt": "2026-10-15T22:00:01.839Z",
  "count": 4,
  "items": [
   {
@@ -10,14 +10,14 @@
    "category": "緊急救護",
    "place": "新竹市北區延平路三段",
    "unit": "南寮分隊",
-   "status": "已到達",
+   "status": "已到院",
    "state": "unknown"
   },
   {
    "seq": 2,
    "receivedAt": "2026-10-15T20:55:12.000Z",
    "category": "火災",
-   "place": "新竹市東區光華東街",
+   "place": "新竹市北區光華東街",
    "unit": "三民分隊,中山分隊,光復分隊,竹光分隊",
    "status": "已返隊",
    "state": "closed"
