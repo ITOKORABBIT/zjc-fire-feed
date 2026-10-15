@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-15T09:40:02.710Z",
+ "fetchedAt": "2026-10-15T09:50:02.239Z",
  "count": 6,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-10-15T09:44:03.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區民生路",
+   "unit": "三民分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-10-15T09:26:43.000Z",
    "category": "緊急救護",
    "place": "新竹市東區介壽一路",
@@ -14,31 +23,22 @@
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-10-15T09:25:44.000Z",
    "category": "緊急救護",
    "place": "新竹市東區高翠路",
    "unit": "埔頂分隊",
-   "status": "已到達",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-10-15T09:25:25.000Z",
    "category": "其他",
    "place": "新竹市東區中正路",
    "unit": "委外廠商",
    "status": "已派遣",
    "state": "dispatched"
-  },
-  {
-   "seq": 4,
-   "receivedAt": "2026-10-15T09:09:05.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區北大路",
-   "unit": "中山分隊",
-   "status": "已返隊",
-   "state": "closed"
   },
   {
    "seq": 5,
