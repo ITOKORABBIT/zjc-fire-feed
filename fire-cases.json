@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-15T05:20:02.179Z",
- "count": 8,
+ "fetchedAt": "2026-10-15T05:30:02.079Z",
+ "count": 7,
  "items": [
   {
    "seq": 1,
@@ -10,8 +10,8 @@
    "category": "緊急救護",
    "place": "新竹市東區國立清華大學體育館[光復路二段",
    "unit": "埔頂分隊",
-   "status": "送醫中",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 2,
@@ -33,15 +33,6 @@
   },
   {
    "seq": 4,
-   "receivedAt": "2026-10-15T04:07:50.000Z",
-   "category": "其他",
-   "place": "新竹市北區延平路二段",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 5,
    "receivedAt": "2026-10-15T02:41:57.000Z",
    "category": "緊急救護",
    "place": "新竹市東區明湖路",
@@ -50,7 +41,7 @@
    "state": "closed"
   },
   {
-   "seq": 6,
+   "seq": 5,
    "receivedAt": "2026-10-15T01:42:53.000Z",
    "category": "緊急救護",
    "place": "新竹市東區光復路一段",
@@ -59,7 +50,7 @@
    "state": "returning"
   },
   {
-   "seq": 8,
+   "seq": 7,
    "receivedAt": "2026-10-15T00:03:00.000Z",
    "category": "其他",
    "place": "新竹市東區食品路",
@@ -68,7 +59,7 @@
    "state": "returning"
   },
   {
-   "seq": 7,
+   "seq": 6,
    "receivedAt": "2026-10-14T23:53:00.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路",
