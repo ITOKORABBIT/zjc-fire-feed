@@ -1,17 +1,17 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-16T10:40:02.522Z",
- "count": 12,
+ "fetchedAt": "2026-10-16T10:50:02.437Z",
+ "count": 11,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-10-16T10:39:12.000Z",
+   "receivedAt": "2026-10-16T10:39:32.000Z",
    "category": "緊急救護",
    "place": "新竹市北區延平路三段",
    "unit": "南寮分隊",
-   "status": "已派遣",
-   "state": "dispatched"
+   "status": "已到達",
+   "state": "unknown"
   },
   {
    "seq": 2,
@@ -51,15 +51,6 @@
   },
   {
    "seq": 6,
-   "receivedAt": "2026-10-16T09:31:13.000Z",
-   "category": "其他",
-   "place": "新竹市東區明湖路",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 7,
    "receivedAt": "2026-10-16T09:19:00.000Z",
    "category": "緊急救護",
    "place": "煙波大飯店明湖路",
@@ -68,7 +59,7 @@
    "state": "closed"
   },
   {
-   "seq": 8,
+   "seq": 7,
    "receivedAt": "2026-10-16T09:12:37.000Z",
    "category": "緊急救護",
    "place": "新竹市北區成德路",
@@ -77,7 +68,7 @@
    "state": "closed"
   },
   {
-   "seq": 9,
+   "seq": 8,
    "receivedAt": "2026-10-16T09:10:12.000Z",
    "category": "緊急救護",
    "place": "新竹市東區金城一路",
@@ -86,7 +77,7 @@
    "state": "closed"
   },
   {
-   "seq": 10,
+   "seq": 9,
    "receivedAt": "2026-10-16T08:49:40.000Z",
    "category": "緊急救護",
    "place": "新竹市東區高峰路",
@@ -95,7 +86,7 @@
    "state": "closed"
   },
   {
-   "seq": 11,
+   "seq": 10,
    "receivedAt": "2026-10-16T07:22:24.000Z",
    "category": "其他",
    "place": "新竹市東區東山街",
@@ -104,7 +95,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 12,
+   "seq": 11,
    "receivedAt": "2026-10-16T05:56:00.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路",
