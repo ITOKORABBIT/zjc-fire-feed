@@ -1,29 +1,38 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-17T12:20:02.047Z",
- "count": 4,
+ "fetchedAt": "2026-10-17T12:30:02.066Z",
+ "count": 5,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-10-17T11:51:10.000Z",
+   "receivedAt": "2026-10-17T12:23:00.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區民生路",
-   "unit": "三民分隊",
+   "place": "新竹市東區中央路",
+   "unit": "中山分隊",
    "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-10-17T11:33:13.000Z",
+   "receivedAt": "2026-10-17T11:51:10.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區高峰路",
-   "unit": "埔頂分隊",
-   "status": "送醫中",
+   "place": "新竹市東區民生路",
+   "unit": "三民分隊",
+   "status": "已到院",
    "state": "unknown"
   },
   {
    "seq": 3,
+   "receivedAt": "2026-10-17T11:33:13.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區高峰路",
+   "unit": "埔頂分隊",
+   "status": "已到院",
+   "state": "unknown"
+  },
+  {
+   "seq": 4,
    "receivedAt": "2026-10-17T11:24:14.000Z",
    "category": "其他",
    "place": "新竹市北區和福街",
@@ -32,7 +41,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-10-17T08:21:32.000Z",
    "category": "其他",
    "place": "新竹市東區光復路一段",
