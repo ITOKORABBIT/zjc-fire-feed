@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-17T08:10:02.405Z",
- "count": 9,
+ "fetchedAt": "2026-10-17T08:20:01.861Z",
+ "count": 5,
  "items": [
   {
    "seq": 1,
@@ -10,7 +10,7 @@
    "category": "緊急救護",
    "place": "新竹市北區武陵路",
    "unit": "竹光分隊",
-   "status": "送醫中",
+   "status": "已到院",
    "state": "unknown"
   },
   {
@@ -19,8 +19,8 @@
    "category": "緊急救護",
    "place": "新竹市東區金城一路",
    "unit": "埔頂分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 3,
@@ -48,42 +48,6 @@
    "unit": "朝山分隊",
    "status": "已返隊",
    "state": "closed"
-  },
-  {
-   "seq": 6,
-   "receivedAt": "2026-10-17T06:14:12.000Z",
-   "category": "其他",
-   "place": "新竹市北區成德二街",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 7,
-   "receivedAt": "2026-10-17T03:32:24.000Z",
-   "category": "其他",
-   "place": "新竹市北區中華路三段",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 8,
-   "receivedAt": "2026-10-17T03:21:39.000Z",
-   "category": "其他",
-   "place": "新竹市北區中山路",
-   "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
-  },
-  {
-   "seq": 9,
-   "receivedAt": "2026-10-17T02:26:27.000Z",
-   "category": "其他",
-   "place": "新竹市北區石坊街",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
   }
  ]
 }
