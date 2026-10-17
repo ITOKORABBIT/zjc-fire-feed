@@ -1,38 +1,47 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-17T04:40:02.104Z",
- "count": 8,
+ "fetchedAt": "2026-10-17T04:50:01.696Z",
+ "count": 9,
  "items": [
   {
-   "seq": 2,
-   "receivedAt": "2026-10-17T04:36:07.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區竹光路",
-   "unit": "竹光分隊",
-   "status": "已出動",
-   "state": "dispatched"
-  },
-  {
    "seq": 1,
-   "receivedAt": "2026-10-17T04:35:40.000Z",
+   "receivedAt": "2026-10-17T04:47:59.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區光復路一段",
-   "unit": "明湖分隊",
-   "status": "已出動",
+   "place": "新竹市香山區國中街",
+   "unit": "朝山分隊",
+   "status": "已派遣",
    "state": "dispatched"
   },
   {
    "seq": 3,
-   "receivedAt": "2026-10-17T04:26:00.000Z",
+   "receivedAt": "2026-10-17T04:36:07.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區",
-   "unit": "光復分隊",
+   "place": "新竹市北區竹光路",
+   "unit": "竹光分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 2,
+   "receivedAt": "2026-10-17T04:35:40.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區光復路一段",
+   "unit": "明湖分隊",
    "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 4,
+   "receivedAt": "2026-10-17T04:26:00.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區",
+   "unit": "光復分隊",
+   "status": "返隊中",
+   "state": "returning"
+  },
+  {
+   "seq": 5,
    "receivedAt": "2026-10-17T03:53:18.000Z",
    "category": "緊急救護",
    "place": "新竹市東區民族路",
@@ -41,16 +50,16 @@
    "state": "closed"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-10-17T03:52:19.000Z",
    "category": "緊急救護",
    "place": "新竹市東區建功二路",
    "unit": "埔頂分隊,金山分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-10-17T03:32:24.000Z",
    "category": "其他",
    "place": "新竹市北區中華路三段",
@@ -59,7 +68,7 @@
    "state": "returning"
   },
   {
-   "seq": 7,
+   "seq": 8,
    "receivedAt": "2026-10-17T03:21:39.000Z",
    "category": "其他",
    "place": "新竹市北區中山路",
@@ -68,7 +77,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 8,
+   "seq": 9,
    "receivedAt": "2026-10-17T02:26:27.000Z",
    "category": "其他",
    "place": "新竹市北區石坊街",
