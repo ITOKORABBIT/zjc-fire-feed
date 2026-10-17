@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-17T17:30:02.368Z",
- "count": 4,
+ "fetchedAt": "2026-10-17T17:40:02.325Z",
+ "count": 5,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-10-17T17:34:42.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區民權路",
+   "unit": "三民分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-10-17T16:40:01.000Z",
    "category": "緊急救護",
    "place": "新竹市東區東南街",
@@ -14,7 +23,7 @@
    "state": "closed"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-10-17T16:27:17.000Z",
    "category": "其他",
    "place": "新竹市東區高峰路",
@@ -23,7 +32,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-10-17T16:14:11.000Z",
    "category": "緊急救護",
    "place": "新竹市北區府後街",
@@ -32,7 +41,7 @@
    "state": "closed"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-10-17T15:48:21.000Z",
    "category": "其他",
    "place": "新竹市東區南大路",
