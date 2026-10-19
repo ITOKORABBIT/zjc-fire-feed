@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-19T02:30:01.778Z",
+ "fetchedAt": "2026-10-19T02:40:01.807Z",
  "count": 5,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-10-19T02:39:06.000Z",
+   "category": "其他",
+   "place": "新竹市北區世界街",
+   "unit": "中山分隊",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-10-19T02:22:42.000Z",
    "category": "緊急救護",
    "place": "新竹市東區埔頂二路",
@@ -14,7 +23,7 @@
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-10-19T02:22:26.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路",
@@ -23,20 +32,11 @@
    "state": "dispatched"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-10-19T02:02:11.000Z",
    "category": "緊急救護",
    "place": "新竹市東區安康街",
    "unit": "金山分隊",
-   "status": "已到院",
-   "state": "unknown"
-  },
-  {
-   "seq": 4,
-   "receivedAt": "2026-10-19T02:01:09.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區經國路二段",
-   "unit": "中山分隊",
    "status": "已到院",
    "state": "unknown"
   },
