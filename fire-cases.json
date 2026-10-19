@@ -1,20 +1,11 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-19T19:30:01.507Z",
- "count": 4,
+ "fetchedAt": "2026-10-19T19:40:01.601Z",
+ "count": 3,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-10-19T18:58:32.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區湳雅街",
-   "unit": "三民分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 2,
    "receivedAt": "2026-10-19T17:48:24.000Z",
    "category": "緊急救護",
    "place": "新竹市北區北大路",
@@ -23,7 +14,7 @@
    "state": "closed"
   },
   {
-   "seq": 3,
+   "seq": 2,
    "receivedAt": "2026-10-19T16:11:37.000Z",
    "category": "其他",
    "place": "新竹市北區中正路",
@@ -32,7 +23,7 @@
    "state": "closed"
   },
   {
-   "seq": 4,
+   "seq": 3,
    "receivedAt": "2026-10-19T12:15:28.000Z",
    "category": "其他",
    "place": "新竹市香山區長興街",
