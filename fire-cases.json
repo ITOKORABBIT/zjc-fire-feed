@@ -1,74 +1,47 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-20T07:00:02.052Z",
- "count": 10,
+ "fetchedAt": "2026-10-20T07:10:02.561Z",
+ "count": 6,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-10-20T07:01:42.000Z",
+   "category": "緊急救護",
+   "place": "新竹市香山區中華路六段",
+   "unit": "朝山分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-10-20T06:42:40.000Z",
    "category": "緊急救護",
    "place": "新竹市東區FE21大遠百卸貨碼頭[西大路",
    "unit": "光復分隊",
-   "status": "已到達",
-   "state": "unknown"
-  },
-  {
-   "seq": 2,
-   "receivedAt": "2026-10-20T06:35:27.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區少年街",
-   "unit": "中山分隊",
-   "status": "已到院",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
    "seq": 3,
-   "receivedAt": "2026-10-20T06:21:16.000Z",
-   "category": "其他",
-   "place": "新竹市香山區香檳五街",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 5,
-   "receivedAt": "2026-10-20T06:17:09.000Z",
+   "receivedAt": "2026-10-20T06:35:27.000Z",
    "category": "緊急救護",
-   "place": "新竹市香山區長興街",
-   "unit": "朝山分隊",
+   "place": "新竹市北區少年街",
+   "unit": "中山分隊",
    "status": "返隊中",
    "state": "returning"
   },
   {
    "seq": 4,
-   "receivedAt": "2026-10-20T06:16:43.000Z",
+   "receivedAt": "2026-10-20T06:17:09.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區科學園路",
-   "unit": "埔頂分隊",
-   "status": "已到院",
-   "state": "unknown"
-  },
-  {
-   "seq": 6,
-   "receivedAt": "2026-10-20T06:02:33.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區牛埔東路",
-   "unit": "香山分隊",
+   "place": "新竹市香山區長興街",
+   "unit": "朝山分隊",
    "status": "已返隊",
    "state": "closed"
   },
   {
-   "seq": 7,
-   "receivedAt": "2026-10-20T05:30:42.000Z",
-   "category": "其他",
-   "place": "新竹市東區明湖分隊[明湖路",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 8,
+   "seq": 5,
    "receivedAt": "2026-10-20T05:27:12.000Z",
    "category": "其他",
    "place": "新竹市北區AED(122北門國小警衛室)[新竹市北區水田街",
@@ -77,16 +50,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 9,
-   "receivedAt": "2026-10-20T05:00:47.000Z",
-   "category": "其他",
-   "place": "新竹市北區西濱路一段",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 10,
+   "seq": 6,
    "receivedAt": "2026-10-20T04:58:41.000Z",
    "category": "其他",
    "place": "新竹市東區草湖街",
