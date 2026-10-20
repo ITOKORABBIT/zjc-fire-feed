@@ -1,20 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-20T06:20:02.048Z",
- "count": 13,
+ "fetchedAt": "2026-10-20T06:30:02.034Z",
+ "count": 11,
  "items": [
   {
-   "seq": 2,
+   "seq": 1,
+   "receivedAt": "2026-10-20T06:21:16.000Z",
+   "category": "其他",
+   "place": "新竹市香山區香檳五街",
+   "unit": "委外廠商",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-10-20T06:17:09.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區長興街",
    "unit": "朝山分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "已到達",
+   "state": "unknown"
   },
   {
-   "seq": 1,
+   "seq": 2,
    "receivedAt": "2026-10-20T06:16:43.000Z",
    "category": "緊急救護",
    "place": "新竹市東區科學園路",
@@ -23,40 +32,31 @@
    "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-10-20T06:02:33.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區牛埔東路",
    "unit": "香山分隊",
-   "status": "送醫中",
-   "state": "unknown"
-  },
-  {
-   "seq": 4,
-   "receivedAt": "2026-10-20T05:57:37.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區天府路一段",
-   "unit": "南寮分隊",
    "status": "已到院",
    "state": "unknown"
   },
   {
    "seq": 5,
+   "receivedAt": "2026-10-20T05:57:37.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區天府路一段",
+   "unit": "南寮分隊",
+   "status": "返隊中",
+   "state": "returning"
+  },
+  {
+   "seq": 6,
    "receivedAt": "2026-10-20T05:39:40.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區浸水北街",
    "unit": "朝山分隊",
-   "status": "已到院",
-   "state": "unknown"
-  },
-  {
-   "seq": 6,
-   "receivedAt": "2026-10-20T05:32:25.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區中山路",
-   "unit": "明湖分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 7,
@@ -102,24 +102,6 @@
    "unit": "金山分隊",
    "status": "已返隊",
    "state": "closed"
-  },
-  {
-   "seq": 12,
-   "receivedAt": "2026-10-20T04:19:26.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區建新路",
-   "unit": "光復分隊,埔頂分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 13,
-   "receivedAt": "2026-10-20T03:22:29.000Z",
-   "category": "其他",
-   "place": "新竹市香山區經國路三段",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
   }
  ]
 }
