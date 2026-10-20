@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-20T13:40:02.376Z",
- "count": 9,
+ "fetchedAt": "2026-10-20T13:50:02.790Z",
+ "count": 8,
  "items": [
   {
    "seq": 1,
@@ -14,43 +14,34 @@
    "state": "dispatched"
   },
   {
-   "seq": 3,
-   "receivedAt": "2026-10-20T13:15:00.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區",
-   "unit": "南寮分隊",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
    "seq": 2,
    "receivedAt": "2026-10-20T13:12:37.000Z",
    "category": "緊急救護",
    "place": "新竹市北區林森路",
    "unit": "香山分隊",
-   "status": "返隊中",
-   "state": "returning"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 4,
+   "seq": 3,
    "receivedAt": "2026-10-20T13:03:02.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區柯湳一街",
    "unit": "明湖分隊",
-   "status": "返隊中",
-   "state": "returning"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 5,
+   "seq": 4,
    "receivedAt": "2026-10-20T12:29:09.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區大湖路",
    "unit": "朝山分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 6,
+   "seq": 5,
    "receivedAt": "2026-10-20T11:38:48.000Z",
    "category": "緊急救護",
    "place": "新竹市東區科學園路",
@@ -59,7 +50,7 @@
    "state": "closed"
   },
   {
-   "seq": 7,
+   "seq": 6,
    "receivedAt": "2026-10-20T09:33:15.000Z",
    "category": "火災",
    "place": "新竹市東區光復路二段",
@@ -68,7 +59,7 @@
    "state": "closed"
   },
   {
-   "seq": 8,
+   "seq": 7,
    "receivedAt": "2026-10-20T08:27:08.000Z",
    "category": "其他",
    "place": "新竹市東區高翠路",
@@ -77,7 +68,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 9,
+   "seq": 8,
    "receivedAt": "2026-10-20T05:27:12.000Z",
    "category": "其他",
    "place": "新竹市北區AED(122北門國小警衛室)[新竹市北區水田街",
