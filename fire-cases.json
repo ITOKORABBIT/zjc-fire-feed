@@ -1,47 +1,65 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-20T08:20:02.366Z",
- "count": 7,
+ "fetchedAt": "2026-10-20T08:30:02.143Z",
+ "count": 8,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-10-20T08:18:54.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區浸水街",
-   "unit": "香山分隊",
-   "status": "已出動",
+   "receivedAt": "2026-10-20T08:27:08.000Z",
+   "category": "其他",
+   "place": "新竹市東區高翠路",
+   "unit": "委外廠商",
+   "status": "已派遣",
    "state": "dispatched"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-10-20T07:58:33.000Z",
+   "receivedAt": "2026-10-20T08:22:16.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區明湖路",
-   "unit": "光復分隊,明湖分隊",
+   "place": "新竹市北區北門街",
+   "unit": "中山分隊",
    "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 3,
-   "receivedAt": "2026-10-20T07:49:06.000Z",
+   "receivedAt": "2026-10-20T08:18:54.000Z",
    "category": "緊急救護",
-   "place": "新竹市香山區海埔路",
-   "unit": "南寮分隊",
-   "status": "已到院",
+   "place": "新竹市香山區浸水街",
+   "unit": "香山分隊",
+   "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 4,
+   "receivedAt": "2026-10-20T07:58:33.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區明湖路",
+   "unit": "光復分隊,明湖分隊",
+   "status": "返隊中",
+   "state": "returning"
+  },
+  {
+   "seq": 5,
+   "receivedAt": "2026-10-20T07:49:06.000Z",
+   "category": "緊急救護",
+   "place": "新竹市香山區海埔路",
+   "unit": "南寮分隊",
+   "status": "返隊中",
+   "state": "returning"
+  },
+  {
+   "seq": 6,
    "receivedAt": "2026-10-20T07:22:29.000Z",
    "category": "緊急救護",
    "place": "新竹市北區磐石路",
    "unit": "竹光分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
-   "seq": 5,
+   "seq": 7,
    "receivedAt": "2026-10-20T07:10:16.000Z",
    "category": "其他",
    "place": "新竹市東區寶山路",
@@ -50,22 +68,13 @@
    "state": "dispatched"
   },
   {
-   "seq": 6,
+   "seq": 8,
    "receivedAt": "2026-10-20T05:27:12.000Z",
    "category": "其他",
    "place": "新竹市北區AED(122北門國小警衛室)[新竹市北區水田街",
    "unit": "委外廠商",
    "status": "已派遣",
    "state": "dispatched"
-  },
-  {
-   "seq": 7,
-   "receivedAt": "2026-10-20T04:58:41.000Z",
-   "category": "其他",
-   "place": "新竹市東區草湖街",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
   }
  ]
 }
