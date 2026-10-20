@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-20T07:30:02.060Z",
- "count": 6,
+ "fetchedAt": "2026-10-20T07:40:02.094Z",
+ "count": 7,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-10-20T07:35:25.000Z",
+   "category": "緊急救護",
+   "place": "武陵路和東大路二段",
+   "unit": "中山分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-10-20T07:22:29.000Z",
    "category": "緊急救護",
    "place": "新竹市北區磐石路",
@@ -14,7 +23,7 @@
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-10-20T07:10:16.000Z",
    "category": "其他",
    "place": "新竹市東區寶山路",
@@ -23,7 +32,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-10-20T07:01:42.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區中華路六段",
@@ -32,7 +41,7 @@
    "state": "unknown"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-10-20T06:42:40.000Z",
    "category": "緊急救護",
    "place": "新竹市東區FE21大遠百卸貨碼頭[西大路",
@@ -41,7 +50,7 @@
    "state": "closed"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-10-20T05:27:12.000Z",
    "category": "其他",
    "place": "新竹市北區AED(122北門國小警衛室)[新竹市北區水田街",
@@ -50,7 +59,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-10-20T04:58:41.000Z",
    "category": "其他",
    "place": "新竹市東區草湖街",
