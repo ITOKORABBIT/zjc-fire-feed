@@ -1,20 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-20T00:30:01.718Z",
- "count": 4,
+ "fetchedAt": "2026-10-20T00:40:01.736Z",
+ "count": 5,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-10-20T00:26:56.000Z",
+   "receivedAt": "2026-10-20T00:34:58.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區育英里鄰森路",
-   "unit": "香山分隊",
+   "place": "新竹市東區博愛街",
+   "unit": "三民分隊",
    "status": "已出動",
    "state": "dispatched"
   },
   {
    "seq": 2,
+   "receivedAt": "2026-10-20T00:26:56.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區育英里鄰森路",
+   "unit": "香山分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-10-20T00:14:28.000Z",
    "category": "緊急救護",
    "place": "新竹市北區集和街",
@@ -23,7 +32,7 @@
    "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-10-19T23:38:23.000Z",
    "category": "緊急救護",
    "place": "新竹市東區東竹路",
@@ -32,7 +41,7 @@
    "state": "returning"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-10-19T12:15:28.000Z",
    "category": "其他",
    "place": "新竹市香山區長興街",
