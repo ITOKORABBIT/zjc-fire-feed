@@ -1,7 +1,7 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-20T13:30:02.345Z",
+ "fetchedAt": "2026-10-20T13:40:02.376Z",
  "count": 9,
  "items": [
   {
@@ -19,8 +19,8 @@
    "category": "緊急救護",
    "place": "新竹市北區",
    "unit": "南寮分隊",
-   "status": "已到達",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 2,
@@ -28,8 +28,8 @@
    "category": "緊急救護",
    "place": "新竹市北區林森路",
    "unit": "香山分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 4,
@@ -37,8 +37,8 @@
    "category": "緊急救護",
    "place": "新竹市香山區柯湳一街",
    "unit": "明湖分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 5,
