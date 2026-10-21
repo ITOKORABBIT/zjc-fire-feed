@@ -1,47 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-21T03:20:02.112Z",
- "count": 11,
+ "fetchedAt": "2026-10-21T03:30:02.011Z",
+ "count": 9,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-10-21T02:38:50.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區明湖路",
-   "unit": "明湖分隊",
-   "status": "返隊中",
-   "state": "returning"
+   "receivedAt": "2026-10-21T03:22:31.000Z",
+   "category": "其他",
+   "place": "新竹市東區",
+   "unit": "委外廠商",
+   "status": "已派遣",
+   "state": "dispatched"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-10-21T02:32:54.000Z",
+   "receivedAt": "2026-10-21T02:22:34.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區中正路",
-   "unit": "中山分隊",
+   "place": "新竹市香山區長興街",
+   "unit": "香山分隊",
    "status": "已返隊",
    "state": "closed"
   },
   {
    "seq": 3,
-   "receivedAt": "2026-10-21T02:26:36.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區延平路二段",
-   "unit": "竹光分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 4,
-   "receivedAt": "2026-10-21T02:22:34.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區長興街",
-   "unit": "香山分隊",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 5,
    "receivedAt": "2026-10-21T02:21:29.000Z",
    "category": "火災",
    "place": "新竹市香山區延平路二段",
@@ -50,16 +32,16 @@
    "state": "dispatched"
   },
   {
-   "seq": 6,
+   "seq": 4,
    "receivedAt": "2026-10-21T02:13:36.000Z",
    "category": "緊急救護",
    "place": "新竹市東區民族路",
    "unit": "三民分隊",
-   "status": "返隊中",
-   "state": "returning"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 7,
+   "seq": 5,
    "receivedAt": "2026-10-21T01:48:34.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路",
@@ -68,7 +50,7 @@
    "state": "unknown"
   },
   {
-   "seq": 8,
+   "seq": 6,
    "receivedAt": "2026-10-21T01:40:54.000Z",
    "category": "其他",
    "place": "新竹市北區仁和路",
@@ -77,7 +59,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 9,
+   "seq": 7,
    "receivedAt": "2026-10-21T00:22:57.000Z",
    "category": "其他",
    "place": "新竹市東區中正路",
@@ -86,7 +68,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 10,
+   "seq": 8,
    "receivedAt": "2026-10-20T08:27:08.000Z",
    "category": "其他",
    "place": "新竹市東區高翠路",
@@ -95,7 +77,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 11,
+   "seq": 9,
    "receivedAt": "2026-10-20T05:27:12.000Z",
    "category": "其他",
    "place": "北門國小警衛室新竹市北區水田街",
