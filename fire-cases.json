@@ -1,20 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-22T11:00:01.497Z",
- "count": 9,
+ "fetchedAt": "2026-10-22T11:10:01.508Z",
+ "count": 10,
  "items": [
   {
-   "seq": 2,
-   "receivedAt": "2026-10-22T10:45:40.000Z",
+   "seq": 1,
+   "receivedAt": "2026-10-22T11:06:40.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區食品路",
-   "unit": "埔頂分隊",
+   "place": "新竹市東區學府路",
+   "unit": "中山分隊",
    "status": "已出動",
    "state": "dispatched"
   },
   {
-   "seq": 1,
+   "seq": 3,
+   "receivedAt": "2026-10-22T10:45:40.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區食品路",
+   "unit": "埔頂分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-10-22T10:43:31.000Z",
    "category": "緊急救護",
    "place": "新竹市北區竹光路",
@@ -23,7 +32,7 @@
    "state": "closed"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-10-22T10:38:25.000Z",
    "category": "緊急救護",
    "place": "新竹市東區中華路二段",
@@ -32,7 +41,7 @@
    "state": "unknown"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-10-22T10:15:49.000Z",
    "category": "火災",
    "place": "新竹市北區鐵道路二段",
@@ -41,16 +50,16 @@
    "state": "returning"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-10-22T10:13:06.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區香村路",
    "unit": "朝山分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-10-22T10:05:29.000Z",
    "category": "緊急救護",
    "place": "新竹市北區水田街",
@@ -59,7 +68,7 @@
    "state": "unknown"
   },
   {
-   "seq": 7,
+   "seq": 8,
    "receivedAt": "2026-10-22T10:05:00.000Z",
    "category": "緊急救護",
    "place": "新竹市東區園區一路",
@@ -68,16 +77,16 @@
    "state": "returning"
   },
   {
-   "seq": 8,
+   "seq": 9,
    "receivedAt": "2026-10-22T09:40:12.000Z",
    "category": "緊急救護",
    "place": "新竹市東區西大路",
    "unit": "明湖分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 9,
+   "seq": 10,
    "receivedAt": "2026-10-22T09:27:02.000Z",
    "category": "緊急救護",
    "place": "新竹市東區",
