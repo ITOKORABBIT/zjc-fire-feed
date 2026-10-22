@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-22T12:20:01.585Z",
- "count": 12,
+ "fetchedAt": "2026-10-22T12:30:01.605Z",
+ "count": 6,
  "items": [
   {
    "seq": 1,
@@ -10,20 +10,11 @@
    "category": "緊急救護",
    "place": "新竹市香山區浸水街",
    "unit": "香山分隊",
-   "status": "送醫中",
+   "status": "已到院",
    "state": "unknown"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-10-22T12:03:28.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區中正路",
-   "unit": "中山分隊",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 3,
    "receivedAt": "2026-10-22T11:39:47.000Z",
    "category": "緊急救護",
    "place": "新竹市北區西濱路一段",
@@ -32,7 +23,7 @@
    "state": "closed"
   },
   {
-   "seq": 4,
+   "seq": 3,
    "receivedAt": "2026-10-22T11:34:31.000Z",
    "category": "緊急救護",
    "place": "新竹市北區湳雅街",
@@ -41,25 +32,7 @@
    "state": "unknown"
   },
   {
-   "seq": 5,
-   "receivedAt": "2026-10-22T11:19:22.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區武陵路",
-   "unit": "三民分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 6,
-   "receivedAt": "2026-10-22T11:06:40.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區學府路",
-   "unit": "中山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 8,
+   "seq": 4,
    "receivedAt": "2026-10-22T10:45:40.000Z",
    "category": "緊急救護",
    "place": "新竹市東區食品路",
@@ -68,16 +41,7 @@
    "state": "closed"
   },
   {
-   "seq": 7,
-   "receivedAt": "2026-10-22T10:43:31.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區竹光路",
-   "unit": "光復分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 9,
+   "seq": 5,
    "receivedAt": "2026-10-22T10:15:49.000Z",
    "category": "火災",
    "place": "新竹市北區鐵道路二段",
@@ -86,29 +50,11 @@
    "state": "closed"
   },
   {
-   "seq": 10,
+   "seq": 6,
    "receivedAt": "2026-10-22T10:05:00.000Z",
    "category": "緊急救護",
    "place": "新竹市東區園區一路",
    "unit": "埔頂分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 11,
-   "receivedAt": "2026-10-22T09:40:12.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區西大路",
-   "unit": "明湖分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 12,
-   "receivedAt": "2026-10-22T09:27:02.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區",
-   "unit": "光復分隊",
    "status": "已返隊",
    "state": "closed"
   }
