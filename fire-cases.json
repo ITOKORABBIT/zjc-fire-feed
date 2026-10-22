@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-22T03:10:02.113Z",
- "count": 6,
+ "fetchedAt": "2026-10-22T03:20:02.102Z",
+ "count": 5,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-10-22T03:15:23.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區",
+   "unit": "金山分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-10-22T02:57:38.000Z",
    "category": "其他",
    "place": "新竹市東區金山十街",
@@ -14,22 +23,13 @@
    "state": "dispatched"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-10-22T02:51:08.000Z",
    "category": "緊急救護",
    "place": "新竹市東區溪埔路",
    "unit": "竹光分隊",
-   "status": "已到達",
+   "status": "送醫中",
    "state": "unknown"
-  },
-  {
-   "seq": 3,
-   "receivedAt": "2026-10-22T02:38:12.000Z",
-   "category": "其他",
-   "place": "新竹市東區東南街",
-   "unit": "光復分隊",
-   "status": "已返隊",
-   "state": "closed"
   },
   {
    "seq": 4,
@@ -37,26 +37,17 @@
    "category": "緊急救護",
    "place": "新竹市東區中正路",
    "unit": "光復分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 5,
-   "receivedAt": "2026-10-22T02:31:13.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區愛文街",
-   "unit": "三民分隊",
-   "status": "已到院",
-   "state": "unknown"
-  },
-  {
-   "seq": 6,
    "receivedAt": "2026-10-22T02:17:20.000Z",
    "category": "緊急救護",
    "place": "新竹市東區金城一路",
    "unit": "埔頂分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   }
  ]
 }
