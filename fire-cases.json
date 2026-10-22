@@ -1,20 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-22T14:50:01.668Z",
- "count": 3,
+ "fetchedAt": "2026-10-22T15:00:02.486Z",
+ "count": 4,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-10-22T14:50:02.000Z",
+   "category": "緊急救護",
+   "place": "新竹市香山區中華路四段",
+   "unit": "香山分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-10-22T14:46:42.000Z",
    "category": "緊急救護",
    "place": "新竹市北區金雅七街",
    "unit": "竹光分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "已到達",
+   "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-10-22T13:39:19.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區中華路六段",
@@ -23,7 +32,7 @@
    "state": "returning"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-10-22T13:16:34.000Z",
    "category": "火災",
    "place": "新竹市北區天府路二段",
