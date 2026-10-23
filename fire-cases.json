@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-23T17:50:01.795Z",
- "count": 1,
+ "fetchedAt": "2026-10-23T18:00:01.857Z",
+ "count": 2,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-10-23T17:54:55.000Z",
+   "category": "其他",
+   "place": "新竹市東區光復路二段",
+   "unit": "埔頂分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-10-23T09:51:26.000Z",
    "category": "其他",
    "place": "新竹市北區延平路一段",
