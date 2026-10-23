@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-23T10:30:01.788Z",
+ "fetchedAt": "2026-10-23T10:40:01.542Z",
  "count": 5,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-10-23T10:35:53.000Z",
+   "category": "其他",
+   "place": "新竹市東區光復路",
+   "unit": "",
+   "status": "已受理",
+   "state": "unknown"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-10-23T10:19:38.000Z",
    "category": "緊急救護",
    "place": "新竹市東區光復路二段",
@@ -14,20 +23,11 @@
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-10-23T10:08:08.000Z",
    "category": "緊急救護",
    "place": "新竹市北區鐵道路二段",
    "unit": "竹光分隊",
-   "status": "已到達",
-   "state": "unknown"
-  },
-  {
-   "seq": 3,
-   "receivedAt": "2026-10-23T10:06:16.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區中華路二段",
-   "unit": "中山分隊",
    "status": "已到院",
    "state": "unknown"
   },
@@ -46,8 +46,8 @@
    "category": "緊急救護",
    "place": "新竹市東區",
    "unit": "埔頂分隊",
-   "status": "返隊中",
-   "state": "returning"
+   "status": "已返隊",
+   "state": "closed"
   }
  ]
 }
