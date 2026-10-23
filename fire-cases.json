@@ -1,44 +1,17 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-23T06:10:02.391Z",
- "count": 4,
+ "fetchedAt": "2026-10-23T06:20:02.390Z",
+ "count": 1,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-10-23T06:05:47.000Z",
-   "category": "其他",
-   "place": "新竹市北區北大路",
-   "unit": "",
-   "status": "已受理",
-   "state": "unknown"
-  },
-  {
-   "seq": 2,
-   "receivedAt": "2026-10-23T05:59:23.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區柯湳一街",
-   "unit": "明湖分隊",
-   "status": "已到達",
-   "state": "unknown"
-  },
-  {
-   "seq": 3,
    "receivedAt": "2026-10-23T05:54:05.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區牛埔北路",
    "unit": "香山分隊",
-   "status": "已到達",
+   "status": "已到院",
    "state": "unknown"
-  },
-  {
-   "seq": 4,
-   "receivedAt": "2026-10-23T05:53:55.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區三級古蹟_新竹都城隍廟[中山路",
-   "unit": "中山分隊",
-   "status": "已返隊",
-   "state": "closed"
   }
  ]
 }
