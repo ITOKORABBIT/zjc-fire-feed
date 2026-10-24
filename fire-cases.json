@@ -1,11 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-24T05:20:02.406Z",
- "count": 6,
+ "fetchedAt": "2026-10-24T05:30:05.770Z",
+ "count": 8,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-10-24T05:28:08.000Z",
+   "category": "火災",
+   "place": "新竹市東區龍山西路",
+   "unit": "埔頂分隊",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
+   "receivedAt": "2026-10-24T05:20:32.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區成德路",
+   "unit": "明湖分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-10-24T05:11:23.000Z",
    "category": "緊急救護",
    "place": "新竹市北區林森路",
@@ -14,16 +32,16 @@
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 4,
    "receivedAt": "2026-10-24T05:03:18.000Z",
    "category": "緊急救護",
    "place": "新竹市東區光復路二段",
    "unit": "光復分隊",
-   "status": "已到達",
+   "status": "已到院",
    "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 5,
    "receivedAt": "2026-10-24T04:38:59.000Z",
    "category": "緊急救護",
    "place": "新竹市北區武陵路",
@@ -32,7 +50,7 @@
    "state": "unknown"
   },
   {
-   "seq": 4,
+   "seq": 6,
    "receivedAt": "2026-10-24T04:38:20.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區國道三號北上110.0公里",
@@ -41,7 +59,7 @@
    "state": "unknown"
   },
   {
-   "seq": 5,
+   "seq": 7,
    "receivedAt": "2026-10-24T04:07:00.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區",
@@ -50,7 +68,7 @@
    "state": "unknown"
   },
   {
-   "seq": 6,
+   "seq": 8,
    "receivedAt": "2026-10-23T09:51:26.000Z",
    "category": "其他",
    "place": "新竹市北區延平路一段",
