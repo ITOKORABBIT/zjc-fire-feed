@@ -1,20 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-24T09:00:01.577Z",
- "count": 15,
+ "fetchedAt": "2026-10-24T09:10:01.565Z",
+ "count": 16,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-10-24T08:54:44.000Z",
+   "receivedAt": "2026-10-24T09:00:41.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區東大路一段",
-   "unit": "中山分隊",
+   "place": "新竹市東區中央路",
+   "unit": "三民分隊",
    "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 2,
+   "receivedAt": "2026-10-24T08:54:44.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區東大路一段",
+   "unit": "中山分隊",
+   "status": "送醫中",
+   "state": "unknown"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-10-24T08:51:03.000Z",
    "category": "其他",
    "place": "新竹市東區民主路",
@@ -23,16 +32,16 @@
    "state": "dispatched"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-10-24T08:49:28.000Z",
    "category": "緊急救護",
    "place": "新竹市東區藝術路",
    "unit": "光復分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "已到達",
+   "state": "unknown"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-10-24T08:40:10.000Z",
    "category": "緊急救護",
    "place": "新竹市東區柴橋路",
@@ -41,7 +50,7 @@
    "state": "returning"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-10-24T08:34:07.000Z",
    "category": "其他",
    "place": "新竹市東區林森路",
@@ -50,34 +59,34 @@
    "state": "closed"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-10-24T08:32:59.000Z",
    "category": "緊急救護",
    "place": "新竹市東區大同路",
    "unit": "竹光分隊",
-   "status": "返隊中",
-   "state": "returning"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 7,
+   "seq": 8,
    "receivedAt": "2026-10-24T08:27:23.000Z",
    "category": "緊急救護",
    "place": "新竹市東區中華路一段",
    "unit": "三民分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 8,
+   "seq": 9,
    "receivedAt": "2026-10-24T08:17:46.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區景觀大道和牛埔路",
    "unit": "香山分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 9,
+   "seq": 10,
    "receivedAt": "2026-10-24T07:22:56.000Z",
    "category": "火災",
    "place": "新竹市香山區延平路二段",
@@ -86,7 +95,7 @@
    "state": "closed"
   },
   {
-   "seq": 10,
+   "seq": 11,
    "receivedAt": "2026-10-24T07:10:00.000Z",
    "category": "其他",
    "place": "新竹市香山區中華路五段",
@@ -95,7 +104,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 11,
+   "seq": 12,
    "receivedAt": "2026-10-24T07:04:44.000Z",
    "category": "緊急救護",
    "place": "新竹市北區東大路二段",
@@ -104,7 +113,7 @@
    "state": "closed"
   },
   {
-   "seq": 12,
+   "seq": 13,
    "receivedAt": "2026-10-24T05:51:02.000Z",
    "category": "其他",
    "place": "新竹市東區經國路一段",
@@ -113,7 +122,7 @@
    "state": "returning"
   },
   {
-   "seq": 13,
+   "seq": 14,
    "receivedAt": "2026-10-24T04:46:11.000Z",
    "category": "其他",
    "place": "新竹市東區建功一路",
@@ -122,7 +131,7 @@
    "state": "closed"
   },
   {
-   "seq": 14,
+   "seq": 15,
    "receivedAt": "2026-10-24T04:34:45.000Z",
    "category": "其他",
    "place": "新竹市東區公道五路二段",
@@ -131,7 +140,7 @@
    "state": "closed"
   },
   {
-   "seq": 15,
+   "seq": 16,
    "receivedAt": "2026-10-23T09:51:26.000Z",
    "category": "其他",
    "place": "新竹市北區延平路一段",
