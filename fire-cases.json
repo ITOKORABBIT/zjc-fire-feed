@@ -1,11 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-24T01:00:02.226Z",
- "count": 4,
+ "fetchedAt": "2026-10-24T01:10:02.260Z",
+ "count": 6,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-10-24T01:06:47.000Z",
+   "category": "緊急救護",
+   "place": "國道三號北上103.7公里路肩柴橋路",
+   "unit": "朝山分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
+   "receivedAt": "2026-10-24T01:05:39.000Z",
+   "category": "火災",
+   "place": "新竹市北區",
+   "unit": "南寮分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-10-24T00:51:38.000Z",
    "category": "其他",
    "place": "新竹市北區中山路",
@@ -14,25 +32,25 @@
    "state": "dispatched"
   },
   {
-   "seq": 2,
+   "seq": 4,
    "receivedAt": "2026-10-24T00:15:00.000Z",
    "category": "其他",
    "place": "新竹市北區東大路三段",
    "unit": "南寮分隊",
-   "status": "已到達",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 3,
+   "seq": 5,
    "receivedAt": "2026-10-24T00:04:50.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區芝柏一街",
    "unit": "明湖分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 4,
+   "seq": 6,
    "receivedAt": "2026-10-23T09:51:26.000Z",
    "category": "其他",
    "place": "新竹市北區延平路一段",
