@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-24T04:10:02.365Z",
- "count": 8,
+ "fetchedAt": "2026-10-24T04:20:02.369Z",
+ "count": 7,
  "items": [
   {
    "seq": 1,
@@ -10,7 +10,7 @@
    "category": "緊急救護",
    "place": "新竹市",
    "unit": "香山分隊",
-   "status": "已派遣",
+   "status": "已出動",
    "state": "dispatched"
   },
   {
@@ -28,8 +28,8 @@
    "category": "緊急救護",
    "place": "新竹市東區台灣鐵路管理局新竹站[中華路二段",
    "unit": "光復分隊",
-   "status": "返隊中",
-   "state": "returning"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
    "seq": 4,
@@ -42,15 +42,6 @@
   },
   {
    "seq": 5,
-   "receivedAt": "2026-10-24T03:25:01.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區牛埔東路",
-   "unit": "香山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 6,
    "receivedAt": "2026-10-24T01:12:49.000Z",
    "category": "其他",
    "place": "新竹市北區西濱路一段",
@@ -59,7 +50,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 7,
+   "seq": 6,
    "receivedAt": "2026-10-24T00:51:38.000Z",
    "category": "其他",
    "place": "新竹市北區中山路",
@@ -68,7 +59,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 8,
+   "seq": 7,
    "receivedAt": "2026-10-23T09:51:26.000Z",
    "category": "其他",
    "place": "新竹市北區延平路一段",
