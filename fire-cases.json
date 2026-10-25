@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-25T00:10:01.955Z",
- "count": 15,
+ "fetchedAt": "2026-10-25T00:20:01.970Z",
+ "count": 14,
  "items": [
   {
    "seq": 1,
@@ -10,8 +10,8 @@
    "category": "緊急救護",
    "place": "新竹市北區民主路",
    "unit": "光復分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "送醫中",
+   "state": "unknown"
   },
   {
    "seq": 2,
@@ -37,7 +37,7 @@
    "category": "緊急救護",
    "place": "新竹市東區光復路一段",
    "unit": "埔頂分隊",
-   "status": "已到達",
+   "status": "已到院",
    "state": "unknown"
   },
   {
@@ -46,7 +46,7 @@
    "category": "緊急救護",
    "place": "新竹市東區民主路和經國路一段",
    "unit": "中山分隊",
-   "status": "已到達",
+   "status": "已到院",
    "state": "unknown"
   },
   {
@@ -55,8 +55,8 @@
    "category": "緊急救護",
    "place": "新竹市東區長春街",
    "unit": "金山分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 7,
@@ -64,8 +64,8 @@
    "category": "緊急救護",
    "place": "新竹市東區鐵道路一段",
    "unit": "三民分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
    "seq": 8,
@@ -78,15 +78,6 @@
   },
   {
    "seq": 9,
-   "receivedAt": "2026-10-24T22:54:55.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區牛埔路",
-   "unit": "香山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 10,
    "receivedAt": "2026-10-24T22:48:28.000Z",
    "category": "緊急救護",
    "place": "新竹市北區南大路",
@@ -95,7 +86,7 @@
    "state": "closed"
   },
   {
-   "seq": 11,
+   "seq": 10,
    "receivedAt": "2026-10-24T21:31:27.000Z",
    "category": "緊急救護",
    "place": "新竹市東區明湖路",
@@ -104,7 +95,7 @@
    "state": "closed"
   },
   {
-   "seq": 12,
+   "seq": 11,
    "receivedAt": "2026-10-24T21:20:55.000Z",
    "category": "緊急救護",
    "place": "新竹市北區東大路四段",
@@ -113,7 +104,7 @@
    "state": "closed"
   },
   {
-   "seq": 13,
+   "seq": 12,
    "receivedAt": "2026-10-24T17:00:09.000Z",
    "category": "火災",
    "place": "新竹市東區高翠路",
@@ -122,7 +113,7 @@
    "state": "closed"
   },
   {
-   "seq": 14,
+   "seq": 13,
    "receivedAt": "2026-10-24T16:43:48.000Z",
    "category": "其他",
    "place": "新竹市北區西門街",
@@ -131,7 +122,7 @@
    "state": "closed"
   },
   {
-   "seq": 15,
+   "seq": 14,
    "receivedAt": "2026-10-23T09:51:26.000Z",
    "category": "其他",
    "place": "新竹市北區延平路一段",
