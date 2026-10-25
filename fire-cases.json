@@ -1,11 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-25T11:30:02.895Z",
- "count": 6,
+ "fetchedAt": "2026-10-25T11:40:02.284Z",
+ "count": 8,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-10-25T11:38:20.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區光華一街",
+   "unit": "三民分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
+   "receivedAt": "2026-10-25T11:29:49.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區龍山西路",
+   "unit": "埔頂分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-10-25T11:16:57.000Z",
    "category": "緊急救護",
    "place": "新竹市北區",
@@ -14,7 +32,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 2,
+   "seq": 4,
    "receivedAt": "2026-10-25T11:13:00.000Z",
    "category": "緊急救護",
    "place": "新竹市北區東門街",
@@ -23,16 +41,16 @@
    "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 5,
    "receivedAt": "2026-10-25T10:43:54.000Z",
    "category": "緊急救護",
    "place": "新竹市東區明湖路",
    "unit": "明湖分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 4,
+   "seq": 6,
    "receivedAt": "2026-10-25T10:12:45.000Z",
    "category": "緊急救護",
    "place": "新竹市東區建功一路",
@@ -41,16 +59,16 @@
    "state": "closed"
   },
   {
-   "seq": 5,
+   "seq": 7,
    "receivedAt": "2026-10-25T10:06:57.000Z",
    "category": "緊急救護",
    "place": "新竹市東區新源街",
    "unit": "埔頂分隊",
-   "status": "返隊中",
-   "state": "returning"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 6,
+   "seq": 8,
    "receivedAt": "2026-10-23T09:51:26.000Z",
    "category": "其他",
    "place": "新竹市北區延平路一段",
