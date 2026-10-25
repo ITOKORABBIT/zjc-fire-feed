@@ -1,47 +1,56 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-25T16:00:02.403Z",
- "count": 6,
+ "fetchedAt": "2026-10-25T16:10:03.093Z",
+ "count": 7,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-10-25T15:57:34.000Z",
+   "receivedAt": "2026-10-25T16:08:11.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區榮濱路",
-   "unit": "南寮分隊",
-   "status": "已出動",
+   "place": "新竹市北區光華東街",
+   "unit": "三民分隊",
+   "status": "已派遣",
    "state": "dispatched"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-10-25T15:56:33.000Z",
+   "receivedAt": "2026-10-25T16:07:55.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區林森路",
-   "unit": "中山分隊",
-   "status": "已出動",
+   "place": "新竹市香山區中山路",
+   "unit": "明湖分隊",
+   "status": "已派遣",
    "state": "dispatched"
   },
   {
    "seq": 3,
-   "receivedAt": "2026-10-25T15:40:44.000Z",
+   "receivedAt": "2026-10-25T15:57:34.000Z",
    "category": "緊急救護",
-   "place": "新竹市香山區牛埔東路",
-   "unit": "香山分隊",
+   "place": "新竹市北區榮濱路",
+   "unit": "南寮分隊",
    "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 4,
-   "receivedAt": "2026-10-25T15:17:19.000Z",
-   "category": "其他",
-   "place": "新竹市北區成功路",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
+   "receivedAt": "2026-10-25T15:56:33.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區林森路",
+   "unit": "中山分隊",
+   "status": "已到達",
+   "state": "unknown"
   },
   {
    "seq": 5,
+   "receivedAt": "2026-10-25T15:40:44.000Z",
+   "category": "緊急救護",
+   "place": "新竹市香山區牛埔東路",
+   "unit": "香山分隊",
+   "status": "已到院",
+   "state": "unknown"
+  },
+  {
+   "seq": 6,
    "receivedAt": "2026-10-25T13:46:08.000Z",
    "category": "緊急救護",
    "place": "新竹市東區民享一街",
@@ -50,7 +59,7 @@
    "state": "closed"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-10-23T09:51:26.000Z",
    "category": "其他",
    "place": "新竹市北區延平路一段",
