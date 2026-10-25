@@ -1,47 +1,56 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-25T07:30:02.199Z",
+ "fetchedAt": "2026-10-25T07:40:02.209Z",
  "count": 13,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-10-25T07:32:55.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區光復路二段",
+   "unit": "埔頂分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-10-25T07:27:13.000Z",
    "category": "緊急救護",
    "place": "新竹市東區經國路一段",
    "unit": "中山分隊",
-   "status": "已出動",
-   "state": "dispatched"
-  },
-  {
-   "seq": 2,
-   "receivedAt": "2026-10-25T07:23:59.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區",
-   "unit": "三民分隊",
-   "status": "已到達",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
    "seq": 3,
-   "receivedAt": "2026-10-25T07:13:12.000Z",
+   "receivedAt": "2026-10-25T07:23:59.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區明湖路",
-   "unit": "光復分隊",
-   "status": "已到達",
+   "place": "新竹市北區",
+   "unit": "三民分隊",
+   "status": "已到院",
    "state": "unknown"
   },
   {
    "seq": 4,
-   "receivedAt": "2026-10-25T07:11:20.000Z",
-   "category": "其他",
-   "place": "新竹市香山區中山路",
-   "unit": "明湖分隊",
-   "status": "已到達",
+   "receivedAt": "2026-10-25T07:13:12.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區明湖路",
+   "unit": "光復分隊",
+   "status": "已到院",
    "state": "unknown"
   },
   {
    "seq": 5,
+   "receivedAt": "2026-10-25T07:11:20.000Z",
+   "category": "其他",
+   "place": "新竹市香山區中山路",
+   "unit": "明湖分隊",
+   "status": "返隊中",
+   "state": "returning"
+  },
+  {
+   "seq": 6,
    "receivedAt": "2026-10-25T06:57:10.000Z",
    "category": "緊急救護",
    "place": "新竹市北區延平路一段",
@@ -50,20 +59,11 @@
    "state": "unknown"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-10-25T06:36:25.000Z",
    "category": "緊急救護",
    "place": "新竹市東區民有街",
    "unit": "埔頂分隊",
-   "status": "已到院",
-   "state": "unknown"
-  },
-  {
-   "seq": 7,
-   "receivedAt": "2026-10-25T06:16:55.000Z",
-   "category": "其他",
-   "place": "新竹市北區竹光路",
-   "unit": "竹光分隊",
    "status": "已返隊",
    "state": "closed"
   },
