@@ -1,11 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-26T20:40:01.662Z",
- "count": 1,
+ "fetchedAt": "2026-10-26T20:50:02.137Z",
+ "count": 3,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-10-26T20:45:36.000Z",
+   "category": "其他",
+   "place": "新竹市北區北大路",
+   "unit": "",
+   "status": "已受理",
+   "state": "unknown"
+  },
+  {
+   "seq": 2,
+   "receivedAt": "2026-10-26T20:43:44.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區水田街",
+   "unit": "三民分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-10-26T04:50:00.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路",
