@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-28T12:50:02.051Z",
- "count": 6,
+ "fetchedAt": "2026-10-28T13:00:01.689Z",
+ "count": 7,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-10-28T12:55:09.000Z",
+   "category": "緊急救護",
+   "place": "新竹市香山區玄奘路",
+   "unit": "明湖分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-10-28T12:37:00.000Z",
    "category": "緊急救護",
    "place": "新竹市北區水田街",
@@ -14,7 +23,7 @@
    "state": "closed"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-10-28T12:22:57.000Z",
    "category": "緊急救護",
    "place": "新竹市北區中油加油站永富站[中正路",
@@ -23,16 +32,16 @@
    "state": "returning"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-10-28T11:47:38.000Z",
    "category": "緊急救護",
    "place": "新竹市北區延平路一段",
    "unit": "香山分隊",
-   "status": "已到院",
+   "status": "已離院",
    "state": "unknown"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-10-28T11:36:45.000Z",
    "category": "緊急救護",
    "place": "新竹市北區光華街",
@@ -41,7 +50,7 @@
    "state": "closed"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-10-28T11:36:40.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區中華路六段",
@@ -50,7 +59,7 @@
    "state": "closed"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-10-28T10:58:11.000Z",
    "category": "緊急救護",
    "place": "新竹市東區中華路二段",
