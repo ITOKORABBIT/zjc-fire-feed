@@ -1,7 +1,7 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-28T13:30:01.649Z",
+ "fetchedAt": "2026-10-28T13:40:01.649Z",
  "count": 5,
  "items": [
   {
@@ -26,7 +26,7 @@
    "seq": 3,
    "receivedAt": "2026-10-28T12:22:57.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區中油加油站永富站[中正路",
+   "place": "中油加油站永富站[中正路",
    "unit": "竹光分隊",
    "status": "已返隊",
    "state": "closed"
