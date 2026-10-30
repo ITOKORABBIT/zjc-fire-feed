@@ -1,42 +1,42 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-30T11:20:02.085Z",
+ "fetchedAt": "2026-10-30T11:30:01.589Z",
  "count": 4,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-10-30T11:15:55.000Z",
+   "receivedAt": "2026-10-30T11:28:17.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區竹光路",
-   "unit": "竹光分隊",
-   "status": "已出動",
+   "place": "新竹市東區食品路",
+   "unit": "光復分隊",
+   "status": "已派遣",
    "state": "dispatched"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-10-30T11:07:31.000Z",
+   "receivedAt": "2026-10-30T11:15:55.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區西門街",
-   "unit": "中山分隊",
-   "status": "已到達",
+   "place": "新竹市北區竹光路",
+   "unit": "竹光分隊",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
    "seq": 3,
+   "receivedAt": "2026-10-30T11:07:31.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區西門街",
+   "unit": "中山分隊",
+   "status": "已到院",
+   "state": "unknown"
+  },
+  {
+   "seq": 4,
    "receivedAt": "2026-10-30T10:40:28.000Z",
    "category": "緊急救護",
    "place": "新竹市北區北大路",
    "unit": "竹光分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 4,
-   "receivedAt": "2026-10-30T09:52:34.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區新安路",
-   "unit": "埔頂分隊",
    "status": "已返隊",
    "state": "closed"
   }
