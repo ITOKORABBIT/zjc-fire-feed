@@ -1,29 +1,38 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-30T09:30:01.531Z",
- "count": 5,
+ "fetchedAt": "2026-10-30T09:40:01.535Z",
+ "count": 6,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-10-30T09:25:06.000Z",
+   "receivedAt": "2026-10-30T09:39:36.000Z",
    "category": "緊急救護",
-   "place": "新竹市香山區中華路四段",
-   "unit": "明湖分隊",
-   "status": "已出動",
+   "place": "新竹市東區光復路一段",
+   "unit": "埔頂分隊",
+   "status": "已派遣",
    "state": "dispatched"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-10-30T09:02:51.000Z",
+   "receivedAt": "2026-10-30T09:25:06.000Z",
    "category": "緊急救護",
-   "place": "新竹市香山區海山港路和西濱路四段",
-   "unit": "朝山分隊",
+   "place": "新竹市香山區中華路四段",
+   "unit": "明湖分隊",
    "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 3,
+   "receivedAt": "2026-10-30T09:02:51.000Z",
+   "category": "緊急救護",
+   "place": "新竹市香山區海山港路和西濱路四段",
+   "unit": "朝山分隊",
+   "status": "送醫中",
+   "state": "unknown"
+  },
+  {
+   "seq": 4,
    "receivedAt": "2026-10-30T03:22:11.000Z",
    "category": "其他",
    "place": "新竹市東區力行四路",
@@ -32,7 +41,7 @@
    "state": "returning"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-10-30T03:20:25.000Z",
    "category": "其他",
    "place": "新竹市北區城北街",
@@ -41,7 +50,7 @@
    "state": "returning"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-10-30T01:20:35.000Z",
    "category": "其他",
    "place": "新竹市東區安康街",
