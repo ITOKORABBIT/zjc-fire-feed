@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-10-31T22:20:01.974Z",
- "count": 3,
+ "fetchedAt": "2026-10-31T22:30:02.518Z",
+ "count": 1,
  "items": [
   {
    "seq": 1,
@@ -10,26 +10,8 @@
    "category": "緊急救護",
    "place": "新竹市北區少年街",
    "unit": "中山分隊",
-   "status": "已到達",
+   "status": "送醫中",
    "state": "unknown"
-  },
-  {
-   "seq": 2,
-   "receivedAt": "2026-10-31T20:46:46.000Z",
-   "category": "其他",
-   "place": "新竹市香山區華北路",
-   "unit": "香山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 3,
-   "receivedAt": "2026-10-31T20:22:25.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區浸水北街",
-   "unit": "朝山分隊",
-   "status": "已返隊",
-   "state": "closed"
   }
  ]
 }
