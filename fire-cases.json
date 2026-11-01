@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-01T22:10:02.788Z",
- "count": 6,
+ "fetchedAt": "2026-11-01T22:20:02.499Z",
+ "count": 5,
  "items": [
   {
    "seq": 1,
@@ -19,20 +19,11 @@
    "category": "緊急救護",
    "place": "新竹市東區光復路一段",
    "unit": "埔頂分隊",
-   "status": "已到院",
-   "state": "unknown"
-  },
-  {
-   "seq": 3,
-   "receivedAt": "2026-11-01T21:15:00.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區東大路二段",
-   "unit": "竹光分隊",
    "status": "已返隊",
    "state": "closed"
   },
   {
-   "seq": 4,
+   "seq": 3,
    "receivedAt": "2026-11-01T19:24:36.000Z",
    "category": "緊急救護",
    "place": "新竹市北區西門街",
@@ -41,7 +32,7 @@
    "state": "closed"
   },
   {
-   "seq": 5,
+   "seq": 4,
    "receivedAt": "2026-11-01T17:25:39.000Z",
    "category": "緊急救護",
    "place": "新竹市東區東門街",
@@ -50,7 +41,7 @@
    "state": "closed"
   },
   {
-   "seq": 6,
+   "seq": 5,
    "receivedAt": "2026-11-01T16:21:37.000Z",
    "category": "緊急救護",
    "place": "新竹市北區愛國路",
