@@ -1,17 +1,17 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-01T16:00:01.670Z",
+ "fetchedAt": "2026-11-01T16:30:02.107Z",
  "count": 1,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-11-01T15:16:26.000Z",
+   "receivedAt": "2026-11-01T16:21:37.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區林森路",
-   "unit": "中山分隊",
-   "status": "已返隊",
-   "state": "closed"
+   "place": "新竹市北區愛國路",
+   "unit": "南寮分隊",
+   "status": "已到達",
+   "state": "unknown"
   }
  ]
 }
