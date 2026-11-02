@@ -1,20 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-02T23:30:02.326Z",
- "count": 6,
+ "fetchedAt": "2026-11-02T23:40:02.318Z",
+ "count": 7,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-11-02T23:37:46.000Z",
+   "category": "緊急救護",
+   "place": "新竹市香山區浸水北街",
+   "unit": "朝山分隊",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-11-02T23:10:05.000Z",
    "category": "緊急救護",
    "place": "新竹市東區自由路",
    "unit": "埔頂分隊",
-   "status": "送醫中",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-11-02T23:07:14.000Z",
    "category": "其他",
    "place": "新竹市北區光華二街",
@@ -23,16 +32,16 @@
    "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-11-02T22:48:00.000Z",
    "category": "緊急救護",
    "place": "新竹市北區光華東街",
    "unit": "三民分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-11-02T22:43:42.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區麗山街",
@@ -41,7 +50,7 @@
    "state": "returning"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-11-02T20:35:35.000Z",
    "category": "緊急救護",
    "place": "新竹市北區吉羊路",
@@ -50,7 +59,7 @@
    "state": "closed"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-11-02T15:15:30.000Z",
    "category": "緊急救護",
    "place": "新竹市東區南大路",
