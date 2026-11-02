@@ -1,11 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-02T02:20:02.246Z",
- "count": 6,
+ "fetchedAt": "2026-11-02T02:30:02.475Z",
+ "count": 7,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-11-02T02:29:21.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區明湖路",
+   "unit": "光復分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
+   "receivedAt": "2026-11-02T02:28:08.000Z",
+   "category": "火災",
+   "place": "新竹市北區中華路四段",
+   "unit": "明湖分隊",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-11-02T02:04:50.000Z",
    "category": "緊急救護",
    "place": "新竹市東區南外街",
@@ -14,34 +32,25 @@
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 4,
    "receivedAt": "2026-11-02T02:01:23.000Z",
    "category": "緊急救護",
    "place": "新竹市台68往南寮方向8.1公里",
    "unit": "埔頂分隊,金山分隊",
-   "status": "已到達",
-   "state": "unknown"
-  },
-  {
-   "seq": 3,
-   "receivedAt": "2026-11-02T01:48:04.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區光復路一段",
-   "unit": "埔頂分隊",
-   "status": "已到院",
-   "state": "unknown"
-  },
-  {
-   "seq": 4,
-   "receivedAt": "2026-11-02T01:34:29.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區長興街",
-   "unit": "朝山分隊",
-   "status": "已到院",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
    "seq": 5,
+   "receivedAt": "2026-11-02T01:48:04.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區光復路一段",
+   "unit": "埔頂分隊",
+   "status": "返隊中",
+   "state": "returning"
+  },
+  {
+   "seq": 6,
    "receivedAt": "2026-11-02T01:32:13.000Z",
    "category": "緊急救護",
    "place": "新竹市東區明湖路",
@@ -50,7 +59,7 @@
    "state": "unknown"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-11-02T01:30:53.000Z",
    "category": "緊急救護",
    "place": "新竹市東區錦華街",
