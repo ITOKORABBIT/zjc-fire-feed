@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-04T01:50:01.846Z",
- "count": 5,
+ "fetchedAt": "2026-11-04T02:00:01.528Z",
+ "count": 4,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-11-04T01:52:16.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區篤行一路",
+   "unit": "金山分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-11-04T01:31:52.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區五福路二段",
@@ -14,7 +23,7 @@
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-11-04T01:29:56.000Z",
    "category": "其他",
    "place": "新竹市東區光復路一段",
@@ -23,31 +32,13 @@
    "state": "dispatched"
   },
   {
-   "seq": 3,
-   "receivedAt": "2026-11-04T01:09:56.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區中山路",
-   "unit": "香山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
    "seq": 4,
-   "receivedAt": "2026-11-04T00:55:52.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區和平路",
-   "unit": "竹光分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 5,
    "receivedAt": "2026-11-04T00:36:52.000Z",
    "category": "緊急救護",
    "place": "新竹市東區光復路二段",
    "unit": "埔頂分隊",
-   "status": "返隊中",
-   "state": "returning"
+   "status": "已返隊",
+   "state": "closed"
   }
  ]
 }
