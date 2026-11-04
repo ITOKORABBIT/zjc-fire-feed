@@ -1,29 +1,38 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-04T16:00:02.149Z",
- "count": 8,
+ "fetchedAt": "2026-11-04T16:10:02.144Z",
+ "count": 9,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-11-04T16:04:38.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區食品路和東山街",
+   "unit": "中山分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-11-04T15:18:27.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區延平路二段",
    "unit": "竹光分隊",
-   "status": "返隊中",
-   "state": "returning"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-11-04T14:42:18.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區延平路二段",
    "unit": "香山分隊",
-   "status": "返隊中",
-   "state": "returning"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-11-04T14:07:10.000Z",
    "category": "火災",
    "place": "新竹市東區東門街",
@@ -32,7 +41,7 @@
    "state": "returning"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-11-04T13:51:10.000Z",
    "category": "緊急救護",
    "place": "新竹市北區吉羊路和東大路二段",
@@ -41,16 +50,16 @@
    "state": "closed"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-11-04T13:45:09.000Z",
    "category": "火災",
    "place": "新竹市東區東南街",
    "unit": "三民分隊,中山分隊,光復分隊,埔頂分隊,明湖分隊,竹光分隊,第二大隊,金山分隊",
-   "status": "火已滅",
-   "state": "unknown"
+   "status": "已出動",
+   "state": "dispatched"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-11-04T12:56:55.000Z",
    "category": "其他",
    "place": "新竹市香山區浸水北街",
@@ -59,7 +68,7 @@
    "state": "returning"
   },
   {
-   "seq": 7,
+   "seq": 8,
    "receivedAt": "2026-11-04T10:10:14.000Z",
    "category": "其他",
    "place": "新竹市香山區元培街",
@@ -68,7 +77,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 8,
+   "seq": 9,
    "receivedAt": "2026-11-04T08:25:20.000Z",
    "category": "其他",
    "place": "新竹市新竹市東區建功一路",
