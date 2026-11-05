@@ -1,20 +1,11 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-05T01:50:02.418Z",
- "count": 6,
+ "fetchedAt": "2026-11-05T02:00:03.342Z",
+ "count": 5,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-11-05T01:21:45.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區林森路和南門街",
-   "unit": "中山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 2,
    "receivedAt": "2026-11-05T01:19:57.000Z",
    "category": "緊急救護",
    "place": "新竹市東區關東路",
@@ -23,16 +14,16 @@
    "state": "closed"
   },
   {
-   "seq": 3,
+   "seq": 2,
    "receivedAt": "2026-11-05T01:12:51.000Z",
    "category": "其他",
    "place": "新竹市香山區五福路一段",
    "unit": "朝山分隊",
-   "status": "已到達",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
-   "seq": 4,
+   "seq": 3,
    "receivedAt": "2026-11-05T01:06:18.000Z",
    "category": "緊急救護",
    "place": "新竹市東區光復路一段",
@@ -41,7 +32,7 @@
    "state": "unknown"
   },
   {
-   "seq": 5,
+   "seq": 4,
    "receivedAt": "2026-11-05T00:57:44.000Z",
    "category": "緊急救護",
    "place": "新竹市東區研新四路",
@@ -50,7 +41,7 @@
    "state": "unknown"
   },
   {
-   "seq": 6,
+   "seq": 5,
    "receivedAt": "2026-11-04T23:06:57.000Z",
    "category": "其他",
    "place": "新竹市東區光復路一段",
