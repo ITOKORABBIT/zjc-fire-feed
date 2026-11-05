@@ -1,35 +1,53 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-05T23:30:02.261Z",
- "count": 3,
+ "fetchedAt": "2026-11-05T23:40:02.246Z",
+ "count": 5,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-11-05T23:24:09.000Z",
+   "receivedAt": "2026-11-05T23:36:49.000Z",
    "category": "緊急救護",
-   "place": "新竹市香山區延平路二段",
-   "unit": "南寮分隊",
+   "place": "新竹市東區龍山里長春街",
+   "unit": "埔頂分隊",
    "status": "已出動",
    "state": "dispatched"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-11-05T23:09:50.000Z",
+   "receivedAt": "2026-11-05T23:32:08.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區北門里經國路二段",
-   "unit": "中山分隊",
+   "place": "新竹市東區民生路",
+   "unit": "三民分隊",
    "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 3,
+   "receivedAt": "2026-11-05T23:24:09.000Z",
+   "category": "緊急救護",
+   "place": "新竹市香山區延平路二段",
+   "unit": "南寮分隊",
+   "status": "送醫中",
+   "state": "unknown"
+  },
+  {
+   "seq": 4,
+   "receivedAt": "2026-11-05T23:09:50.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區北門里經國路二段",
+   "unit": "中山分隊",
+   "status": "已到院",
+   "state": "unknown"
+  },
+  {
+   "seq": 5,
    "receivedAt": "2026-11-05T22:55:33.000Z",
    "category": "緊急救護",
    "place": "新竹市東區振興路",
    "unit": "明湖分隊",
-   "status": "已到達",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   }
  ]
 }
