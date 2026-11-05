@@ -1,20 +1,38 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-05T08:30:01.616Z",
- "count": 6,
+ "fetchedAt": "2026-11-05T08:40:01.674Z",
+ "count": 8,
  "items": [
   {
+   "seq": 1,
+   "receivedAt": "2026-11-05T08:37:55.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區鐵道路二段",
+   "unit": "竹光分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
    "seq": 2,
+   "receivedAt": "2026-11-05T08:36:18.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區建新路",
+   "unit": "埔頂分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 4,
    "receivedAt": "2026-11-05T08:18:15.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區牛埔東路",
    "unit": "香山分隊",
-   "status": "已到達",
+   "status": "已到院",
    "state": "unknown"
   },
   {
-   "seq": 1,
+   "seq": 3,
    "receivedAt": "2026-11-05T08:17:59.000Z",
    "category": "緊急救護",
    "place": "新竹市北區竹光分隊[西大路",
@@ -23,40 +41,40 @@
    "state": "dispatched"
   },
   {
-   "seq": 3,
+   "seq": 5,
    "receivedAt": "2026-11-05T08:13:27.000Z",
    "category": "緊急救護",
    "place": "新竹市北區武陵路",
    "unit": "三民分隊",
-   "status": "送醫中",
+   "status": "已到院",
    "state": "unknown"
   },
   {
-   "seq": 4,
+   "seq": 6,
    "receivedAt": "2026-11-05T08:04:51.000Z",
    "category": "緊急救護",
    "place": "新竹市東區東大路一段",
    "unit": "光復分隊",
-   "status": "送醫中",
+   "status": "已到院",
    "state": "unknown"
   },
   {
-   "seq": 5,
+   "seq": 7,
    "receivedAt": "2026-11-05T07:58:07.000Z",
    "category": "其他",
    "place": "新竹市東區光復路二段",
    "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
-   "seq": 6,
+   "seq": 8,
    "receivedAt": "2026-11-05T06:17:33.000Z",
    "category": "其他",
    "place": "新竹市東區自由路",
    "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
+   "status": "返隊中",
+   "state": "returning"
   }
  ]
 }
