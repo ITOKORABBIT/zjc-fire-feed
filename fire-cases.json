@@ -1,7 +1,7 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-06T22:50:01.986Z",
+ "fetchedAt": "2026-11-06T23:00:02.741Z",
  "count": 5,
  "items": [
   {
@@ -10,8 +10,8 @@
    "category": "緊急救護",
    "place": "新竹市金雅五街",
    "unit": "南寮分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 2,
@@ -28,8 +28,8 @@
    "category": "火災",
    "place": "新竹市東區南大路",
    "unit": "三民分隊,光復分隊,埔頂分隊,明湖分隊,竹光分隊,第二大隊,香山分隊",
-   "status": "火已滅",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 4,
