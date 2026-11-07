@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-07T13:50:01.603Z",
+ "fetchedAt": "2026-11-07T14:00:01.612Z",
  "count": 8,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-11-07T13:57:07.000Z",
+   "category": "緊急救護",
+   "place": "新竹市香山區內湖路",
+   "unit": "朝山分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-11-07T13:42:38.000Z",
    "category": "緊急救護",
    "place": "新竹市東區新源街",
@@ -14,29 +23,20 @@
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-11-07T13:35:04.000Z",
    "category": "緊急救護",
    "place": "新竹市北區成德路",
    "unit": "明湖分隊",
-   "status": "已到達",
+   "status": "已到院",
    "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-11-07T12:47:41.000Z",
    "category": "緊急救護",
    "place": "新竹市北區成德路",
    "unit": "明湖分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 4,
-   "receivedAt": "2026-11-07T12:38:58.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區國立清華大學[光復路二段",
-   "unit": "光復分隊",
    "status": "已返隊",
    "state": "closed"
   },
