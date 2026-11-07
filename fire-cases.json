@@ -1,38 +1,47 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-07T06:30:02.277Z",
- "count": 8,
+ "fetchedAt": "2026-11-07T06:40:02.353Z",
+ "count": 9,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-11-07T06:26:08.000Z",
-   "category": "火災",
-   "place": "新竹市柯湳二街",
-   "unit": "明湖分隊",
+   "receivedAt": "2026-11-07T06:39:03.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區公竹路",
+   "unit": "光復分隊",
    "status": "已派遣",
    "state": "dispatched"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-11-07T06:19:03.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區明湖路",
+   "receivedAt": "2026-11-07T06:28:08.000Z",
+   "category": "火災",
+   "place": "新竹市香山區柯湳二街",
    "unit": "明湖分隊",
    "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 3,
-   "receivedAt": "2026-11-07T06:07:41.000Z",
+   "receivedAt": "2026-11-07T06:19:03.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區中央路",
-   "unit": "三民分隊,中山分隊",
-   "status": "已到達",
+   "place": "新竹市東區明湖路",
+   "unit": "明湖分隊",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
    "seq": 4,
+   "receivedAt": "2026-11-07T06:07:41.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區中央路",
+   "unit": "三民分隊,中山分隊",
+   "status": "返隊中",
+   "state": "returning"
+  },
+  {
+   "seq": 5,
    "receivedAt": "2026-11-07T06:03:37.000Z",
    "category": "緊急救護",
    "place": "新竹市東區金城一路",
@@ -41,7 +50,7 @@
    "state": "unknown"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-11-07T04:53:11.000Z",
    "category": "其他",
    "place": "新竹市東區太原路",
@@ -50,7 +59,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-11-07T04:49:52.000Z",
    "category": "緊急救護",
    "place": "新竹市東區西大路",
@@ -59,7 +68,7 @@
    "state": "closed"
   },
   {
-   "seq": 7,
+   "seq": 8,
    "receivedAt": "2026-11-07T00:18:59.000Z",
    "category": "其他",
    "place": "新竹市東區仲生路",
@@ -68,7 +77,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 8,
+   "seq": 9,
    "receivedAt": "2026-11-06T21:16:00.000Z",
    "category": "其他",
    "place": "新竹市北區湳雅街",
