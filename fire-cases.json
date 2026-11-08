@@ -1,20 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-08T11:30:02.323Z",
- "count": 10,
+ "fetchedAt": "2026-11-08T11:40:01.625Z",
+ "count": 9,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-11-08T11:30:49.000Z",
+   "category": "緊急救護",
+   "place": "新竹市",
+   "unit": "明湖分隊",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-11-08T11:18:40.000Z",
    "category": "緊急救護",
    "place": "新竹市北區東門圓環靠勝利路",
    "unit": "中山分隊",
-   "status": "已到達",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-11-08T11:06:58.000Z",
    "category": "緊急救護",
    "place": "新竹市東區公道五路三段",
@@ -23,7 +32,7 @@
    "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-11-08T10:49:44.000Z",
    "category": "其他",
    "place": "新竹市東區關新一街",
@@ -32,7 +41,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-11-08T10:43:06.000Z",
    "category": "其他",
    "place": "新竹市香山區元培街",
@@ -41,25 +50,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 5,
-   "receivedAt": "2026-11-08T10:25:07.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區成功路",
-   "unit": "三民分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
    "seq": 6,
-   "receivedAt": "2026-11-08T09:42:04.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區金山北二街",
-   "unit": "金山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 7,
    "receivedAt": "2026-11-08T09:19:30.000Z",
    "category": "其他",
    "place": "新竹市東區大學路",
@@ -68,7 +59,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 8,
+   "seq": 7,
    "receivedAt": "2026-11-08T08:47:50.000Z",
    "category": "其他",
    "place": "新竹市北區東大路三段",
@@ -77,7 +68,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 9,
+   "seq": 8,
    "receivedAt": "2026-11-08T07:43:51.000Z",
    "category": "其他",
    "place": "新竹市東區澤藩路",
@@ -86,7 +77,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 10,
+   "seq": 9,
    "receivedAt": "2026-11-08T07:21:29.000Z",
    "category": "其他",
    "place": "新竹市東區寶山路",
