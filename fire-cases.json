@@ -1,38 +1,47 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-08T09:20:01.526Z",
- "count": 10,
+ "fetchedAt": "2026-11-08T09:30:01.573Z",
+ "count": 9,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-11-08T09:10:49.000Z",
+   "receivedAt": "2026-11-08T09:28:38.000Z",
    "category": "緊急救護",
-   "place": "新竹市香山區中山路",
-   "unit": "明湖分隊",
+   "place": "新竹市北區水田街",
+   "unit": "中山分隊",
    "status": "已出動",
    "state": "dispatched"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-11-08T09:03:49.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區經國路一段",
-   "unit": "三民分隊",
-   "status": "已到達",
-   "state": "unknown"
-  },
-  {
-   "seq": 3,
-   "receivedAt": "2026-11-08T08:56:11.000Z",
+   "receivedAt": "2026-11-08T09:19:30.000Z",
    "category": "其他",
-   "place": "新竹市東區文化街",
+   "place": "新竹市東區大學路",
    "unit": "委外廠商",
    "status": "已派遣",
    "state": "dispatched"
   },
   {
+   "seq": 3,
+   "receivedAt": "2026-11-08T09:10:49.000Z",
+   "category": "緊急救護",
+   "place": "新竹市香山區中山路",
+   "unit": "明湖分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
    "seq": 4,
+   "receivedAt": "2026-11-08T09:03:49.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區經國路一段",
+   "unit": "三民分隊",
+   "status": "已到院",
+   "state": "unknown"
+  },
+  {
+   "seq": 5,
    "receivedAt": "2026-11-08T08:49:53.000Z",
    "category": "其他",
    "place": "新竹市北區東大路三段",
@@ -41,22 +50,13 @@
    "state": "closed"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-11-08T08:47:50.000Z",
    "category": "其他",
    "place": "新竹市北區東大路三段",
    "unit": "委外廠商",
    "status": "已派遣",
    "state": "dispatched"
-  },
-  {
-   "seq": 6,
-   "receivedAt": "2026-11-08T08:20:37.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區牛埔東路",
-   "unit": "中山分隊,竹光分隊",
-   "status": "已返隊",
-   "state": "closed"
   },
   {
    "seq": 7,
@@ -78,15 +78,6 @@
   },
   {
    "seq": 9,
-   "receivedAt": "2026-11-08T07:04:33.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區17公里",
-   "unit": "朝山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 10,
    "receivedAt": "2026-11-08T06:19:40.000Z",
    "category": "其他",
    "place": "新竹市北區光華二街",
