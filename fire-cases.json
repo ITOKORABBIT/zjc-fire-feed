@@ -1,7 +1,7 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-08T00:40:02.162Z",
+ "fetchedAt": "2026-11-08T00:50:02.440Z",
  "count": 9,
  "items": [
   {
@@ -10,8 +10,8 @@
    "category": "緊急救護",
    "place": "新竹市北區吉羊路",
    "unit": "竹光分隊",
-   "status": "已派遣",
-   "state": "dispatched"
+   "status": "已到達",
+   "state": "unknown"
   },
   {
    "seq": 2,
@@ -28,8 +28,8 @@
    "category": "緊急救護",
    "place": "新竹市北區國華街",
    "unit": "三民分隊",
-   "status": "已到達",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
    "seq": 4,
@@ -37,7 +37,7 @@
    "category": "緊急救護",
    "place": "新竹市香山區中華路四段",
    "unit": "明湖分隊",
-   "status": "已到達",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
@@ -46,8 +46,8 @@
    "category": "緊急救護",
    "place": "十八尖山_出口1-博愛街",
    "unit": "埔頂分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 6,
