@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-08T07:00:01.428Z",
- "count": 5,
+ "fetchedAt": "2026-11-08T07:10:01.475Z",
+ "count": 6,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-11-08T07:04:33.000Z",
+   "category": "緊急救護",
+   "place": "新竹市17公里",
+   "unit": "朝山分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-11-08T06:48:40.000Z",
    "category": "緊急救護",
    "place": "新竹市東區",
@@ -14,7 +23,7 @@
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-11-08T06:21:52.000Z",
    "category": "緊急救護",
    "place": "新竹市北區育英路",
@@ -23,7 +32,7 @@
    "state": "closed"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-11-08T06:19:40.000Z",
    "category": "其他",
    "place": "新竹市北區光華二街",
@@ -32,7 +41,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-11-08T05:13:22.000Z",
    "category": "其他",
    "place": "新竹市香山區中華路四段",
@@ -41,7 +50,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-11-07T09:29:56.000Z",
    "category": "其他",
    "place": "新竹市香山區中華路六段",
