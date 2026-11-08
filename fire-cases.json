@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-08T08:20:01.521Z",
+ "fetchedAt": "2026-11-08T08:30:01.480Z",
  "count": 9,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-11-08T08:20:37.000Z",
+   "category": "緊急救護",
+   "place": "新竹市香山區牛埔東路",
+   "unit": "中山分隊,竹光分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-11-08T08:08:47.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區南港街",
@@ -14,22 +23,13 @@
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-11-08T07:59:58.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區17公里海岸線路",
    "unit": "香山分隊",
-   "status": "已到達",
+   "status": "送醫中",
    "state": "unknown"
-  },
-  {
-   "seq": 3,
-   "receivedAt": "2026-11-08T07:57:12.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區明湖路",
-   "unit": "明湖分隊",
-   "status": "已返隊",
-   "state": "closed"
   },
   {
    "seq": 4,
@@ -46,8 +46,8 @@
    "category": "緊急救護",
    "place": "新竹市東區建功路",
    "unit": "埔頂分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
    "seq": 6,
