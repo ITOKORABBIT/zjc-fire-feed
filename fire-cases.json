@@ -1,11 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-09T07:00:01.917Z",
+ "fetchedAt": "2026-11-09T07:10:01.629Z",
  "count": 6,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-11-09T07:03:47.000Z",
+   "category": "其他",
+   "place": "新竹市東區園區一路",
+   "unit": "委外廠商",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
+   "receivedAt": "2026-11-09T06:59:33.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區中和路",
+   "unit": "竹光分隊,香山分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-11-09T06:35:59.000Z",
    "category": "其他",
    "place": "新竹市東區光華街",
@@ -14,40 +32,22 @@
    "state": "dispatched"
   },
   {
-   "seq": 2,
+   "seq": 4,
    "receivedAt": "2026-11-09T06:08:35.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區延平路二段",
    "unit": "香山分隊",
-   "status": "返隊中",
-   "state": "returning"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 3,
+   "seq": 5,
    "receivedAt": "2026-11-09T06:07:57.000Z",
    "category": "其他",
    "place": "新竹市東區北新竹火車站後站[新竹市東區中華路一段",
    "unit": "委外廠商",
    "status": "已派遣",
    "state": "dispatched"
-  },
-  {
-   "seq": 4,
-   "receivedAt": "2026-11-08T13:14:11.000Z",
-   "category": "其他",
-   "place": "新竹市香山區牛埔南路",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 5,
-   "receivedAt": "2026-11-08T12:45:00.000Z",
-   "category": "其他",
-   "place": "新竹市香山區中山路",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
   },
   {
    "seq": 6,
