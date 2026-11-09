@@ -1,56 +1,47 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-09T21:30:02.486Z",
- "count": 8,
+ "fetchedAt": "2026-11-09T21:40:02.269Z",
+ "count": 7,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-11-09T21:26:15.000Z",
+   "receivedAt": "2026-11-09T21:34:11.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區東南街",
-   "unit": "光復分隊",
+   "place": "新竹市香山區中華路六段",
+   "unit": "朝山分隊",
    "status": "已出動",
    "state": "dispatched"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-11-09T21:25:33.000Z",
+   "receivedAt": "2026-11-09T21:26:15.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區光復路一段",
-   "unit": "金山分隊",
+   "place": "新竹市東區東南街",
+   "unit": "光復分隊",
    "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 3,
-   "receivedAt": "2026-11-09T21:02:13.000Z",
+   "receivedAt": "2026-11-09T21:25:33.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區崧嶺路",
-   "unit": "明湖分隊",
+   "place": "新竹市東區光復路一段",
+   "unit": "金山分隊",
    "status": "送醫中",
    "state": "unknown"
   },
   {
    "seq": 4,
-   "receivedAt": "2026-11-09T20:43:51.000Z",
+   "receivedAt": "2026-11-09T21:02:13.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區和平路",
-   "unit": "竹光分隊",
-   "status": "已返隊",
-   "state": "closed"
+   "place": "新竹市北區崧嶺路",
+   "unit": "明湖分隊",
+   "status": "已到院",
+   "state": "unknown"
   },
   {
    "seq": 5,
-   "receivedAt": "2026-11-09T20:40:47.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區遊樂街",
-   "unit": "朝山分隊",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 6,
    "receivedAt": "2026-11-09T11:53:58.000Z",
    "category": "其他",
    "place": "新竹市東區光復分隊[新竹市東區公園路",
@@ -59,7 +50,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 7,
+   "seq": 6,
    "receivedAt": "2026-11-09T08:33:48.000Z",
    "category": "其他",
    "place": "新竹市北區湳中街",
@@ -68,7 +59,7 @@
    "state": "closed"
   },
   {
-   "seq": 8,
+   "seq": 7,
    "receivedAt": "2026-11-08T07:21:29.000Z",
    "category": "其他",
    "place": "新竹市東區寶山路",
