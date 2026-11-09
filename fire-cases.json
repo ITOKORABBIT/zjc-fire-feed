@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-09T17:20:02.019Z",
- "count": 8,
+ "fetchedAt": "2026-11-09T17:30:02.050Z",
+ "count": 7,
  "items": [
   {
    "seq": 1,
@@ -24,15 +24,6 @@
   },
   {
    "seq": 3,
-   "receivedAt": "2026-11-09T16:35:17.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區金山街",
-   "unit": "金山分隊",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 4,
    "receivedAt": "2026-11-09T16:24:37.000Z",
    "category": "火災",
    "place": "新竹市香山區海埔路",
@@ -41,16 +32,16 @@
    "state": "unknown"
   },
   {
-   "seq": 5,
+   "seq": 4,
    "receivedAt": "2026-11-09T16:17:01.000Z",
    "category": "緊急救護",
    "place": "新竹市東區公道五路二段",
    "unit": "埔頂分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 6,
+   "seq": 5,
    "receivedAt": "2026-11-09T11:53:58.000Z",
    "category": "其他",
    "place": "新竹市東區光復分隊[新竹市東區公園路",
@@ -59,7 +50,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 7,
+   "seq": 6,
    "receivedAt": "2026-11-09T08:33:48.000Z",
    "category": "其他",
    "place": "新竹市北區湳中街",
@@ -68,7 +59,7 @@
    "state": "closed"
   },
   {
-   "seq": 8,
+   "seq": 7,
    "receivedAt": "2026-11-08T07:21:29.000Z",
    "category": "其他",
    "place": "新竹市東區寶山路",
