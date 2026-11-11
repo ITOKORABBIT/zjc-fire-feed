@@ -1,29 +1,47 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-11T10:10:02.108Z",
- "count": 6,
+ "fetchedAt": "2026-11-11T10:20:02.485Z",
+ "count": 8,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-11-11T10:03:35.000Z",
+   "receivedAt": "2026-11-11T10:18:58.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區高峰路",
-   "unit": "明湖分隊",
-   "status": "已出動",
+   "place": "新竹市東區東南街",
+   "unit": "光復分隊",
+   "status": "已派遣",
    "state": "dispatched"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-11-11T09:31:04.000Z",
+   "receivedAt": "2026-11-11T10:09:40.000Z",
    "category": "緊急救護",
-   "place": "新竹市香山區經國路三段",
-   "unit": "竹光分隊",
-   "status": "已到院",
+   "place": "新竹市北區經國路二段",
+   "unit": "香山分隊",
+   "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 3,
+   "receivedAt": "2026-11-11T10:03:35.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區高峰路",
+   "unit": "明湖分隊",
+   "status": "送醫中",
+   "state": "unknown"
+  },
+  {
+   "seq": 4,
+   "receivedAt": "2026-11-11T09:31:04.000Z",
+   "category": "緊急救護",
+   "place": "新竹市香山區經國路三段",
+   "unit": "竹光分隊",
+   "status": "返隊中",
+   "state": "returning"
+  },
+  {
+   "seq": 5,
    "receivedAt": "2026-11-11T09:11:47.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區香檳東街",
@@ -32,16 +50,16 @@
    "state": "closed"
   },
   {
-   "seq": 4,
+   "seq": 6,
    "receivedAt": "2026-11-11T09:03:58.000Z",
    "category": "緊急救護",
    "place": "西濱路四段",
    "unit": "朝山分隊",
-   "status": "返隊中",
-   "state": "returning"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 5,
+   "seq": 7,
    "receivedAt": "2026-11-11T02:44:17.000Z",
    "category": "其他",
    "place": "新竹市東區園區二路",
@@ -50,7 +68,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 6,
+   "seq": 8,
    "receivedAt": "2026-11-11T01:47:33.000Z",
    "category": "其他",
    "place": "新竹市北區吉羊路",
