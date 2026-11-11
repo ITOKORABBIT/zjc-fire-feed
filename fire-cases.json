@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-11T12:30:02.207Z",
- "count": 8,
+ "fetchedAt": "2026-11-11T12:40:02.213Z",
+ "count": 5,
  "items": [
   {
    "seq": 1,
@@ -10,29 +10,11 @@
    "category": "緊急救護",
    "place": "新竹市東區民生路",
    "unit": "中山分隊",
-   "status": "已出動",
-   "state": "dispatched"
-  },
-  {
-   "seq": 2,
-   "receivedAt": "2026-11-11T11:48:18.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區崧嶺路",
-   "unit": "香山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 3,
-   "receivedAt": "2026-11-11T11:46:22.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區武陵路",
-   "unit": "三民分隊",
-   "status": "已到院",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
-   "seq": 4,
+   "seq": 2,
    "receivedAt": "2026-11-11T11:45:18.000Z",
    "category": "緊急救護",
    "place": "新竹市東區明湖路",
@@ -41,16 +23,7 @@
    "state": "returning"
   },
   {
-   "seq": 5,
-   "receivedAt": "2026-11-11T11:21:55.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區公道五路5段",
-   "unit": "竹光分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 6,
+   "seq": 3,
    "receivedAt": "2026-11-11T10:43:58.000Z",
    "category": "其他",
    "place": "新竹市東區金山六街",
@@ -59,7 +32,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 7,
+   "seq": 4,
    "receivedAt": "2026-11-11T02:44:17.000Z",
    "category": "其他",
    "place": "新竹市東區園區二路",
@@ -68,7 +41,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 8,
+   "seq": 5,
    "receivedAt": "2026-11-11T01:47:33.000Z",
    "category": "其他",
    "place": "新竹市北區吉羊路",
