@@ -1,20 +1,38 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-11T09:20:02.333Z",
- "count": 7,
+ "fetchedAt": "2026-11-11T09:30:02.087Z",
+ "count": 8,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-11-11T09:11:47.000Z",
+   "receivedAt": "2026-11-11T09:28:04.000Z",
    "category": "緊急救護",
-   "place": "新竹市香山區香檳東街",
-   "unit": "明湖分隊",
-   "status": "已出動",
+   "place": "新竹市東區民有一街",
+   "unit": "金山分隊",
+   "status": "已派遣",
    "state": "dispatched"
   },
   {
    "seq": 2,
+   "receivedAt": "2026-11-11T09:27:34.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區光復路一段",
+   "unit": "埔頂分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 3,
+   "receivedAt": "2026-11-11T09:11:47.000Z",
+   "category": "緊急救護",
+   "place": "新竹市香山區香檳東街",
+   "unit": "明湖分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 4,
    "receivedAt": "2026-11-11T09:03:58.000Z",
    "category": "緊急救護",
    "place": "西濱路四段",
@@ -23,16 +41,16 @@
    "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 5,
    "receivedAt": "2026-11-11T08:43:57.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區浸水街",
    "unit": "香山分隊",
-   "status": "送醫中",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
-   "seq": 4,
+   "seq": 6,
    "receivedAt": "2026-11-11T08:29:40.000Z",
    "category": "其他",
    "place": "新竹市東區北大路和錦華街",
@@ -41,16 +59,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 5,
-   "receivedAt": "2026-11-11T08:18:00.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區東美路",
-   "unit": "埔頂分隊",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-11-11T02:44:17.000Z",
    "category": "其他",
    "place": "新竹市東區園區二路",
@@ -59,7 +68,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 7,
+   "seq": 8,
    "receivedAt": "2026-11-11T01:47:33.000Z",
    "category": "其他",
    "place": "新竹市北區吉羊路",
