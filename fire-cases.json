@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-12T15:40:02.921Z",
- "count": 7,
+ "fetchedAt": "2026-11-12T15:50:02.640Z",
+ "count": 3,
  "items": [
   {
    "seq": 2,
@@ -10,8 +10,8 @@
    "category": "緊急救護",
    "place": "新竹市北區北新街",
    "unit": "三民分隊,竹光分隊",
-   "status": "已到達",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 1,
@@ -19,7 +19,7 @@
    "category": "緊急救護",
    "place": "新竹市東區中華路二段",
    "unit": "光復分隊",
-   "status": "送醫中",
+   "status": "已到院",
    "state": "unknown"
   },
   {
@@ -28,44 +28,8 @@
    "category": "緊急救護",
    "place": "新竹市香山區至善街",
    "unit": "明湖分隊",
-   "status": "送醫中",
+   "status": "已到院",
    "state": "unknown"
-  },
-  {
-   "seq": 4,
-   "receivedAt": "2026-11-12T13:07:18.000Z",
-   "category": "其他",
-   "place": "新竹市東區明湖路",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 5,
-   "receivedAt": "2026-11-12T10:07:02.000Z",
-   "category": "其他",
-   "place": "新竹市東區忠孝路",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 6,
-   "receivedAt": "2026-11-12T06:20:31.000Z",
-   "category": "其他",
-   "place": "新竹市東區明湖路",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 7,
-   "receivedAt": "2026-11-11T02:44:17.000Z",
-   "category": "其他",
-   "place": "新竹市東區園區二路",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
   }
  ]
 }
