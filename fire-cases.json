@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-13T07:30:02.520Z",
- "count": 10,
+ "fetchedAt": "2026-11-13T07:40:01.902Z",
+ "count": 7,
  "items": [
   {
    "seq": 1,
@@ -10,7 +10,7 @@
    "category": "緊急救護",
    "place": "新竹市北區東大路四段",
    "unit": "南寮分隊",
-   "status": "已到達",
+   "status": "已到院",
    "state": "unknown"
   },
   {
@@ -19,7 +19,7 @@
    "category": "緊急救護",
    "place": "新竹市東區高峰路",
    "unit": "光復分隊",
-   "status": "已到達",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
@@ -28,47 +28,20 @@
    "category": "緊急救護",
    "place": "新竹市北區境福街",
    "unit": "竹光分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
    "seq": 4,
-   "receivedAt": "2026-11-13T06:49:55.000Z",
+   "receivedAt": "2026-11-13T06:48:03.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區中華路二段",
-   "unit": "中山分隊",
+   "place": "新竹市香山區東華路和中華路四段",
+   "unit": "朝山分隊",
    "status": "返隊中",
    "state": "returning"
   },
   {
    "seq": 5,
-   "receivedAt": "2026-11-13T06:48:03.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區東華路和中華路四段",
-   "unit": "朝山分隊",
-   "status": "已到院",
-   "state": "unknown"
-  },
-  {
-   "seq": 6,
-   "receivedAt": "2026-11-13T06:39:34.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區牛埔東路",
-   "unit": "香山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 7,
-   "receivedAt": "2026-11-13T06:11:32.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區寶山路",
-   "unit": "明湖分隊",
-   "status": "已到院",
-   "state": "unknown"
-  },
-  {
-   "seq": 8,
    "receivedAt": "2026-11-13T04:54:19.000Z",
    "category": "其他",
    "place": "新竹市北區武陵路",
@@ -77,16 +50,16 @@
    "state": "returning"
   },
   {
-   "seq": 9,
+   "seq": 6,
    "receivedAt": "2026-11-13T04:41:26.000Z",
    "category": "其他",
    "place": "新竹市北區",
    "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
-   "seq": 10,
+   "seq": 7,
    "receivedAt": "2026-11-13T01:43:51.000Z",
    "category": "其他",
    "place": "新竹市東區華德福街",
