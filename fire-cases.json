@@ -1,17 +1,17 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-13T21:50:01.643Z",
+ "fetchedAt": "2026-11-13T22:00:01.642Z",
  "count": 4,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-11-13T21:25:44.000Z",
+   "receivedAt": "2026-11-13T21:55:24.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區民富街",
-   "unit": "中山分隊",
-   "status": "返隊中",
-   "state": "returning"
+   "place": "新竹市北區東大路三段",
+   "unit": "南寮分隊",
+   "status": "已到達",
+   "state": "unknown"
   },
   {
    "seq": 2,
