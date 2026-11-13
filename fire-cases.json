@@ -1,56 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-13T13:00:03.190Z",
- "count": 6,
+ "fetchedAt": "2026-11-13T13:10:02.044Z",
+ "count": 3,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-11-13T12:23:02.000Z",
+   "receivedAt": "2026-11-13T12:18:41.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區明湖路",
-   "unit": "明湖分隊",
+   "place": "新竹市東區篤行一路",
+   "unit": "金山分隊",
    "status": "已返隊",
    "state": "closed"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-11-13T12:18:41.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區篤行一路",
-   "unit": "金山分隊",
-   "status": "已到院",
-   "state": "unknown"
-  },
-  {
-   "seq": 3,
-   "receivedAt": "2026-11-13T12:16:16.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區東山街",
-   "unit": "光復分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 4,
    "receivedAt": "2026-11-13T12:06:30.000Z",
    "category": "緊急救護",
    "place": "新竹市東區關東路",
    "unit": "埔頂分隊",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 5,
-   "receivedAt": "2026-11-13T11:43:38.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區榮濱路",
-   "unit": "南寮分隊",
    "status": "已返隊",
    "state": "closed"
   },
   {
-   "seq": 6,
+   "seq": 3,
    "receivedAt": "2026-11-13T11:26:14.000Z",
    "category": "緊急救護",
    "place": "新竹市東區新莊街",
