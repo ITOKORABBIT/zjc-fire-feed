@@ -1,17 +1,17 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-14T15:20:02.866Z",
+ "fetchedAt": "2026-11-14T15:30:02.185Z",
  "count": 1,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-11-14T14:33:11.000Z",
+   "receivedAt": "2026-11-14T15:24:49.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區武陵路",
-   "unit": "三民分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "place": "新竹市北區林森路",
+   "unit": "香山分隊",
+   "status": "已出動",
+   "state": "dispatched"
   }
  ]
 }
