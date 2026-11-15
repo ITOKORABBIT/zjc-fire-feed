@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-15T04:30:02.329Z",
- "count": 4,
+ "fetchedAt": "2026-11-15T04:40:01.881Z",
+ "count": 5,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-11-15T04:28:41.000Z",
+   "category": "緊急救護",
+   "place": "民富街",
+   "unit": "中山分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-11-15T04:13:11.000Z",
    "category": "緊急救護",
    "place": "新竹市東區民權路",
@@ -14,7 +23,7 @@
    "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-11-15T04:11:01.000Z",
    "category": "緊急救護",
    "place": "新竹市東區南大路",
@@ -23,16 +32,16 @@
    "state": "returning"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-11-15T03:59:52.000Z",
    "category": "緊急救護",
    "place": "新竹市東區公道五路二段",
    "unit": "埔頂分隊",
-   "status": "已到達",
+   "status": "已到院",
    "state": "unknown"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-11-15T03:32:43.000Z",
    "category": "緊急救護",
    "place": "新竹市北區磐石路",
