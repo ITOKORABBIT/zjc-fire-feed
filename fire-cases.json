@@ -1,29 +1,38 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-15T02:50:01.754Z",
- "count": 3,
+ "fetchedAt": "2026-11-15T03:00:01.918Z",
+ "count": 4,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-11-15T02:51:51.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區北大路",
+   "unit": "三民分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-11-15T02:48:15.000Z",
    "category": "緊急救護",
    "place": "新竹市北區集和街",
    "unit": "竹光分隊",
-   "status": "已派遣",
-   "state": "dispatched"
-  },
-  {
-   "seq": 2,
-   "receivedAt": "2026-11-15T02:14:25.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區吉羊路",
-   "unit": "中山分隊",
-   "status": "已到院",
+   "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 3,
+   "receivedAt": "2026-11-15T02:14:25.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區吉羊路",
+   "unit": "中山分隊",
+   "status": "已返隊",
+   "state": "closed"
+  },
+  {
+   "seq": 4,
    "receivedAt": "2026-11-15T02:03:12.000Z",
    "category": "火災",
    "place": "新竹市香山區延平路一段",
