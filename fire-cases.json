@@ -1,38 +1,47 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-15T06:20:01.918Z",
- "count": 4,
+ "fetchedAt": "2026-11-15T06:30:01.938Z",
+ "count": 5,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-11-15T06:24:12.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區東南街",
+   "unit": "光復分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-11-15T06:04:28.000Z",
    "category": "緊急救護",
    "place": "公道五路二段",
    "unit": "光復分隊",
-   "status": "已到達",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-11-15T06:03:41.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區中華路五段",
    "unit": "朝山分隊",
-   "status": "已到達",
-   "state": "unknown"
-  },
-  {
-   "seq": 3,
-   "receivedAt": "2026-11-15T06:02:25.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區民享街",
-   "unit": "埔頂分隊",
-   "status": "已到達",
+   "status": "已到院",
    "state": "unknown"
   },
   {
    "seq": 4,
+   "receivedAt": "2026-11-15T06:02:25.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區民享街",
+   "unit": "埔頂分隊",
+   "status": "送醫中",
+   "state": "unknown"
+  },
+  {
+   "seq": 5,
    "receivedAt": "2026-11-15T05:48:40.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區虎林街",
