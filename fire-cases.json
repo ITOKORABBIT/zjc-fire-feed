@@ -1,86 +1,14 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-16T16:00:01.725Z",
- "count": 9,
+ "fetchedAt": "2026-11-16T16:10:01.709Z",
+ "count": 1,
  "items": [
   {
    "seq": 1,
    "receivedAt": "2026-11-16T15:14:58.000Z",
    "category": "其他",
    "place": "新竹市東區光復路二段",
-   "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
-  },
-  {
-   "seq": 2,
-   "receivedAt": "2026-11-16T07:16:11.000Z",
-   "category": "其他",
-   "place": "新竹市東區明湖路",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 3,
-   "receivedAt": "2026-11-16T06:39:46.000Z",
-   "category": "其他",
-   "place": "新竹市北區東大路三段",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 4,
-   "receivedAt": "2026-11-16T05:30:25.000Z",
-   "category": "其他",
-   "place": "新竹市北區武陵路",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 5,
-   "receivedAt": "2026-11-16T04:19:52.000Z",
-   "category": "其他",
-   "place": "新竹市香山區中華路五段",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 6,
-   "receivedAt": "2026-11-16T02:17:26.000Z",
-   "category": "其他",
-   "place": "新竹市香山區香檳五街",
-   "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
-  },
-  {
-   "seq": 7,
-   "receivedAt": "2026-11-16T00:58:11.000Z",
-   "category": "其他",
-   "place": "新竹市東區介壽一路",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 8,
-   "receivedAt": "2026-11-16T00:47:08.000Z",
-   "category": "其他",
-   "place": "新竹市北區武陵路",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 9,
-   "receivedAt": "2026-11-16T00:41:34.000Z",
-   "category": "其他",
-   "place": "新竹市東區明湖路",
    "unit": "委外廠商",
    "status": "已派遣",
    "state": "dispatched"
