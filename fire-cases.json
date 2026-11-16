@@ -1,20 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-16T09:40:02.348Z",
- "count": 12,
+ "fetchedAt": "2026-11-16T09:50:02.570Z",
+ "count": 13,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-11-16T09:43:20.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區中華路二段",
+   "unit": "光復分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-11-16T09:38:15.000Z",
    "category": "緊急救護",
    "place": "新竹市北區湳雅街",
    "unit": "中山分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "已到達",
+   "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-11-16T09:21:11.000Z",
    "category": "緊急救護",
    "place": "新竹市北區武陵路",
@@ -23,7 +32,7 @@
    "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-11-16T08:55:30.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區經國路三段",
@@ -32,7 +41,7 @@
    "state": "closed"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-11-16T08:04:04.000Z",
    "category": "緊急救護",
    "place": "新竹市東區柴橋路",
@@ -41,7 +50,7 @@
    "state": "closed"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-11-16T07:16:11.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路",
@@ -50,7 +59,7 @@
    "state": "returning"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-11-16T06:39:46.000Z",
    "category": "其他",
    "place": "新竹市北區東大路三段",
@@ -59,7 +68,7 @@
    "state": "returning"
   },
   {
-   "seq": 7,
+   "seq": 8,
    "receivedAt": "2026-11-16T05:30:25.000Z",
    "category": "其他",
    "place": "新竹市北區武陵路",
@@ -68,7 +77,7 @@
    "state": "returning"
   },
   {
-   "seq": 8,
+   "seq": 9,
    "receivedAt": "2026-11-16T04:19:52.000Z",
    "category": "其他",
    "place": "新竹市香山區中華路五段",
@@ -77,7 +86,7 @@
    "state": "returning"
   },
   {
-   "seq": 9,
+   "seq": 10,
    "receivedAt": "2026-11-16T02:17:26.000Z",
    "category": "其他",
    "place": "新竹市香山區香檳五街",
@@ -86,7 +95,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 10,
+   "seq": 11,
    "receivedAt": "2026-11-16T00:58:11.000Z",
    "category": "其他",
    "place": "新竹市東區介壽一路",
@@ -95,7 +104,7 @@
    "state": "returning"
   },
   {
-   "seq": 11,
+   "seq": 12,
    "receivedAt": "2026-11-16T00:47:08.000Z",
    "category": "其他",
    "place": "新竹市北區武陵路",
@@ -104,7 +113,7 @@
    "state": "returning"
   },
   {
-   "seq": 12,
+   "seq": 13,
    "receivedAt": "2026-11-16T00:41:34.000Z",
    "category": "其他",
    "place": "新竹市東區明湖路",
