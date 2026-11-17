@@ -1,35 +1,35 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-17T02:20:02.074Z",
+ "fetchedAt": "2026-11-17T02:30:02.091Z",
  "count": 4,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-11-17T02:06:55.000Z",
+   "receivedAt": "2026-11-17T02:27:58.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區西大路",
-   "unit": "竹光分隊",
-   "status": "已到達",
-   "state": "unknown"
-  },
-  {
-   "seq": 2,
-   "receivedAt": "2026-11-17T01:59:23.000Z",
-   "category": "其他",
-   "place": "新竹市香山區華北路",
+   "place": "新竹市香山區虎林街",
    "unit": "香山分隊",
    "status": "已出動",
    "state": "dispatched"
   },
   {
-   "seq": 3,
-   "receivedAt": "2026-11-17T01:28:43.000Z",
+   "seq": 2,
+   "receivedAt": "2026-11-17T02:23:16.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區四維路和西門街",
-   "unit": "香山分隊",
-   "status": "已返隊",
-   "state": "closed"
+   "place": "新竹市東區田美二街",
+   "unit": "三民分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 3,
+   "receivedAt": "2026-11-17T02:06:55.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區西大路",
+   "unit": "竹光分隊",
+   "status": "已到院",
+   "state": "unknown"
   },
   {
    "seq": 4,
