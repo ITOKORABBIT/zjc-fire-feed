@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-17T07:40:02.294Z",
- "count": 5,
+ "fetchedAt": "2026-11-17T07:50:02.305Z",
+ "count": 4,
  "items": [
   {
    "seq": 1,
@@ -10,20 +10,11 @@
    "category": "緊急救護",
    "place": "新竹市北區境福街",
    "unit": "竹光分隊",
-   "status": "已出動",
-   "state": "dispatched"
-  },
-  {
-   "seq": 2,
-   "receivedAt": "2026-11-17T07:05:52.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區光華北街",
-   "unit": "三民分隊",
-   "status": "已到院",
+   "status": "已到達",
    "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 2,
    "receivedAt": "2026-11-17T06:38:44.000Z",
    "category": "其他",
    "place": "新竹市北區境福街",
@@ -32,7 +23,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 4,
+   "seq": 3,
    "receivedAt": "2026-11-17T03:47:09.000Z",
    "category": "其他",
    "place": "新竹市香山區浸水街",
@@ -41,7 +32,7 @@
    "state": "returning"
   },
   {
-   "seq": 5,
+   "seq": 4,
    "receivedAt": "2026-11-17T03:01:09.000Z",
    "category": "其他",
    "place": "新竹市香山區牛埔路",
