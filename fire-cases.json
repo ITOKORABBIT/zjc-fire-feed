@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-17T12:10:01.534Z",
- "count": 11,
+ "fetchedAt": "2026-11-17T12:20:01.534Z",
+ "count": 8,
  "items": [
   {
    "seq": 1,
@@ -28,7 +28,7 @@
    "category": "緊急救護",
    "place": "新竹市香山區中華路六段",
    "unit": "明湖分隊",
-   "status": "已到達",
+   "status": "送醫中",
    "state": "unknown"
   },
   {
@@ -46,20 +46,11 @@
    "category": "緊急救護",
    "place": "新竹市東區中華路二段",
    "unit": "光復分隊",
-   "status": "返隊中",
-   "state": "returning"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
    "seq": 6,
-   "receivedAt": "2026-11-17T11:28:29.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區民富街",
-   "unit": "香山分隊",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 7,
    "receivedAt": "2026-11-17T11:24:55.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區香北路",
@@ -68,7 +59,7 @@
    "state": "returning"
   },
   {
-   "seq": 8,
+   "seq": 7,
    "receivedAt": "2026-11-17T11:23:36.000Z",
    "category": "緊急救護",
    "place": "新竹市北區長和街",
@@ -77,28 +68,10 @@
    "state": "unknown"
   },
   {
-   "seq": 9,
+   "seq": 8,
    "receivedAt": "2026-11-17T09:00:11.000Z",
    "category": "其他",
    "place": "新竹市北區東大路三段",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 10,
-   "receivedAt": "2026-11-17T06:38:44.000Z",
-   "category": "其他",
-   "place": "新竹市北區境福街",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 11,
-   "receivedAt": "2026-11-17T03:47:09.000Z",
-   "category": "其他",
-   "place": "新竹市香山區浸水街",
    "unit": "委外廠商",
    "status": "返隊中",
    "state": "returning"
