@@ -1,29 +1,38 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-19T23:20:02.016Z",
+ "fetchedAt": "2026-11-19T23:30:01.999Z",
  "count": 6,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-11-19T23:26:38.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區湳雅街",
+   "unit": "三民分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-11-19T22:59:06.000Z",
    "category": "緊急救護",
    "place": "新竹市北區東大路二段",
    "unit": "竹光分隊",
-   "status": "已到達",
-   "state": "unknown"
-  },
-  {
-   "seq": 2,
-   "receivedAt": "2026-11-19T22:56:46.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區海埔路和西濱路二段",
-   "unit": "南寮分隊",
-   "status": "已到達",
+   "status": "已到院",
    "state": "unknown"
   },
   {
    "seq": 3,
+   "receivedAt": "2026-11-19T22:56:46.000Z",
+   "category": "緊急救護",
+   "place": "新竹市香山區海埔路和西濱路二段",
+   "unit": "南寮分隊",
+   "status": "已到院",
+   "state": "unknown"
+  },
+  {
+   "seq": 4,
    "receivedAt": "2026-11-19T22:21:36.000Z",
    "category": "緊急救護",
    "place": "新竹市東區食品路和體育街",
@@ -32,20 +41,11 @@
    "state": "closed"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-11-19T22:07:43.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區華江街",
    "unit": "南寮分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 5,
-   "receivedAt": "2026-11-19T22:07:39.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區竹光路",
-   "unit": "竹光分隊",
    "status": "已返隊",
    "state": "closed"
   },
