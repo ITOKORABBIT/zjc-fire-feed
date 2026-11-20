@@ -1,11 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-20T03:20:02.147Z",
- "count": 5,
+ "fetchedAt": "2026-11-20T03:30:02.180Z",
+ "count": 7,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-11-20T03:26:31.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區中央路",
+   "unit": "中山分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 2,
+   "receivedAt": "2026-11-20T03:19:55.000Z",
+   "category": "其他",
+   "place": "新竹市香山區頂埔路",
+   "unit": "委外廠商",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-11-20T03:07:47.000Z",
    "category": "其他",
    "place": "新竹市香山區玄奘路",
@@ -14,16 +32,16 @@
    "state": "dispatched"
   },
   {
-   "seq": 2,
+   "seq": 4,
    "receivedAt": "2026-11-20T03:02:20.000Z",
    "category": "緊急救護",
    "place": "新竹市東區民享街",
    "unit": "埔頂分隊",
-   "status": "送醫中",
+   "status": "已到院",
    "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 5,
    "receivedAt": "2026-11-20T02:32:58.000Z",
    "category": "緊急救護",
    "place": "新竹市東區中央路",
@@ -32,7 +50,7 @@
    "state": "closed"
   },
   {
-   "seq": 4,
+   "seq": 6,
    "receivedAt": "2026-11-20T02:27:13.000Z",
    "category": "緊急救護",
    "place": "新竹市東區關東路",
@@ -41,7 +59,7 @@
    "state": "closed"
   },
   {
-   "seq": 5,
+   "seq": 7,
    "receivedAt": "2026-11-20T01:48:50.000Z",
    "category": "其他",
    "place": "新竹市北區東大路二段",
