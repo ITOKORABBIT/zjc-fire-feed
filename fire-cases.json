@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-23T06:40:01.726Z",
- "count": 10,
+ "fetchedAt": "2026-11-23T06:50:01.687Z",
+ "count": 8,
  "items": [
   {
    "seq": 1,
@@ -19,20 +19,11 @@
    "category": "緊急救護",
    "place": "新竹市香山區華江街",
    "unit": "南寮分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
    "seq": 3,
-   "receivedAt": "2026-11-23T05:48:33.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區經國路一段",
-   "unit": "光復分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 4,
    "receivedAt": "2026-11-23T05:39:39.000Z",
    "category": "其他",
    "place": "新竹市香山區中華路五段",
@@ -41,16 +32,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 5,
-   "receivedAt": "2026-11-23T05:20:27.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區長春街",
-   "unit": "埔頂分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 6,
+   "seq": 4,
    "receivedAt": "2026-11-23T05:09:49.000Z",
    "category": "火災",
    "place": "新竹市香山區中華路五段",
@@ -59,7 +41,7 @@
    "state": "closed"
   },
   {
-   "seq": 7,
+   "seq": 5,
    "receivedAt": "2026-11-23T04:55:58.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區中華路六段",
@@ -68,7 +50,7 @@
    "state": "returning"
   },
   {
-   "seq": 8,
+   "seq": 6,
    "receivedAt": "2026-11-23T02:53:36.000Z",
    "category": "其他",
    "place": "新竹市香山區中山路",
@@ -77,7 +59,7 @@
    "state": "returning"
   },
   {
-   "seq": 9,
+   "seq": 7,
    "receivedAt": "2026-11-23T02:35:13.000Z",
    "category": "其他",
    "place": "新竹市東區園後街",
@@ -86,7 +68,7 @@
    "state": "returning"
   },
   {
-   "seq": 10,
+   "seq": 8,
    "receivedAt": "2026-11-23T02:16:09.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區國中街",
