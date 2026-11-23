@@ -1,11 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-23T15:30:02.078Z",
+ "fetchedAt": "2026-11-23T15:40:01.990Z",
  "count": 5,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-11-23T15:31:59.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區武陵路",
+   "unit": "竹光分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-11-23T14:36:38.000Z",
    "category": "緊急救護",
    "place": "新竹市東區食品路和博愛街",
@@ -14,7 +23,7 @@
    "state": "closed"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-11-23T14:34:44.000Z",
    "category": "其他",
    "place": "新竹市東區園後街",
@@ -23,7 +32,7 @@
    "state": "closed"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-11-23T14:22:31.000Z",
    "category": "緊急救護",
    "place": "新竹市東區光復路一段",
@@ -32,22 +41,13 @@
    "state": "closed"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-11-23T14:18:55.000Z",
    "category": "緊急救護",
    "place": "新竹市東區學府路",
    "unit": "光復分隊",
    "status": "已返隊",
    "state": "closed"
-  },
-  {
-   "seq": 5,
-   "receivedAt": "2026-11-23T06:10:22.000Z",
-   "category": "其他",
-   "place": "新竹市東區高峰路",
-   "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
   }
  ]
 }
