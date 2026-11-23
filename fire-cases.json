@@ -1,32 +1,32 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-23T16:00:02.042Z",
+ "fetchedAt": "2026-11-23T16:10:02.044Z",
  "count": 3,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-11-23T15:31:59.000Z",
+   "receivedAt": "2026-11-23T16:01:53.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區武陵路",
-   "unit": "竹光分隊",
-   "status": "送醫中",
+   "place": "新竹市東區光復路一段",
+   "unit": "金山分隊",
+   "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-11-23T14:34:44.000Z",
-   "category": "其他",
-   "place": "新竹市東區園後街",
-   "unit": "光復分隊",
-   "status": "已返隊",
-   "state": "closed"
+   "receivedAt": "2026-11-23T15:31:59.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區武陵路",
+   "unit": "竹光分隊",
+   "status": "已到院",
+   "state": "unknown"
   },
   {
    "seq": 3,
-   "receivedAt": "2026-11-23T14:18:55.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區學府路",
+   "receivedAt": "2026-11-23T14:34:44.000Z",
+   "category": "其他",
+   "place": "新竹市東區園後街",
    "unit": "光復分隊",
    "status": "已返隊",
    "state": "closed"
