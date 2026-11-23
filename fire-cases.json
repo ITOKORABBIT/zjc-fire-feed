@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-23T15:40:01.990Z",
- "count": 5,
+ "fetchedAt": "2026-11-23T15:50:01.999Z",
+ "count": 3,
  "items": [
   {
    "seq": 1,
@@ -15,15 +15,6 @@
   },
   {
    "seq": 2,
-   "receivedAt": "2026-11-23T14:36:38.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區食品路和博愛街",
-   "unit": "中山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 3,
    "receivedAt": "2026-11-23T14:34:44.000Z",
    "category": "其他",
    "place": "新竹市東區園後街",
@@ -32,16 +23,7 @@
    "state": "closed"
   },
   {
-   "seq": 4,
-   "receivedAt": "2026-11-23T14:22:31.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區光復路一段",
-   "unit": "金山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 5,
+   "seq": 3,
    "receivedAt": "2026-11-23T14:18:55.000Z",
    "category": "緊急救護",
    "place": "新竹市東區學府路",
