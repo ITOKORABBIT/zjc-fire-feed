@@ -1,20 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-23T23:40:02.198Z",
- "count": 4,
+ "fetchedAt": "2026-11-23T23:50:02.188Z",
+ "count": 5,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-11-23T23:43:18.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區明湖路",
+   "unit": "明湖分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-11-23T23:33:36.000Z",
    "category": "緊急救護",
    "place": "新竹市東區中華路一段",
    "unit": "三民分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "送醫中",
+   "state": "unknown"
   },
   {
-   "seq": 2,
+   "seq": 3,
    "receivedAt": "2026-11-23T22:58:39.000Z",
    "category": "緊急救護",
    "place": "新竹市北區公道五路四段",
@@ -23,7 +32,7 @@
    "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-11-23T18:34:20.000Z",
    "category": "緊急救護",
    "place": "新竹市北區延平路一段",
@@ -32,7 +41,7 @@
    "state": "closed"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-11-23T18:24:58.000Z",
    "category": "緊急救護",
    "place": "新竹市東區民享街",
