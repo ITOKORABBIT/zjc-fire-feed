@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-23T03:20:01.586Z",
- "count": 7,
+ "fetchedAt": "2026-11-23T03:30:02.181Z",
+ "count": 6,
  "items": [
   {
    "seq": 1,
@@ -19,8 +19,8 @@
    "category": "緊急救護",
    "place": "新竹市香山區中華路六段",
    "unit": "明湖分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "已到達",
+   "state": "unknown"
   },
   {
    "seq": 3,
@@ -51,15 +51,6 @@
   },
   {
    "seq": 6,
-   "receivedAt": "2026-11-23T02:27:30.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區瑞麟路",
-   "unit": "明湖分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 7,
    "receivedAt": "2026-11-23T02:16:09.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區國中街",
