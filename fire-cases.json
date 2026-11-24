@@ -1,47 +1,38 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-24T14:40:01.756Z",
- "count": 5,
+ "fetchedAt": "2026-11-24T14:50:01.733Z",
+ "count": 4,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-11-24T14:48:53.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區食品路和光復路二段",
+   "unit": "埔頂分隊",
+   "status": "已派遣",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
    "receivedAt": "2026-11-24T14:25:49.000Z",
    "category": "火災",
    "place": "新竹市北區東大路二段",
    "unit": "三民分隊,中山分隊,光復分隊,竹光分隊",
-   "status": "已到達",
-   "state": "unknown"
-  },
-  {
-   "seq": 2,
-   "receivedAt": "2026-11-24T14:25:41.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區牛埔南路",
-   "unit": "香山分隊",
-   "status": "已到達",
+   "status": "火已滅",
    "state": "unknown"
   },
   {
    "seq": 3,
-   "receivedAt": "2026-11-24T13:21:10.000Z",
-   "category": "其他",
-   "place": "新竹市北區士林二街",
-   "unit": "竹光分隊",
-   "status": "已到達",
+   "receivedAt": "2026-11-24T14:25:41.000Z",
+   "category": "緊急救護",
+   "place": "新竹市香山區牛埔南路",
+   "unit": "香山分隊",
+   "status": "已到院",
    "state": "unknown"
   },
   {
    "seq": 4,
-   "receivedAt": "2026-11-24T11:33:49.000Z",
-   "category": "火災",
-   "place": "新竹市東區清大生科二館/醫學院(AED086-20)[新竹市東區光復路二段",
-   "unit": "三民分隊,光復分隊,埔頂分隊,金山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 5,
    "receivedAt": "2026-11-24T08:27:21.000Z",
    "category": "其他",
    "place": "新竹市東區花園街",
