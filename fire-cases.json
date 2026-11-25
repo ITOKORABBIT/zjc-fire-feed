@@ -1,20 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-25T05:10:02.217Z",
- "count": 3,
+ "fetchedAt": "2026-11-25T05:20:02.309Z",
+ "count": 4,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-11-25T05:05:49.000Z",
+   "receivedAt": "2026-11-25T05:16:02.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區北新街",
-   "unit": "香山分隊",
+   "place": "新竹市東區中華路二段",
+   "unit": "中山分隊",
    "status": "已出動",
    "state": "dispatched"
   },
   {
    "seq": 2,
+   "receivedAt": "2026-11-25T05:05:49.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區北新街",
+   "unit": "香山分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-11-25T04:55:43.000Z",
    "category": "其他",
    "place": "新竹市香山區中華路五段",
@@ -23,13 +32,13 @@
    "state": "dispatched"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-11-25T04:53:34.000Z",
    "category": "緊急救護",
    "place": "新竹市東區新安路",
    "unit": "埔頂分隊",
-   "status": "已到達",
-   "state": "unknown"
+   "status": "已返隊",
+   "state": "closed"
   }
  ]
 }
