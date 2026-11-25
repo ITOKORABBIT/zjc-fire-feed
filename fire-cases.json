@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-25T21:10:01.938Z",
- "count": 2,
+ "fetchedAt": "2026-11-25T21:20:01.919Z",
+ "count": 1,
  "items": [
   {
    "seq": 1,
@@ -10,17 +10,8 @@
    "category": "緊急救護",
    "place": "新竹市北區東大路二段",
    "unit": "竹光分隊",
-   "status": "已到達",
+   "status": "已到院",
    "state": "unknown"
-  },
-  {
-   "seq": 2,
-   "receivedAt": "2026-11-25T20:22:31.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區光華東街",
-   "unit": "三民分隊",
-   "status": "已返隊",
-   "state": "closed"
   }
  ]
 }
