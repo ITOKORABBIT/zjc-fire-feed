@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-25T01:30:02.090Z",
- "count": 7,
+ "fetchedAt": "2026-11-25T01:40:02.165Z",
+ "count": 4,
  "items": [
   {
    "seq": 1,
@@ -39,33 +39,6 @@
    "unit": "委外廠商",
    "status": "已派遣",
    "state": "dispatched"
-  },
-  {
-   "seq": 5,
-   "receivedAt": "2026-11-25T00:41:23.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區林森路",
-   "unit": "香山分隊",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 6,
-   "receivedAt": "2026-11-25T00:40:10.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區民主路",
-   "unit": "竹光分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 7,
-   "receivedAt": "2026-11-25T00:28:27.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區東山街",
-   "unit": "中山分隊",
-   "status": "已返隊",
-   "state": "closed"
   }
  ]
 }
