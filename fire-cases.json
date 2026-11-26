@@ -1,20 +1,11 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-26T07:50:01.451Z",
- "count": 6,
+ "fetchedAt": "2026-11-26T08:00:01.407Z",
+ "count": 2,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-11-26T07:12:57.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區西大路",
-   "unit": "明湖分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 2,
    "receivedAt": "2026-11-26T06:41:06.000Z",
    "category": "緊急救護",
    "place": "新竹市東區園後街",
@@ -23,40 +14,13 @@
    "state": "closed"
   },
   {
-   "seq": 3,
-   "receivedAt": "2026-11-26T05:19:38.000Z",
-   "category": "其他",
-   "place": "新竹市東區明湖路",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 4,
-   "receivedAt": "2026-11-26T02:48:37.000Z",
-   "category": "其他",
-   "place": "新竹市東區高翠路",
-   "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
-  },
-  {
-   "seq": 5,
+   "seq": 2,
    "receivedAt": "2026-11-26T01:34:36.000Z",
    "category": "其他",
    "place": "新竹市東區東山街",
    "unit": "委外廠商",
    "status": "已派遣",
    "state": "dispatched"
-  },
-  {
-   "seq": 6,
-   "receivedAt": "2026-11-26T00:00:20.000Z",
-   "category": "其他",
-   "place": "新竹市東區東區金山圖書館[東區金山里022光復路一段",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
   }
  ]
 }
