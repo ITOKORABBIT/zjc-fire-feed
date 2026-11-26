@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-26T05:00:02.330Z",
- "count": 10,
+ "fetchedAt": "2026-11-26T05:10:02.347Z",
+ "count": 8,
  "items": [
   {
    "seq": 1,
@@ -15,33 +15,24 @@
   },
   {
    "seq": 2,
-   "receivedAt": "2026-11-26T04:28:59.000Z",
+   "receivedAt": "2026-11-26T04:15:38.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區中山路",
-   "unit": "香山分隊",
+   "place": "新竹市東區八德路",
+   "unit": "光復分隊",
    "status": "已返隊",
    "state": "closed"
   },
   {
    "seq": 3,
-   "receivedAt": "2026-11-26T04:15:38.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區八德路",
-   "unit": "光復分隊",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 4,
    "receivedAt": "2026-11-26T04:13:49.000Z",
    "category": "緊急救護",
    "place": "新竹市北區崧嶺路",
    "unit": "明湖分隊",
-   "status": "返隊中",
-   "state": "returning"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 5,
+   "seq": 4,
    "receivedAt": "2026-11-26T03:48:23.000Z",
    "category": "緊急救護",
    "place": "新竹市東區",
@@ -50,16 +41,7 @@
    "state": "closed"
   },
   {
-   "seq": 6,
-   "receivedAt": "2026-11-26T03:40:07.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區芝柏一街",
-   "unit": "朝山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 7,
+   "seq": 5,
    "receivedAt": "2026-11-26T03:38:26.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區延平路二段",
@@ -68,7 +50,7 @@
    "state": "closed"
   },
   {
-   "seq": 8,
+   "seq": 6,
    "receivedAt": "2026-11-26T02:48:37.000Z",
    "category": "其他",
    "place": "新竹市東區高翠路",
@@ -77,7 +59,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 9,
+   "seq": 7,
    "receivedAt": "2026-11-26T01:34:36.000Z",
    "category": "其他",
    "place": "新竹市東區東山街",
@@ -86,13 +68,13 @@
    "state": "dispatched"
   },
   {
-   "seq": 10,
+   "seq": 8,
    "receivedAt": "2026-11-26T00:00:20.000Z",
    "category": "其他",
    "place": "新竹市東區東區金山圖書館[東區金山里022光復路一段",
    "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
+   "status": "返隊中",
+   "state": "returning"
   }
  ]
 }
