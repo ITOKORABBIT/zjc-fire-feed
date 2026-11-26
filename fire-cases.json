@@ -1,38 +1,20 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-26T16:00:01.762Z",
- "count": 8,
+ "fetchedAt": "2026-11-26T16:10:01.755Z",
+ "count": 3,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-11-26T15:26:37.000Z",
-   "category": "緊急救護",
-   "place": "新竹市北區中山路",
-   "unit": "香山分隊",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 2,
    "receivedAt": "2026-11-26T15:23:31.000Z",
    "category": "緊急救護",
    "place": "新竹市東區明湖路",
    "unit": "中山分隊",
-   "status": "送醫中",
+   "status": "已到院",
    "state": "unknown"
   },
   {
-   "seq": 3,
-   "receivedAt": "2026-11-26T15:17:47.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區西大路",
-   "unit": "光復分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 4,
+   "seq": 2,
    "receivedAt": "2026-11-26T13:53:10.000Z",
    "category": "緊急救護",
    "place": "新竹市東區明湖路",
@@ -41,34 +23,7 @@
    "state": "unknown"
   },
   {
-   "seq": 5,
-   "receivedAt": "2026-11-26T11:41:15.000Z",
-   "category": "其他",
-   "place": "新竹市",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 6,
-   "receivedAt": "2026-11-26T11:05:36.000Z",
-   "category": "其他",
-   "place": "新竹市東區復興路",
-   "unit": "委外廠商",
-   "status": "返隊中",
-   "state": "returning"
-  },
-  {
-   "seq": 7,
-   "receivedAt": "2026-11-26T08:41:52.000Z",
-   "category": "其他",
-   "place": "新竹市東區國立清華大學(鳥受傷)[光復路二段",
-   "unit": "委外廠商",
-   "status": "已派遣",
-   "state": "dispatched"
-  },
-  {
-   "seq": 8,
+   "seq": 3,
    "receivedAt": "2026-11-26T01:34:36.000Z",
    "category": "其他",
    "place": "新竹市東區東山街",
