@@ -1,47 +1,56 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-26T02:40:02.331Z",
+ "fetchedAt": "2026-11-26T02:50:02.404Z",
  "count": 9,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-11-26T02:31:02.000Z",
+   "receivedAt": "2026-11-26T02:49:09.000Z",
    "category": "緊急救護",
-   "place": "新竹市香山區五福路二段",
-   "unit": "朝山分隊",
-   "status": "已出動",
+   "place": "新竹市東區北大路",
+   "unit": "三民分隊",
+   "status": "已派遣",
    "state": "dispatched"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-11-26T02:09:26.000Z",
+   "receivedAt": "2026-11-26T02:31:02.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區明湖路",
-   "unit": "明湖分隊",
-   "status": "送醫中",
+   "place": "新竹市香山區五福路二段",
+   "unit": "朝山分隊",
+   "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 3,
-   "receivedAt": "2026-11-26T01:51:14.000Z",
+   "receivedAt": "2026-11-26T02:09:26.000Z",
    "category": "緊急救護",
-   "place": "新竹市北區金農路",
-   "unit": "竹光分隊",
+   "place": "新竹市東區明湖路",
+   "unit": "明湖分隊",
    "status": "已到院",
    "state": "unknown"
   },
   {
    "seq": 4,
+   "receivedAt": "2026-11-26T01:51:14.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區金農路",
+   "unit": "竹光分隊",
+   "status": "已返隊",
+   "state": "closed"
+  },
+  {
+   "seq": 5,
    "receivedAt": "2026-11-26T01:49:32.000Z",
    "category": "緊急救護",
    "place": "新竹市東區光復路一段",
    "unit": "金山分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
-   "seq": 5,
+   "seq": 6,
    "receivedAt": "2026-11-26T01:40:16.000Z",
    "category": "緊急救護",
    "place": "新竹市東區中華路二段",
@@ -50,22 +59,13 @@
    "state": "closed"
   },
   {
-   "seq": 6,
+   "seq": 7,
    "receivedAt": "2026-11-26T01:34:36.000Z",
    "category": "其他",
    "place": "新竹市東區東山街",
    "unit": "委外廠商",
    "status": "已派遣",
    "state": "dispatched"
-  },
-  {
-   "seq": 7,
-   "receivedAt": "2026-11-26T01:09:05.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區食品路",
-   "unit": "光復分隊",
-   "status": "已返隊",
-   "state": "closed"
   },
   {
    "seq": 8,
