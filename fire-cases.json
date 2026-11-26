@@ -1,8 +1,8 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-26T14:00:01.678Z",
- "count": 13,
+ "fetchedAt": "2026-11-26T14:10:01.677Z",
+ "count": 8,
  "items": [
   {
    "seq": 1,
@@ -10,8 +10,8 @@
    "category": "緊急救護",
    "place": "新竹市香山區大庄路",
    "unit": "朝山分隊",
-   "status": "已出動",
-   "state": "dispatched"
+   "status": "已到達",
+   "state": "unknown"
   },
   {
    "seq": 2,
@@ -19,8 +19,8 @@
    "category": "緊急救護",
    "place": "新竹市北區東大路二段",
    "unit": "竹光分隊",
-   "status": "已派遣",
-   "state": "dispatched"
+   "status": "已到達",
+   "state": "unknown"
   },
   {
    "seq": 3,
@@ -37,56 +37,11 @@
    "category": "緊急救護",
    "place": "新竹市北區光華東街",
    "unit": "三民分隊",
-   "status": "已到達",
+   "status": "已到院",
    "state": "unknown"
   },
   {
    "seq": 5,
-   "receivedAt": "2026-11-26T12:39:40.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區大庄路",
-   "unit": "香山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 6,
-   "receivedAt": "2026-11-26T12:36:36.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區國立清華大學[光復路二段",
-   "unit": "埔頂分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 7,
-   "receivedAt": "2026-11-26T12:31:11.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區中華路五段",
-   "unit": "朝山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 8,
-   "receivedAt": "2026-11-26T12:11:41.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區北大路",
-   "unit": "三民分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 9,
-   "receivedAt": "2026-11-26T11:45:14.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區南湖路",
-   "unit": "明湖分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 10,
    "receivedAt": "2026-11-26T11:41:15.000Z",
    "category": "其他",
    "place": "新竹市",
@@ -95,7 +50,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 11,
+   "seq": 6,
    "receivedAt": "2026-11-26T11:05:36.000Z",
    "category": "其他",
    "place": "新竹市東區復興路",
@@ -104,7 +59,7 @@
    "state": "returning"
   },
   {
-   "seq": 12,
+   "seq": 7,
    "receivedAt": "2026-11-26T08:41:52.000Z",
    "category": "其他",
    "place": "新竹市東區國立清華大學(鳥受傷)[光復路二段",
@@ -113,7 +68,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 13,
+   "seq": 8,
    "receivedAt": "2026-11-26T01:34:36.000Z",
    "category": "其他",
    "place": "新竹市東區東山街",
