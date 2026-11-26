@@ -1,17 +1,17 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-26T01:10:02.188Z",
- "count": 11,
+ "fetchedAt": "2026-11-26T01:20:02.380Z",
+ "count": 7,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-11-26T01:08:46.000Z",
+   "receivedAt": "2026-11-26T01:09:05.000Z",
    "category": "緊急救護",
    "place": "新竹市東區食品路",
    "unit": "光復分隊",
-   "status": "已派遣",
-   "state": "dispatched"
+   "status": "送醫中",
+   "state": "unknown"
   },
   {
    "seq": 2,
@@ -28,7 +28,7 @@
    "category": "緊急救護",
    "place": "新竹市東區東門街",
    "unit": "竹光分隊",
-   "status": "送醫中",
+   "status": "已到院",
    "state": "unknown"
   },
   {
@@ -46,20 +46,11 @@
    "category": "緊急救護",
    "place": "新竹市北區東大路二段",
    "unit": "香山分隊",
-   "status": "已到院",
-   "state": "unknown"
-  },
-  {
-   "seq": 6,
-   "receivedAt": "2026-11-26T00:03:56.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區南大路",
-   "unit": "明湖分隊",
    "status": "已返隊",
    "state": "closed"
   },
   {
-   "seq": 8,
+   "seq": 6,
    "receivedAt": "2026-11-26T00:00:20.000Z",
    "category": "其他",
    "place": "新竹市東區東區金山圖書館[東區金山里022光復路一段",
@@ -69,33 +60,6 @@
   },
   {
    "seq": 7,
-   "receivedAt": "2026-11-25T23:55:46.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區東光路",
-   "unit": "三民分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 9,
-   "receivedAt": "2026-11-25T23:42:45.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區南外街",
-   "unit": "中山分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 10,
-   "receivedAt": "2026-11-25T23:35:05.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區浸水街",
-   "unit": "竹光分隊",
-   "status": "已返隊",
-   "state": "closed"
-  },
-  {
-   "seq": 11,
    "receivedAt": "2026-11-25T22:46:13.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區東華路",
