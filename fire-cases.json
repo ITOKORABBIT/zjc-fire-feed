@@ -1,38 +1,56 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-25T23:50:02.400Z",
- "count": 8,
+ "fetchedAt": "2026-11-26T00:00:02.079Z",
+ "count": 9,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-11-25T23:42:45.000Z",
+   "receivedAt": "2026-11-25T23:55:46.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區南外街",
-   "unit": "中山分隊",
+   "place": "新竹市東區東光路",
+   "unit": "三民分隊",
    "status": "已出動",
    "state": "dispatched"
   },
   {
    "seq": 2,
-   "receivedAt": "2026-11-25T23:35:05.000Z",
-   "category": "緊急救護",
-   "place": "新竹市香山區浸水街",
-   "unit": "竹光分隊",
-   "status": "已到達",
+   "receivedAt": "2026-11-25T23:54:20.000Z",
+   "category": "其他",
+   "place": "新竹市東區東區金山圖書館[東區金山里022光復路一段",
+   "unit": "",
+   "status": "已受理",
    "state": "unknown"
   },
   {
    "seq": 3,
-   "receivedAt": "2026-11-25T23:30:50.000Z",
+   "receivedAt": "2026-11-25T23:42:45.000Z",
    "category": "緊急救護",
-   "place": "新竹市東區經國路一段",
-   "unit": "光復分隊",
+   "place": "新竹市東區南外街",
+   "unit": "中山分隊",
    "status": "已到達",
    "state": "unknown"
   },
   {
    "seq": 4,
+   "receivedAt": "2026-11-25T23:35:05.000Z",
+   "category": "緊急救護",
+   "place": "新竹市香山區浸水街",
+   "unit": "竹光分隊",
+   "status": "送醫中",
+   "state": "unknown"
+  },
+  {
+   "seq": 5,
+   "receivedAt": "2026-11-25T23:30:50.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區經國路一段",
+   "unit": "光復分隊",
+   "status": "已到院",
+   "state": "unknown"
+  },
+  {
+   "seq": 6,
    "receivedAt": "2026-11-25T23:18:18.000Z",
    "category": "緊急救護",
    "place": "新竹市北區東大路三段",
@@ -41,7 +59,7 @@
    "state": "unknown"
   },
   {
-   "seq": 5,
+   "seq": 7,
    "receivedAt": "2026-11-25T23:09:51.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區中華路四段",
@@ -50,31 +68,22 @@
    "state": "unknown"
   },
   {
-   "seq": 6,
-   "receivedAt": "2026-11-25T23:02:48.000Z",
-   "category": "緊急救護",
-   "place": "新竹市東區中華路一段",
-   "unit": "三民分隊",
-   "status": "已到院",
-   "state": "unknown"
-  },
-  {
-   "seq": 7,
+   "seq": 8,
    "receivedAt": "2026-11-25T22:54:11.000Z",
    "category": "緊急救護",
    "place": "新竹市東區科學園路",
    "unit": "埔頂分隊",
-   "status": "已到院",
-   "state": "unknown"
+   "status": "返隊中",
+   "state": "returning"
   },
   {
-   "seq": 8,
+   "seq": 9,
    "receivedAt": "2026-11-25T22:46:13.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區東華路",
    "unit": "竹光分隊,香山分隊",
-   "status": "返隊中",
-   "state": "returning"
+   "status": "已返隊",
+   "state": "closed"
   }
  ]
 }
