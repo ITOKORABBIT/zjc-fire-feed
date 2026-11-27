@@ -1,38 +1,47 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-27T13:00:01.741Z",
- "count": 4,
+ "fetchedAt": "2026-11-27T13:10:01.685Z",
+ "count": 5,
  "items": [
   {
    "seq": 1,
-   "receivedAt": "2026-11-27T12:58:45.000Z",
-   "category": "火災",
-   "place": "新竹市東區中正路",
-   "unit": "三民分隊,中山分隊,光復分隊,竹光分隊",
-   "status": "已派遣",
+   "receivedAt": "2026-11-27T13:06:54.000Z",
+   "category": "緊急救護",
+   "place": "新竹市東區明湖路",
+   "unit": "香山分隊",
+   "status": "已出動",
    "state": "dispatched"
   },
   {
    "seq": 2,
+   "receivedAt": "2026-11-27T12:58:45.000Z",
+   "category": "火災",
+   "place": "新竹市東區中正路",
+   "unit": "三民分隊,中山分隊,光復分隊,竹光分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-11-27T12:52:22.000Z",
    "category": "緊急救護",
    "place": "新竹市東區東門街",
    "unit": "中山分隊",
-   "status": "已到達",
+   "status": "已到院",
    "state": "unknown"
   },
   {
-   "seq": 3,
+   "seq": 4,
    "receivedAt": "2026-11-27T12:38:05.000Z",
    "category": "火災",
    "place": "新竹市東區大學路",
    "unit": "光復分隊,埔頂分隊,明湖分隊,金山分隊",
-   "status": "返隊中",
-   "state": "returning"
+   "status": "已返隊",
+   "state": "closed"
   },
   {
-   "seq": 4,
+   "seq": 5,
    "receivedAt": "2026-11-27T11:40:41.000Z",
    "category": "緊急救護",
    "place": "新竹市東區東美路",
