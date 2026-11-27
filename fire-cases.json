@@ -1,11 +1,29 @@
 {
  "source": "新竹市消防局 即時案件",
  "sourceUrl": "https://119.hcfd.gov.tw/DTS/caselist/html",
- "fetchedAt": "2026-11-27T04:40:02.361Z",
- "count": 4,
+ "fetchedAt": "2026-11-27T04:50:02.574Z",
+ "count": 6,
  "items": [
   {
    "seq": 1,
+   "receivedAt": "2026-11-27T04:47:19.000Z",
+   "category": "緊急救護",
+   "place": "新竹市北區",
+   "unit": "三民分隊",
+   "status": "已出動",
+   "state": "dispatched"
+  },
+  {
+   "seq": 2,
+   "receivedAt": "2026-11-27T04:40:09.000Z",
+   "category": "緊急救護",
+   "place": "新竹市香山區頂埔路",
+   "unit": "香山分隊",
+   "status": "已到達",
+   "state": "unknown"
+  },
+  {
+   "seq": 3,
    "receivedAt": "2026-11-27T04:16:23.000Z",
    "category": "其他",
    "place": "新竹市香山區西濱路三段",
@@ -14,7 +32,7 @@
    "state": "dispatched"
   },
   {
-   "seq": 2,
+   "seq": 4,
    "receivedAt": "2026-11-27T03:38:20.000Z",
    "category": "緊急救護",
    "place": "新竹市東區田美三街",
@@ -23,7 +41,7 @@
    "state": "closed"
   },
   {
-   "seq": 3,
+   "seq": 5,
    "receivedAt": "2026-11-27T03:23:44.000Z",
    "category": "緊急救護",
    "place": "新竹市香山區中華路六段",
@@ -32,7 +50,7 @@
    "state": "returning"
   },
   {
-   "seq": 4,
+   "seq": 6,
    "receivedAt": "2026-11-27T02:57:29.000Z",
    "category": "其他",
    "place": "新竹市北區中華路一段",
